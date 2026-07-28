@@ -1,0 +1,629 @@
+? Excitable tissues include...
++ nervous, muscular, glandular
+- nervous, cartilaginous, connective
+- muscular, epithelial, glial
+- glandular, bone, collagen fibers
+- from the grooming, muscle, bone
+
+? Positive trace potential corresponds to ... .
++ hyperpolarization, decreased excitability
+- polarization, decreased excitability
+- repolarization, hyperpolarization
+- hyperpolarization, hypopolarization
+- polarization, increased excitability
+
+? In warm-blooded animals, the lability of the nerve, muscle, and synapse is respectively equal to ... .
++ 1000 300 100 imp/sec
+- 500 300 50 imp/sec
+- 600 200 1000 imp/sec
+- 400 100 70 imp/sec
+- 1000 100 200 imp/sec
+
+? If we increase the concentration of sodium in cell, then the membrane potential ...
++ will decrease until it disappears
+- will not change
+- will increase to a critical value
+- phase changes are noted, will decrease
+- its rapid fluctuations are noted
+
+? To contract a muscle, you need... .
++ Ca2+, ATP
+- Na+, K+, ATP
+- K+, Cl-, DNA
+- Cl-, Mg2+, DNA
+- Mg2+, Ca2+, ATP
+
+? Membrane depolarization occurs under the influence of ... .
++ acetylcholine, adrenaline
+- gamma-aminobutyric acid, glycine
+- light, adrenaline
+- atropine, acetylcholine
+- cholinesterase, serotonin
+
+? The action potential occurs... .
++ under the influence of a threshold stimulus with a single stimulus
+- under the influence of a subthreshold stimulus
+- when exposed to superthreshold and threshold pulse current
+- when exposed to a suprathreshold stimulus of any physical or chemical nature
+- when exposed to electromagnetic waves of any intensity
+
+? By passive transport of substances through a membrane we mean transport of... .
++ by concentration and electrochemical gradient
+- involving membrane channels and ATP
+- provided by ion pumps and energy donors
+- involving ATP and ion pumps
+- involving membrane channels and ion pumps
+
+? Ca2+, necessary for muscle contraction, accumulates ... .
++ in the sarcoplasmic reticulum, in the terminal cavities of the sarcoplasmic reticulum
+- in the cytoplasm, nucleus
+- in the nucleus and membrane of cells
+- in actin and myosin fibers
+- in ribosomes and mitochondria
+
+? The membrane potential is formed due to ... .
++ unequal membrane permeability for Na+ and K+ ions
+- lack of membrane permeability
+- permeability for Cl- and Mg2+ ions
+- membrane permeability to Ca2+ and Na+
+- membrane permeability for Cl- and Ca2+
+
+? Adequate stimuli of the nervous tissue are... .
++ electric, picks
+- electrical, osmotic
+- thermal, chemical
+- osmotic, electrical
+- magnetic
+
+? Muscle fatigue can be studied... .
++ ergograph, bicycle ergometer
+- oscilloscope, pneumograph
+- myograph, kymograph
+- pneumograph, oscillometer
+- electromyograph, electroencephalograph
+
+? Negative trace potential corresponds to ... .
++ residual membrane depolarization
+- hyperpolarization, polarization
+- hypopolarization, polarization
+- cessation of membrane permeability for Na+ and K+ ions
+- increasing permeability for Ca2+ ions
+
+? Physiological properties of smooth muscles ... .
++ excitability, conductivity, automaticity
+- high contraction speed and rapid fatigue, automaticity
+- high speed of excitation propagation and high frequency of contractions, conductivity
+- inability to perform single contractions, plasticity
+- are automatic and are not subject to the influence of the central nervous system
+
+? The transmission of excitation in synapses occurs... .
++ chemically and electrically
+- chemically and osmotically
+- electrically and thermally
+- by oncotic and chemical means
+- electrotonic and chemical means
+
+? Membrane hyperpolarization occurs under the influence of ... .
++ GABA, glycine
+- acetylcholine, adrenaline
+- acetylcholine, GABA
+- adrenaline, glycine
+- GABA, serotonin
+
+? The action potential corresponds to ... .
++ increasing permeability for Na+ and membrane depolarization
+- epolarization and hyperpolarization of the membrane
+- local change in permeability, local response
+- residual depolarization and negative trace potential
+- local change in membrane permeability and hyperpolarization
+
+? By local answer we mean... .
++ local non-spreading excitation under the influence of a subthreshold stimulus
+- change in permeability under the influence of suprathreshold and threshold stimuli
+- change in permeability under the influence of a single and pulsed stimulus
+- change in permeability under the influence of tissue irritation by current under the anode
+- change in membrane permeability upon stimulation with direct current under the cathode
+
+? Biopotentials of excitable tissues are recorded... .
++ galvanometer, oscilloscope
+- rheograph, sphygmograph
+- pneumograph, myograph
+- pulse tachometer, pulser
+- tonometer, pressure gauge
+
+? The phases of parabiosis occur in the following sequence... .
++ equalizing, paradoxical, inhibitory
+- braking, equalizing, paradoxical
+- paradoxical, equalizing, inhibitory
+- equalizing, braking, paradoxical
+- inhibitory, paradoxical, equalizing
+
+? When irritated by a subthreshold stimulus, the membrane potential of the cell... .
++ decreases
+- will increase
+- disappears
+- does not change
+- is transformed
+
+? The mediator in the neuromuscular synapse of skeletal muscles is ... .
++ acetylcholine
+- adrenaline
+- serotonin
+- glycine
+- GABA
+
+? During muscle contraction, myofibrils shorten due to... .
++ interactions of actin and myosin filaments
+- protein troponin
+- Ca++ ions
+- shortening of actin filaments only
+- shortening of only myosin filaments
+
+? Chronaxie is the shortest time during which the current ... .
++ voltage of two rheobases causes excitation
+- voltage in one rheobase causes excitation
+- threshold strength causes excitation
+- subthreshold force causes a decrease in membrane potential
+- voltage of three rheobases causes an action potential
+
+? Accommodation is a property of excitable tissue... .
++ increase the threshold of excitability with a slow increase in the strength of stimulation
+- lower the threshold of excitability by slowly increasing the strength
+- increase the speed of excitation conduction to the threshold strength of stimulation
+- lower the threshold of excitability to a suprathreshold stimulus
+- increase the threshold of excitability to immediate irritation
+
+? Smooth muscles are capable of... contraction.
++ tonic
+- tetanic
+- irradiation
+- phasic
+- spastic
+
+? Adequate stimuli of excitable tissues include... .
++ electric
+- temperature
+- chemical
+- mechanical
+- osmotic
+
+? Active transport of substances through a membrane is understood as transport ... .
++ involving membrane ion pumps and ATP
+- involving an energy donor
+- along the concentration gradient
+- by electric gradient
+- involving oxygen
+
+? The resting potential is created by the difference in the concentration of ions ... on the outer and ions ... on the inner surface of the membrane.
++ sodium potassium
+- sodium chloride
+- sodium magnesium
+- calcium chloride
+- magnesium calcium
+
+? Refractory is ... .
++ non-excitability to irritation at the moment of excitation
+- increased excitability at the moment of irritation
+- decreased excitability at the moment of irritation
+- increased excitability after arousal
+- decreased excitability after arousal
+
+? The irritation threshold is called ... .
++ minimum stimulus strength that causes arousal
+- maximum stimulus strength causing excitation
+- the strength of a stimulus that does not cause excitation
+- subthreshold strength of a stimulus that causes excitation upon repeated stimulation
+- the occurrence of excitation to a stimulus of any strength with a minimum stimulation time
+
+? By lability we mean... .
++ maximum frequency of tissue responses per unit of time
+- minimum frequency of tissue responses to irritations
+- tissue non-excitability at the moment of excitation
+- tissue response time when exposed to an impulse
+- slow increase in stimulus strength
+
+? Membrane potential is the charge difference between ... .
++ positive outer surface of the cell membrane and negative inner surface
+- positive inner surface of the cell membrane and negative outer surface
+- the father's inner surface of the cell membrane and the indifferent outer surface
+- negative outer surface of the cell membrane and indifferent inner
+- positive outer surface of the cell membrane and indifferent inner
+
+? Fatigue of the whole organism (according to Sechenov) occurs when... .
++ decreased excitability of nerve centers
+- reducing the amount of glucose in the blood
+- increase in metabolic products
+- decrease in the oxygen capacity of the blood
+- conduction disturbances along nerve fibers
+
+? The magnitude of the action potential with increasing stimulus strength obeys the "all or nothing" law, i.e. its amplitude...
++ does not change
+- increases
+- decreases
+- changes in phases
+- changes gradually
+
+? Muscle contraction is ensured by the penetration of free ions from the sarcoplasmic reticulum into the myofibril region... .
++ calcium
+- sodium
+- chlorine
+- phosphorus
+- potassium
+
+? Skeletal muscles ... .
++ promotes blood flow through the veins
+- hinders the movement of blood through the veins
+- does not affect the movement of blood through the veins
+- promotes backflow of blood
+- resists the flow of blood through the veins
+
+? Skeletal muscles are capable of ... contraction.
++ tetanic
+- tonic
+- single
+- phasic
+- spastic
+
+? The primary source of energy for muscle contraction is ... .
++ adenosine triphosphate
+- adenylate cyclase
+- creatine phosphate
+- glucose
+- glycogen
+
+? Calcium ions act as a trigger for muscle contraction by combining with... .
++ troponin
+- tropomyosin
+- actin
+- myosin
+- actomyosin
+
+? It is known that the excitation of a nerve or muscle can be caused by using various stimuli -- electrical, chemical, mechanical, etc. This is due to the fact that... .
++ each of these stimuli, regardless of nature, is capable of depolarizing the cell membrane
+- thermo-chemical transformations initiated by irritants
+- electrical activity of stimuli
+- physicochemical properties of irritants
+- high energy intensity of stimuli
+
+? The muscle is exposed to a rhythmic stimulus, first at intervals greater than 0.05 sec, then at intervals less than 0.05 sec. The myogram will record in both cases... .
++ serrated and smooth tetanus
+- single muscle contraction in both cases
+- isotonic and isometric contraction
+- isometric and isotonic contraction
+- smooth and serrated tetanus
+
+? Frequent irritation of the muscle, if each new irritation catches the muscle in the period of shortening, leads to the occurrence of... .
++ smooth tetanus
+- serrated tetanus
+- there will be no abbreviations
+- single muscle contraction
+- alternating summation with single reduction
+
+? After working in the cold for a long time without gloves, a maintenance worker's fingertips only felt a light touch and didn't react to a fairly strong needle prick. This is... the parabiosis phase.
++ paradoxical
+- normal
+- equalizing
+- brake
+- background reduction
+
+? Painful skin irritations are perceived:
++ free nerve endings
+- Krause flasks
+- Golgi-Mazzoni bodies
+- Meissner corpuscles
+- Ruffini bodies
+
+? The following have the greatest tactile sensitivity:
++ fingertips
+- tip of the nose
+- skin of the back of the hand
+- back skin
+- shin skin
+
+? Cold sensations are perceived by skin receptors called:
++ Krause flasks
+- Ruffini's corpuscles
+- Meissner's corpuscles
+- Vater-Pacini plate-like corpuscles
+- Golgi-Mazzoni bodies
+
+? Thermal sensations of the skin are perceived:
++ Golgi-Mazzoni bodies
+- free nerve endings
+- Meissner corpuscles
+- plate-shaped bodies of Vater-Pacini
+- Golgi-Mazzoni bodies
+
+? Cutaneous receptors of touch and pressure:
++ Meissner's and Pacinian corpuscles
+- Krause flasks
+- Ruffini's corpuscles
+- Golgi bodies
+- free nerve endings
+
+? The skin performs the following functions:
++ protective, excretory
+- protective, endocrine
+- excretory, nutritional
+- respiratory, nutritional
+- respiratory, sensory
+
+? The cold receptors of the skin are located
++ closer to the surface
+- lie deeper than thermal
+- in the hair follicle
+- braid the hair follicle
+- on the surface of skin capillaries
+
+? Thermal receptors of the skin are located
++ deeper than cold
+- closer to the surface
+- in the hair follicle
+- braid the hair follicle
+- on the surface of skin capillaries
+
+? Cold receptors:
++ much more than thermal
+- much less than thermal
+- much less than tactile
+- slightly more than painful
+- significantly more than tactile
+
+? Parabiosis is caused by inactivation of:
++ sodium channels
+- potassium channels
+- ATP
+- ADP
+- calcium channels
+
+? The equalizing (provisional) phase of parabiosis is ... .
++ the tissue or cell responses have the same value regardless of the strength of the stimulus
+- weak impulses lead to a strong response and vice versa
+- the tissue or cell does not respond to any stimulus
+- last phase
+- second phase
+
+? Paradoxical phase of parabiosis- ... .
++ weak impulses lead to a strong response and vice versa
+- the tissue or cell responses have the same value regardless of the strength of the stimulus
+- the tissue or cell does not respond to any stimulus
+- last phase
+- first phase
+
+? The inhibitory phase of parabiosis is ... .
++ the tissue or cell does not respond to any stimulus
+- the tissue or cell responses have the same value regardless of the strength of the stimulus
+- weak impulses lead to a strong response and vice versa
+- first phase
+- second phase
+
+? Biological significance of parabiosis- ... .
++ develops in a state of sleep
+- develops during the digestion process
+- stimulates cardiac activity
+- produces an immune response
+- restores damaged cells
+
+? Medical significance of parabiosis- ... .
++ basis of local anesthetic effect
+- basis of antibacterial therapy
+- basis of thermoregulation
+- the basis of action of antipyretics
+- enhances the effect of antibiotics
+
+? The difference in concentrations of sodium and potassium ions between the cytoplasm and extracellular fluid is a function
++ sodium-potassium pump
+- sodium selective channel
+- nonspecific sodium-potassium channel
+- membrane potential
+- independent sodium channel
+
+? Ions play a major role in the release of chemical synaptic mediators.
++ calcium
+- potassium
+- sodium
+- magnesium
+- chlorine
+
+? What happens to the resting potential (RP) if the concentration of potassium ions on both sides of the cell membrane is the same?
++ will not change
+- will decrease to zero
+- will increase significantly
+- will decrease slightly
+- will increase slightly
+
+? Excitable tissue includes:
++ Muscle tissue
+- Bone tissue
+- Connective tissue
+- Tendons
+- Cartilaginous tissue
+
+? How does excitability change during the ascending spike phase:
++ Absolute refractoriness
+- Secondary relative refractoriness
+- Significantly increases (exaltation)
+- Primary relative refractoriness
+- Slightly increases
+
+? Contraction of a muscle as a result of stimulation by a series of impulses, each of which falls into the relaxation phase of the previous one, is called:
++ Serrated tetanus
+- Smooth tetanus
+- Contracture
+- Pessimum
+- Single contraction
+
+? In an experiment, a skeletal muscle is stimulated by a series of electrical impulses. What type of muscle contraction will occur if each subsequent impulse occurs during the shortening period of a single muscle contraction?
++ Smooth tetanus
+- Serrated tetanus
+- Asynchronous tetanus
+- Series of single contractions
+- Muscle contracture
+
+? When a muscle is stimulated indirectly with a current of a certain frequency, it contracts; after switching to direct stimulation, no response is observed. Why is the muscle unable to contract at the specified stimulation rate after nerve inactivation?
++ muscle tissue is less labile than nervous tissue
+- the muscle has a higher excitation threshold compared to the nerve
+- muscle tissue is more labile compared to nervous tissue
+- the muscle has a lower excitation threshold compared to the nerve
+- in this case, the phenomenon of rhythm assimilation takes place
+
+? A microelectrode is applied to the surface of the muscle fiber membrane of a relaxed muscle, a second microelectrode is used to pierce the membrane, and the deflection of the oscilloscope needle is observed. The reason for the deflection of the oscilloscope needle is:
++ Potential difference between the inner and outer surfaces of the fiber membrane
+- Fiber excitation
+- Trace potentials
+- Two-phase electron current
+- Local response
+
+? The membrane of an excitable tissue cell is depolarized. Is it possible to elicit a response by applying an additional stimulus?
++ A response under these conditions is impossible
+- The response will be minimal
+- Possibly, but only to a suprathreshold stimulus
+- Perhaps the reaction will be maximum in this case
+- Even a subthreshold stimulus will trigger a response
+
+? It is known that stimulation of a nerve or muscle can be caused by using various stimuli -- electrical, chemical, mechanical, etc. What causes this fact?
++ Each of these stimuli, regardless of nature, is capable of depolarizing the cell membrane
+- Thermo-chemical transformations initiated by irritants
+- Electrical activity of stimuli
+- Physicochemical properties of irritants
+- High energy intensity of stimuli
+
+? As a result of the pathological process, a section of the nerve containing several nodes of Ranvier was damaged. Conduction of excitation ceased. Is it possible to restore fiber conductivity, and if so, how?
++ It can be done by removing the damaged area and connecting the two ends of the fiber.
+- By acting with a suprathreshold stimulus
+- It is possible, but it takes a long period of time for the nerve to regenerate.
+- It is possible to use another conductor
+- It is impossible to restore the fiber conductivity
+
+? Stale foods may contain the microbial toxin botulinum. Its effect on neuromuscular synapses is to remove calcium ions. Why can poisoning be fatal?
++ The elimination of calcium ions makes it impossible to transmit impulses to the muscle, which is accompanied by paralysis of the respiratory muscles
+- In the absence of calcium ions, the transition of PSP (post-synaptic potential) into EPSP is impossible
+- The absence of calcium ions makes it impossible to transmit excitation along the fibers
+- The absence of calcium ions makes muscle contraction impossible due to the impossibility of sliding of myosin filaments during the contraction process.
+- The absence of calcium ions makes muscle contraction impossible due to the inability of actin filaments to slide during contraction.
+
+? Increase in membrane potential:
++ Hyperpolarization
+- Repolarization
+- Exaltation
+- Polarization
+- Depolarization
+
+? What happens to the resting potential (RP) if the concentration of potassium ions on both sides of the cell membrane is the same?
++ will not change
+- will decrease to zero
+- will increase significantly
+- will decrease slightly
+- will increase slightly
+
+? Contraction of a muscle as a result of stimulation by a series of impulses, each of which falls into the relaxation phase of the previous one, is called:
++ Serrated tetanus
+- Smooth tetanus
+- Contracture
+- Pessimum
+- Single contraction
+
+? What is the main reason for the presence of MP and what is its size in the indicated cells?
++ the release of K+ ions from cells through the membrane, -60, -90 mV
+- the release of A- anions from cells (large protein ions), -60, -70 mV
+- entry of CL ions into the cell, -100, -150 mV
+- entry of Na+ ions into the cell, -20, -40 mV
+- uneven distribution of all ions between the outside and intracellular space, 0 -- 200 mV
+
+? When nerve and muscle cells are excited, a rapid shift of the MP in the positive direction occurs -- an action potential (AP). What causes the occurrence of AP and what is its magnitude in the indicated cells?
++ increasing the membrane permeability for Na+ ions, 90-120 mV
+- by increasing the membrane permeability for Cl- ions, 60-80 mV
+- increasing the membrane permeability for K+ ions, 30-50 mV
+- increasing the membrane permeability for all ions, +10-+30 mV
+- increasing the membrane permeability for A- ions, 90-120 mV
+
+? In what phase of the excitability curve does the tissue respond to subthreshold stimulation?
++ exaltation
+- initial excitability
+- relative refractoriness
+- subnormal excitability
+- absolute refractoriness
+
+? During depolarization of the cell membrane the following is observed:
++ absolute unexcitability (refractoriness)
+- increased excitability
+- normal excitability
+- relative refractoriness
+- subnormal excitability
+
+? What will frequent muscle irritation lead to if each new irritation catches the muscle in a shortening period? This results in:
++ smooth tetanus
+- serrated tetanus
+- there will be no reductions
+- single muscle contraction
+- alternating summation with single contraction
+
+? A muscle consists of fibers, the fibers are made up of myofibrils, and the myofilaments are made up of myofilaments. Which of the following structures shorten during contraction?
++ myofibrils
+- muscle fibers
+- muscle
+- myofilaments
+- myofibrils and myofilaments
+
+? The role of Ca+ ions in synaptic transmission:
++ promotes the transport of vesicles and the release of neurotransmitter into the synaptic cleft
+- interacts with a receptor on the postsynaptic membrane
+- interacts with the receptor of the postsynaptic membrane, increasing its K+ (Cl-) ions
+- interacts with the receptor of the presynaptic membrane, increasing permeability to Ca+ (Cl-) ions
+- promotes the synthesis of mediators
+
+? Heat production in muscles during heavy muscular work increases by
++ 400%
+- 10%
+- 20%
+- 50%
+- 80%
+
+? What type of contraction occurs when irritation is applied to a neuromuscular preparation with a current frequency of 10 Hz?
++ Single abbreviation
+- Smooth tetanus
+- Serrated tetanus
+- Auxotonic contraction
+- Isometric contraction
+
+? How will the length of disc A change during muscle contraction and why?
++ Does not change, since the length of the myosin filaments is constant
+- Decreases because actin filaments slide along myosin filaments
+- Increases because the myosin filaments stretch
+- Decreases because myosin filaments contract
+- Does not change, since the length of actin filaments is constant
+
+? Will the conductivity of the nerve fiber change when it is ligated?
++ Conductivity will disappear because the law of anatomical continuity is violated
+- Conductivity will not change, since the nerve impulse is able to jump over the bandaged area
+- Conductivity will not change, since excitation in the nerve fibers spreads in a somersault fashion
+- Conductivity will increase because the bandaged area will have increased excitability
+- Conductivity will disappear because ATP resynthesis is disrupted in the ligated area.
+
+? If the effect of the altering factor on the nerve fiber is eliminated, in what sequence will the phases of parabiosis occur?
++ Braking, paradoxical, equalizing
+- Equalizing, braking, paradoxical
+- Braking, equalizing, paradoxical
+- Equalizing, paradoxical, inhibitory
+- Paradoxical, inhibitory, equalizing
+
+? Thermal receptors of the skin are characterized by:
++ low speed of excitation conduction and deeper location in the skin
+- mechanical irritation
+- high speed of excitation conduction and superficial location
+- highest density on the back
+- lack of adaptability
+
+? The different speed of conduction of excitation in nerve fibers is due to:
++ Varying fiber thickness and the presence or absence of a myelin sheath
+- High lability of nerve fibers
+- Short period of absolute refractory period
+- Presence of a myelin sheath
+- Different lengths of nerve fibers
+
+? To record the electrical M-response of a muscle, the following technique is used:
++ Electromyography
+- Electrocardiography
+- Electrocardioencephaloscopy
+- Dynamometers
+- Myography
