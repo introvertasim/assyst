@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asim Assyst</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #f6f9fc;
+            font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem 1.5rem;
+        }
+
+        .container {
+            max-width: 720px;
+            width: 100%;
+            background: #ffffff;
+            border-radius: 2rem;
+            box-shadow: 0 20px 60px rgba(0, 20, 30, 0.08);
+            padding: 2.5rem 2.8rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #0b1a26;
+        }
+
+        .sub {
+            color: #4b5a6b;
+            font-size: 0.95rem;
+            margin-top: 0.3rem;
+            border-top: 1px solid #eef2f6;
+            padding-top: 0.7rem;
+            display: inline-block;
+        }
+
+        .page-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 0.9rem;
+        }
+
+        .page-btn {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: #fafcff;
+            border: 1px solid #e9edf2;
+            border-radius: 1.2rem;
+            padding: 1rem 1.4rem;
+            text-decoration: none;
+            color: #0b1a26;
+            transition: 0.2s ease;
+        }
+
+        .page-btn:hover {
+            background: #f2f7ff;
+            border-color: #c7d9f0;
+            transform: translateY(-2px);
+        }
+
+        .page-info {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .icon {
+            font-size: 1.6rem;
+            width: 2.2rem;
+            text-align: center;
+        }
+
+        .name {
+            font-weight: 600;
+            font-size: 1rem;
+        }
+
+        .arrow {
+            color: #1d4ed8;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 2rem;
+            text-align: center;
+            font-size: 0.8rem;
+            color: #7a8b9e;
+            border-top: 1px solid #eef2f6;
+            padding-top: 1.2rem;
+        }
+
+        @media (max-width: 540px) {
+            .container {
+                padding: 1.8rem 1.2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>📚 Asim Assyst</h1>
+        <div class="sub">Select a Year to continue</div>
+    </header>
+
+    <div class="page-grid">
+
+        <a href="1stYear.html" class="page-btn">
+            <span class="page-info">
+                <span class="icon">📄</span>
+                <span class="name">1st Year</span>
+            </span>
+            <span class="arrow">→</span>
+        </a>
+
+        <a href="2ndYear.html" class="page-btn">
+            <span class="page-info">
+                <span class="icon">🦴</span>
+                <span class="name">2nd Year</span>
+            </span>
+            <span class="arrow">→</span>
+        </a>
+
+    </div>
+
+    <footer>
+        📚 Asim Assyst · Study Resources
+    </footer>
+
+</div>
+
+</body>
+</html>
