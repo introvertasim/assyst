@@ -1,0 +1,2487 @@
+? A 70-year-old patient with Alzheimer's disease is undergoing an examination. Blood tests revealed: Glutamate level - 100 μmol/L (normal: 50-80 μmol/L). What pathological condition is associated with elevated glutamate concentrations?
++ excitotoxicity
+- depression
+- schizophrenia
+- Parkinson's disease
+- GABA hypoactivity
+
+? A 75-year-old patient is experiencing progressive deterioration of memory and cognitive function. Cerebrospinal fluid analysis revealed: Acetylcholine level - 40 ng/ml (normal: 80-120 ng/ml). What disease is associated with this deficiency?
++ Alzheimer's disease
+- schizophrenia
+- bipolar disorder
+- Parkinson's disease
+- depression
+
+? A 50-year-old patient with chronic depression was prescribed a monoamine oxidase (MAO) inhibitor. What is the effect of this drug?
++ reducing the destruction of serotonin
+- increased destruction of serotonin
+- decreased dopamine synthesis
+- increased GABA levels
+- acetylcholinesterase blockade
+
+? A 65-year-old patient complains of hand tremors, slowness of movement, and stiffness. Blood tests showed: L-DOPA level - 3 μmol/L (normal: 5-15 μmol/L) Dopamine level - 40 pmol/L (normal: 80-200 pmol/L) What metabolic disorder is most likely the cause of his condition?
++ dopamine deficiency
+- hyperproduction of serotonin
+- acetylcholine deficiency
+- excess glutamate
+- GABA deficiency
+
+? A 32-year-old patient is in the manic phase of bipolar disorder. Biochemical analysis showed: Norepinephrine level - 600 pg/ml (normal: 200-500 pg/ml) Dopamine level - 250 pmol/l (normal: 80-200 pmol/l) Which neurotransmitter plays a leading role in the manic state?
++ dopamine
+- GABA
+- serotonin
+- glutamate
+- acetylcholine
+
+? A child with attention deficit hyperactivity disorder (ADHD) was found to have decreased levels of norepinephrine in the synaptic cleft. Which enzyme might be underactive?
++ dopamine β-hydroxylase
+- monoamine oxidase (MAO)
+- tyrosinase
+- acetylcholinesterase
+- cytochrome oxidase
+
+? A patient with chronic alcohol dependence complains of decreased motivation and irritability. A biochemical analysis revealed: Dopamine level - 60 pmol/L (normal: 80-200 pmol/L). Which metabolic disorder is most likely associated with the addiction?
++ dopamine deficiency
+- serotonin hyperactivation
+- GABA deficiency
+- excess acetylcholine
+- glutamate hyperactivation
+
+? A 42-year-old patient complains of deteriorating vision in low-light conditions (night blindness). He works outdoors at night and notices that it is becoming increasingly difficult for him to see in the dark. Blood tests revealed decreased vitamin A levels. What biochemical disorder is associated with this condition?
++ deficiency of retinal, which is necessary for the synthesis of rhodopsin
+- decreased phosphodiesterase activity
+- disorder of phospholipid synthesis
+- increased serotonin levels in the retina
+- Krebs cycle disorder in retinal cells
+
+? A patient diagnosed with vitamin A deficiency complains of blurred vision at night, especially when moving from a bright light into a dark room. This symptom is associated with a metabolic disorder in the retinal rods. Which of the following is most likely?
++ Disruption of rhodopsin synthesis, which reduces light adaptation
+- Glucose deficiency, which prevents normal activation of photoreceptors
+- Lack of oxygen, which leads to a decrease in cGMP activity
+- Increased glutamate activity in response to light stimulation
+- Decreased phospholipid levels, which disrupts the function of cell membranes
+
+? A 30-year-old patient complains of difficulty distinguishing colors, especially red and green. He has discovered that he has difficulty perceiving these colors in low light. Which retinal cells are responsible for color perception, and what disorder could be causing this condition?
++ cones with impaired rhodopsin synthesis in response to light stimulation
+- rods, their function is impaired due to a deficiency of vitamin A
+- ganglion cells damaged by a mutation in the RHO gene
+- alacrine cells whose function is impaired due to glucose deficiency
+- photoreceptor cells damaged by oxidative stress
+
+? Which enzyme is responsible for the destruction of dopamine in the synaptic cleft?
++ monoamine oxidase
+- tyrosine hydroxylase
+- DOPA decarboxylase
+- catechol-O-methyltransferase
+- glutamate decarboxylase
+
+? A 50-year-old patient with a long history of smoking complains of deteriorating vision and difficulty perceiving objects in low-light conditions. Studies have shown increased levels of free radicals in retinal cells. What biochemical disorder may be associated with this condition?
++ Rhodopsin damage due to oxidative stress
+- decreased retinal synthesis due to vitamin A deficiency
+- cyclooxygenase activation and retinal inflammation
+- accumulation of toxic glutamate metabolism products
+- increased calcium levels in retinal cells
+
+? A 60-year-old patient reports a gradual decline in vision in bright sunlight. He also experiences difficulty adapting to darkness. What biochemical reaction occurs in the rods when activated by light?
++ degradation of rhodopsin with a change in the configuration of retinal
+- increased levels of cGMP in retinal cells
+- increase in phosphodiesterase activity in the dark
+- decreased calcium concentration in retinal cells
+- activation of serotonin receptors
+
+? A 40-year-old patient with retinitis pigmentosa complains of gradual deterioration of night vision and visual field narrowing. A mutation in the RHO gene leads to degeneration of the retinal rods. What disorder could cause these symptoms?
++ disruption of rhodopsin synthesis in response to light stimulation
+- increase in glutamate concentration in response to light activation
+- retinal deficiency, which prevents the rods from functioning normally
+- damage to the retinal cones responsible for color vision
+- excessive activation of phospholipase C
+
+? A 55-year-old patient diagnosed with cataracts complains of blurred vision in bright light. What mechanism in retinal cells may be associated with this condition?
++ Rhodopsin degradation and impaired light adaptation
+- disruption of cGMP synthesis in the dark
+- decreased activity of calcium channels in rods
+- excessive activation of glutamate in response to light
+- increased serotonin levels in the retina
+
+? A patient with chronic vitamin A deficiency complains of difficulty adapting his vision to darkness. What is the biochemical problem?
++ inability to convert 11-cis-retinal to trans-retinal
+- decreased synthesis of acetylcholine in retinal cells
+- increased levels of phospholipases in the retina
+- excess cGMP, which disrupts adaptation processes
+- lack of glucose in photoreceptors
+
+? A patient with progressive retinal rod dysfunction complains of deteriorating vision in low-light conditions. Which of the following processes is impaired in retinal cells?
++ decreased rhodopsin synthesis due to vitamin A deficiency
+- increased serotonin levels in response to light
+- dysfunction of cones in response to oxidative stress
+- increased calcium concentration in retinal cells
+- activation of phospholipase C
+
+? A 58-year-old patient was admitted to the hospital in a state of confusion, weakness, and tremors in the limbs. Blood test: Glucose – 2.4 mmol/l (normal: 3.3–5.5 mmol/l). Which compound could serve as an alternative energy source for neurons in conditions of hypoglycemia?
++ ketone bodies
+- lactate
+- fatty acids
+- amino acids
+- glycogen
+
+? A 65-year-old patient presents with hand tremors, muscle rigidity, and slow movements. Biochemical testing revealed decreased dopamine levels in the substantia nigra of the brain. What is the most likely diagnosis?
++ Parkinson's disease
+- Alzheimer's disease
+- bipolar disorder
+- epilepsy
+- hypoxic encephalopathy
+
+? A 38-year-old woman complains of constant fatigue, depression, and anxiety. A cerebrospinal fluid analysis revealed low serotonin levels. What medications are used to treat this condition?
++ monoamine oxidase inhibitors (MAOIs)
+- acetylcholinesterase inhibitors
+- NMDA receptor antagonists
+- calcium channel blockers
+- glutamate decarboxylase inhibitors
+
+? A patient with epilepsy received a drug that blocks the binding of a neurotransmitter to ionotropic receptors. Which neurotransmitter was most likely blocked?
++ glutamate
+- GABA
+- acetylcholine
+- norepinephrine
+- serotonin
+
+? During examination of a patient with a hereditary muscle disease, a mutation was discovered that leads to a disruption of the sodium channels of neurons. What is the likely consequence?
++ nerve impulse transmission disorder
+- hyperactivity of the sodium-potassium pump
+- increased production of acetylcholine
+- blockade of glutamate release
+- decreased serotonin levels
+
+? A patient with mitochondrial pathology exhibits severe muscle weakness, cognitive impairment, and fatigue. What role do mitochondria play in neurons?
++ provide energy to maintain the resting potential
+- synthesize glutamate
+- are involved in the inactivation of neurotransmitters
+- regulate the secretion of acetylcholine
+- activate NMDA receptors
+
+? A patient with ischemic stroke experienced a disruption in energy metabolism in neurons. What is the main factor leading to cell death in the ischemic zone?
++ hyperactivation of glutamate receptors
+- excessive production of serotonin
+- decrease in GABA concentration
+- decreased acetylcholinesterase activity
+- dopamine deficiency
+
+? A 55-year-old patient with chronic stress complains of memory and concentration impairment. Blood tests show elevated cortisol levels. What abnormality in nerve cell biochemistry could be associated with his condition?
++ decreased ATP production, which impairs synaptic transmission
+- increased phospholipase C activity in neurons
+- malfunction of Na+/K+ pumps
+- decreased activity of GABA receptors
+- increased glutamate levels leading to neurotoxicity plaques
+
+? A patient with suspected acute coronary syndrome had his lactate dehydrogenase (LDH) level measured. Why is this indicator important?
++ increased LDH is associated with damage to myocardial cells
+- LDH reflects kidney function
+- LDH indicates blood clotting disorders
+- LDH is involved in protein synthesis
+- LDH indicates an increase in osmotic pressure
+
+? The patient is experiencing shortness of breath and impaired gas exchange. Blood tests revealed a decrease in hemoglobin's oxygen-binding capacity. What factor could be causing this condition?
++ decreased blood pH (acidosis)
+- increasing oxygen levels in tissues
+- decrease in body temperature
+- increased glucose concentration
+- inhibition of the Krebs cycle
+
+? A patient was admitted to the hospital with suspected tissue respiration disorder. What cellular process is most likely disrupted in this condition?
++ electron transport chain (ETC)
+- glycogen synthesis
+- anaerobic glycolysis
+- protein breakdown
+- sodium transport across membranes
+
+? Gas exchange occurs actively in lung tissue. What role does hemoglobin play in this process?
++ binds carbon dioxide to form carbaminohemoglobin
+- participates in the synthesis of ATP
+- regulates the pH level in blood plasma
+- prevents oxygen from binding to cells
+- speeds up the Krebs cycle
+
+? The patient was found to have decreased hemoglobin oxygen saturation despite normal ambient oxygen levels. What factor most likely contributed to this condition?
++ increased concentration of 2,3-bisphosphoglycerate (2,3-BPG) in erythrocytes
+- increased blood pH (alkalosis)
+- decrease in body temperature
+- increased blood glucose levels
+- urea cycle disorder
+
+? During physical exercise, a person's body temperature increases and blood pH decreases. How does this affect oxygen binding to hemoglobin?
++ oxygen binding will decrease
+- oxygen binding will increase
+- carbon dioxide will stop binding to hemoglobin
+- hemoglobin synthesis will increase
+- oxygen transport to tissues will increase due to the suppression of the central nervous system
+
+? A patient with heart failure presents with lower extremity edema. What abnormal oncotic pressure most likely underlies this condition?
++ decrease in plasma albumin levels
+- increased sodium concentration in the intercellular fluid
+- increased platelet count
+- increased blood glucose levels
+- decrease in plasma potassium levels
+
+? A patient with coronary artery disease is recommended to increase his amino acid intake. What role do proteins play in maintaining myocardial function?
++ provide structural support and participate in myocardial contraction
+- participate in the transport of oxygen
+- regulate the synthesis of fatty acids
+- increase osmotic pressure in cells
+- accelerate the synthesis of vitamins
+
+? The patient has decreased globulin levels in the blood. How might this affect oncotic pressure?
++ oncotic pressure will decrease
+- oncotic pressure will increase
+- osmotic pressure will remain unchanged
+- plasma sodium levels will increase
+- protein synthesis will accelerate
+
+? Studies of myocardial metabolism have revealed that fatty acids are the primary energy source. Which process provides the majority of ATP for cardiomyocytes?
++ oxidation of fatty acids in mitochondria
+- glycolysis
+- protein breakdown
+- glycogen synthesis
+- anaerobic respiration
+
+? A patient with hypoalbuminemia exhibits peripheral edema. What property of albumin ensures its key role in maintaining oncotic pressure?
++ high plasma concentration
+- ability to bind oxygen
+- presence of enzymatic activity
+- Potassium level regulation
+- ability to increase blood viscosity
+
+? A patient with a myocardial biochemical disorder exhibits decreased activity of Krebs cycle enzymes. How will this affect energy metabolism in the heart muscle?
++ energy production will decrease
+- ATP synthesis will increase
+- the accumulation of lactic acid will increase
+- protein breakdown will increase
+- the process of oxidative phosphorylation will accelerate
+
+? A patient with acute heart failure has elevated levels of acute phase proteins. What impact might this have on biochemical processes in blood vessels?
++ Increased oncotic pressure
+- Reducing vascular permeability
+- Increased albumin synthesis
+- Inhibition of fatty acid transport
+- Decreased blood troponin levels
+
+? A patient with suspected myocardial infarction has had their troponin I level measured. What is the clinical significance of this indicator?
++ indicates myocardial damage
+- reflects kidney function
+- reflects the level of glucose in the blood
+- is an indicator of blood clotting
+- indicates a lipid metabolism disorder
+
+? A patient with severe chest pain developed elevated creatine kinase-MB (CK-MB) levels. What role does this enzyme play in diagnosis?
++ associated with damage to the heart muscle
+- indicates liver damage
+- reflects the level of carbon dioxide in the blood
+- regulates sodium levels in cells
+- associated with renal enzyme activity
+
+? A patient was admitted to the hospital with a suspected myocardial infarction. Which enzyme would be the most specific marker of heart muscle damage?
++ troponin T
+- amylase
+- lactate dehydrogenase (LDH)
+- alkaline phosphatase
+- alanine aminotransferase (ALT)
+
+? In myocardial cells, oxygen deprivation causes a decrease in ATP synthesis. Which process becomes the primary source of energy?
++ anaerobic glycolysis
+- fatty acid oxidation
+- oxidative phosphorylation
+- protein synthesis
+- calcium ion transport
+
+? A patient with myocardial ischemia exhibits lactate accumulation in cardiomyocytes. What process leads to this?
++ increased anaerobic glycolysis
+- increased fatty acid oxidation
+- inhibition of protein synthesis
+- increasing the Krebs cycle
+- decreased activity of CPE enzymes
+
+? A patient's blood showed elevated myoglobin levels after a chest injury. Why is myoglobin used as an early marker of myocardial damage?
++ its level increases rapidly when muscles are damaged
+- it is specific only to cardiac tissue
+- it reflects the activity of the Krebs cycle
+- is the main carrier of oxygen in the blood
+- a decrease in its level is associated with hypoxemia
+
+? A patient with chronic heart failure has elevated natriuretic peptide levels. What role do they play in diagnosis?
++ are volume overload markers
+- indicate a decrease in kidney function
+- associated with the redistribution of calcium in cells
+- reflect the level of glucose in the blood
+- indicate damage to skeletal muscles
+
+? A newborn with respiratory failure was found to have insufficient surfactant production. What function does surfactant serve in the lungs?
++ reduces surface tension in the alveoli
+- increases the concentration of oxygen in the blood
+- reduces osmotic pressure in tissues
+- accelerates glycogen synthesis
+- Provides transport of carbon dioxide
+
+? A patient with chronic lung disease has impaired phospholipid synthesis. How might this affect surfactant function?
++ the reduction in surface tension will decrease
+- the alveoli's resistance to collapse will increase
+- the rate of carbon dioxide exchange will increase
+- the activity of respiratory enzymes will decrease
+- oxygen transport to tissues will increase
+
+? Which component of surfactant provides its structural stability and functionality?
++ phospholipids
+- proteins and polysaccharides
+- glucose
+- nucleotides
+- amino acids
+
+? A patient with hypoxia exhibits impaired energy processes in the alveolar cells. Which process will be primarily impaired?
++ synthesis of surfactant phospholipids
+- carbon dioxide transport
+- anaerobic glycolysis
+- plasma protein synthesis
+- amino acid breakdown
+
+? A patient with respiratory failure has decreased surfactant levels. How will this affect breathing?
++ the risk of alveolar collapse will increase
+- the volume of pulmonary ventilation will decrease
+- the process of gas exchange will accelerate
+- the concentration of oxygen in the alveoli will increase
+- osmotic pressure in lung tissue will decrease
+
+? A newborn with respiratory distress syndrome was given exogenous surfactant. How will this affect breathing?
++ the surface tension in the alveoli will decrease
+- the production of endogenous surfactant will increase
+- carbon dioxide transport will accelerate
+- osmotic pressure in the lung tissue will increase
+- The synthesis of proteins in blood plasma will increase
+
+? Laboratory tests revealed decreased levels of specific surfactant proteins. How will this affect lung function?
++ the resistance of the alveoli to collapse will decrease
+- the risk of inflammation of the lung tissue will increase
+- oxygen transport will increase
+- the volume of breathing air will increase
+- the energy level in the mitochondria will increase
+
+? A patient with chronic hypoxia has exhibited changes in hemoglobin levels. What is the primary role of hemoglobin in respiration?
++ provides transport of oxygen and carbon dioxide
+- accelerates the transport of glucose into the cell
+- participates in the synthesis of ATP
+- regulates blood plasma pH
+- catalyzes the breakdown of lipids
+
+? During physical exertion, body temperature rises. How does this affect oxygen binding to hemoglobin?
++ decreases the affinity of hemoglobin for oxygen
+- increases the affinity of hemoglobin for oxygen
+- accelerates the transport of carbon dioxide
+- increases phospholipid synthesis
+- reduces hemoglobin levels in the blood
+
+? In metabolic acidosis, blood pH decreases. How does this affect oxygen binding to hemoglobin?
++ the affinity of hemoglobin for oxygen decreases
+- the affinity of hemoglobin for oxygen increases
+- carbon dioxide transport slows down
+- lactate production increases
+- glycogen synthesis is enhanced
+
+? What biochemical processes occur in the lungs during gas exchange?
++ diffusion of oxygen into the blood and carbon dioxide into the alveoli
+- synthesis of carbon dioxide from oxygen
+- hydrolysis of carbohydrates in the alveoli
+- protein breakdown with energy release
+- transport of sodium ions across alveolar membranes
+
+? A patient with impaired tissue respiration was found to have decreased electron transport chain activity. How will this affect metabolism?
++ ATP synthesis will decrease
+- ATP production will increase
+- the process of glycolysis will accelerate
+- oxygen transport will increase
+- the pH level in the cells will increase
+
+? Which factor most strongly influences the efficiency of oxidative phosphorylation in lung mitochondria?
++ oxygen availability to cells
+- carbon dioxide concentration in the blood
+- hemoglobin level
+- glycogen content in the alveoli
+- activity of lysosomal enzymes
+
+? An athlete experiences increased tissue respiration during intense training. What contributes to this increase?
++ increased activity of CPE enzymes
+- increase in the level of carbon dioxide in the blood
+- decrease in body temperature
+- increasing oxygen concentration in tissues
+- decrease in blood circulation rate
+
+? A patient with hypoxia has impaired oxygen transport to tissues. Which component of the respiratory system is key to effective gas exchange?
++ hemoglobin
+- surfactant phospholipids
+- blood plasma proteins
+- sodium ions
+- liver glycogen
+
+? During a myocardial infarction, enzymatic activity increases. To which enzyme is this condition attributed?
++ aspartate aminotransferase
+- valine aminotransferases
+- alanine aminotransferase
+- histidine aminotransferase
+- serine aminotransferases
+
+? A patient with a myocardial infarction is prescribed riboxin (inosine) to further his recovery during the rehabilitation period. What substances is riboxin a metabolite of?
++ purine nucleotides
+- ketone bodies
+- pyrimidine nucleotides
+- pentoses
+- lipoproteins
+
+? A patient with cardiac muscle pathology was admitted to the hospital. What enzyme activity should be determined for diagnostic and prognostic purposes?
++ creatine phosphokinase, AlAt, AsAt
+- arginases, peptidases, phosphatases
+- glucokinase, citrate synthetase, aldolase
+- neuraminidase, hexokinase, pyruvate kinase
+- enolases, glycerate kinases lipases
+
+? The patient complained of a decreased heart rate, lethargy, drowsiness, cold intolerance, and dry skin. Which hormone deficiency causes these symptoms?
++ triiodothyronine and thyroxine
+- cortisol and corticoliberin
+- somatoliberin and thyrotropin-releasing hormone
+- gonadotropin-releasing hormone and thyroxine
+- corticoliberin and triiodothyronine
+
+? A 60-year-old man complains of increased appetite with obvious weight loss, weakness, and rapid heartbeat. An examination revealed hyperthyroidism. What is the cause of this patient's physical weakness?
++ uncoupling of biological oxidation and oxidative phosphorylation
+- lack of substrate
+- increased ATP synthesis
+- decrease in the amount of ADP
+- inhibition of the rate of oxidation-reduction reactions
+
+? To prevent thrombosis and thromboembolism after a myocardial infarction, a doctor prescribed warfarin and recommended a diet excluding foods rich in vitamin K (cabbage, spinach, lettuce, green tea) for the duration of treatment. What function does vitamin K perform in this case?
++ is a coenzyme of gamma-glutamyl carboxylase
+- is a coenzyme of NADH-dependent vitamin K reductase
+- is an inhibitor of NADH-dependent vitamin K reductase
+- is a coenzyme of NADH oxidase
+- is a gamma-glutamyl carboxylase inhibitor
+
+? The patient complained of increased heart rate, muscle weakness, weight loss (despite an increased appetite), sweating, increased body temperature, tremors, and exophthalmos. With increased concentrations of which hormones do these symptoms develop?
++ triiodothyronine and thyroxine
+- corticoliberin and triiodothyronine
+- gonadotropin-releasing hormone and thyroxine
+- somatoliberin and thyrotropin-releasing hormone
+- cortisol and corticoliberin
+
+? A distinctive feature of myocardial bioenergetics is that energy production in the form of ATP molecules occurs exclusively through oxidative phosphorylation reactions. During myocardial infarction, which enzyme's serum activity increases most?
++ creatine kinase
+- lactate dehydrogenase 5
+- cholinesterase
+- alpha-amylase
+- alkaline phosphatase
+
+? A blood test revealed hyponatremia in a patient. What is the cause of this disease?
++ deficiency of aldosterone and vasopressin
+- vasopressin deficiency
+- deficiency of cortisol and vasopressin
+- excess cortisol
+- excess aldosterone
+
+? Hormones help maintain normal sodium and potassium metabolism. Which hormone regulates sodium and potassium metabolism?
++ aldosterone
+- thyroxine
+- parathyroid hormone
+- insulin
+- glucagon
+
+? The renin-angiotensin-aldosterone system plays a major role in regulating water-salt metabolism. The renin-angiotensin system regulates the secretion of which hormone?
++ aldosterone
+- progesterone
+- oxytocin
+- melanotropin
+- adrenocorticotropin
+
+? Water-soluble vitamins participate in metabolism. Vitamin B2 is a component of which coenzyme?
++ flavin adenine dinucleotide
+- pyridoxal phosphate
+- biotin
+- nicotinamide adenine dinucleotide
+- thiamine pyrophosphate
+
+? During the transfer of electrons along the respiratory chain, an electrochemical potential is generated, the energy of which is used in ATP biosynthesis via oxidative phosphorylation. What are the primary electron acceptors in the respiratory chain?
++ FMN or ubiquinone
+- NAD or FMN
+- FAD or cytochrome oxidase
+- NADH2 or FADH2
+- NAD or cytochrome oxidase
+
+? Oxidative reactions produce energy sources for oxidative phosphorylation. Which of the following is not an oxidative reaction?
++ CO2 emission
+- hydrogen transfer
+- splitting off of electrons and protons
+- oxygen addition
+- loss of electrons
+
+? A cell is formed from organelles. In which organelle is cytochrome oxidase localized?
++ mitochondria
+- kernel
+- ribosome
+- Golgi apparatus
+- cytoplasm
+
+? The Krebs cycle involves 8 reactions. What is the substrate phosphorylation reaction in the Krebs cycle?
++ succinyl-CoA → succinate
+- citrate → isocitrate
+- α-ketoglutarate → succinyl-CoA
+- fumarate → malate
+- malate → oxaloacetate
+
+? The human body's energy supply occurs primarily through aerobic and anaerobic glycolysis. What is a glucose derivative formed as an intermediate product in the process of glycolysis?
++ fructose-1,6-diphosphate
+- glucuronic acid
+- sorbitol
+- 2-aminoglucose
+- glucaric acid
+
+? Oxidative decarboxylation of pyruvate produces acetyl-CoA and NADH2, which are used as an energy source under aerobic conditions. Which vitamin is involved in the decarboxylation of pyruvic acid?
++ thiamine
+- pyridoxine
+- niacin
+- riboflavin
+- pantothenic acid
+
+? The enzymes of the respiratory chain are localized in the inner membrane of mitochondria. As a result of what, endogenous water is formed?
++ biological oxidation and oxidative phosphorylation
+- glycogen amylolysis
+- deamination of biogenic amines in various tissues
+- glycogen phosphorylosis
+- deamination of amino acids
+
+? Surfactant is an extracellular lipid layer with a small amount of hydrophobic proteins that lines the surface of the pulmonary alveoli and prevents the alveolar walls from adhering during exhalation. What are the main components of surfactant?
++ dipalmitoylphosphatidylcholine
+- phosphatidylserine
+- phosphatidylethanolamine
+- phosphatidylinositol
+- phosphatidylglycine
+
+? Dipalmitoylphosphatidylcholine synthesis in type II pneumocytes occurs during embryonic development and increases sharply between 32 and 36 weeks of gestation. What is the phosphatidylcholine/sphingomyelin ratio? It is an important indicator of normal surfactant formation.
++ phosphatidylcholine/sphingomeline > 4
+- phosphatidylcholine/sphingomeline > 3
+- phosphatidylcholine/sphingomeline > 2
+- phosphatidylcholine/sphingomeline > 1
+- phosphatidylcholine/sphingomeline < 3
+
+? With the participation of the pyruvate dehydrogenase complex, oxidative decarboxylation of pyruvate occurs. What inhibits the activity of the pyruvate dehydrogenase complex?
++ acetyl-CoA
+- ADP
+- NADP
+- AMP
+- FAD
+
+? In the Krebs cycle, with the participation of 8 reactions, 3 are formed from acetylNADH2 and FADH2. Under what condition does the rate of reactions in the Krebs cycle decrease?
++ increasing the concentration of ATP
+- increasing the concentration of ADP
+- the effect of force on muscles
+- increasing the concentration of NAD+
+- increasing the concentration of Ca+
+
+? PH constancy is maintained by buffering systems in the extracellular fluid, changes in pulmonary ventilation, and the rate of neutralization and excretion of acids by the kidneys. The acid-base balance can fluctuate between acidic and alkaline, resulting in alkalosis and acidosis. When is respiratory alkalosis observed?
++ with hyperventilation of the lungs
+- with hypoventilation of the lungs
+- for diabetes mellitus
+- hypoglycemia
+- for diabetes insipidus
+
+? Synaptic vesicles containing acetylcholine fuse with the presynaptic membrane and their contents are released into the synaptic cleft. What ions are involved in this process?
++ Ca++
+- Na+
+- K+
+- H+
+- Ba++
+
+? Catecholamines act on target cells through receptors located in the plasma membrane. There are two main classes of such receptors: α-adrenergic and β-adrenergic. Which adrenergic receptor is involved in the excitation and contraction of vascular smooth muscle?
++ α1-receptor
+- β1 receptor
+- α2-receptor
+- β2-receptor
+- γ-receptor
+
+? The biological effects of adrenaline and norepinephrine affect virtually all bodily functions. Which adrenoreceptor stimulates cardiac contraction and smooth muscle of the gastrointestinal tract?
++ β1 receptor
+- α1-receptor
+- γ-receptor
+- β2-receptor
+- α2-receptor
+
+? A child exhibits mental retardation, hyperkeratosis of the palms and heels, and clinical manifestations of corneal clouding, leading the doctor to suspect the development of tyrosinemia. A deficiency of which enzyme leads to this pathology?
++ tyrosine aminotransferases
+- lysine aminotransferase
+- arginine aminotransferase
+- serine aminotransferases
+- alanine aminotransferase
+
+? PH constancy is maintained by buffering systems in the extracellular fluid, changes in pulmonary ventilation, and the rate of neutralization and excretion of acids by the kidneys. The acid-base balance can fluctuate between acidic and alkaline, resulting in acidosis and alkalosis. When is respiratory acidosis observed?
++ in febrile conditions
+- with diabetes mellitus
+- hyperventilation of the lungs
+- for hypoglycemia
+- for diabetes insipidus
+
+? During beta oxidation of fatty acids, acetyl coenzyme A, NADH2, FADH2, and energy are formed, which are used in tissue respiration and ATP biosynthesis. What does not use the energy released during fatty acid oxidation?
++ brain
+- kidneys
+- myocardium
+- muscles
+- liver
+
+? Potassium cyanide is a poisonous substance that causes sudden death. What effect does potassium cyanide have on mitochondria?
++ cytochrome oxidase
+- NAD+-dependent dehydrogenases
+- flavin enzymes
+- cytochrome-P-450
+- cytochrome B5
+
+? Insufficient surfactant formation in premature infants after birth leads to the development of respiratory distress syndrome. What phosphatidylcholine/sphingomyelin ratio indicates a high risk of developing respiratory distress syndrome?
++ phosphatidylcholine/sphingomyelin < 2
+- phosphatidylcholine/sphingomyelin < 3
+- phosphatidylcholine/sphingomyelin < 4
+- phosphatidylcholine/sphingomyelin < 5
+- phosphatidylcholine/sphingomyelin < 6
+
+? If necessary, treatment of pregnant women with medications stimulates surfactant synthesis in the fetal lungs and reduces the risk of developing respiratory distress syndrome. What is used to treat this condition?
++ corticosteroids
+- catecholamines
+
+? During periods of intense muscular work, blood lactate concentrations increase. During the subsequent period of rest, blood lactate concentrations decrease. How does lactate undergo conversion in the liver during the recovery period after intense muscular work?
++ gluconeogenesis
+- glycolysis
+- glycogenogenesis
+- glycogenolysis
+- oxidation
+
+? Ketone bodies are highly water-soluble acids, so they easily penetrate the blood-brain barrier and, like glucose, serve as a source of energy for nervous tissue. What is the danger of hyperketonemia?
++ development of acidosis
+- development of alkalosis
+- activation of mitochondrial enzymes
+- hydration
+- activation of lipogenesis enzymes
+
+? A doctor prescribed the drug ferro-folgamma, which contains ascorbic acid, ferrous sulfate, folic acid, and vitamin B12, to a patient suffering from iron deficiency anemia. What role does ascorbic acid play in this case?
++ improves iron absorption
+- impairs iron absorption
+- deposits iron
+- improves the binding of iron to gamma globulins
+- forms an insoluble complex with iron
+
+? A child has unclosed cranial fontanelles, delayed dental development, poor sleep, and poor appetite. A deficiency of which vitamin causes hypovitaminosis?
++ cholecalciferol
+- riboflavin
+- nicotinamide
+- ascorbic acid
+- retinol
+
+? The patient has heart pain, memory loss, and calf pain when walking. What disease causes these symptoms?
++ beriberi
+- anemia
+- rickets
+- seborrhea
+- scurvy
+
+? A patient has dry, cracked skin, and damage to the intestinal mucosa, genitourinary tract, and respiratory tract. What vitamin deficiency causes these symptoms?
++ A
+- K
+- C
+- D
+- E
+
+? A patient is experiencing developing atherosclerosis, cancer, and immune pathologies. Which enzyme dysfunction is most prominent in this patient?
++ Ca2+-ATPase
+- Mg2+-ATPase
+- H+-ATPase
+- methyltransferases
+- Na+, K+-ATPases
+
+? A patient consulted a doctor complaining of general weakness and sudden weight loss. Testing revealed elevated homocysteine levels in the patient's blood and urine. A deficiency of which enzyme leads to this condition?
++ methionine synthase
+- citrate synthase
+- palmitate synthase
+- succinate synthase
+- glutamine synthetase
+
+? A doctor referred a patient with early-stage muscular dystrophy to a biochemistry lab for blood tests to confirm the diagnosis. In this case, the activity of which enzyme is elevated in the blood?
++ creatine kinase
+- alanine aminotransferase
+- collagenase
+- hyaluronidase
+- glutaminase
+
+? Frequent bone fractures, increased calcium and phosphate levels in the blood, and calcification of the kidneys, blood vessels, and lungs were observed. Hypervitaminosis of which vitamin causes these symptoms?
++ D
+- H
+- K
+- A
+- B12
+
+? The patient experienced a sharp loss of appetite, decreased secretion of gastric juice and hydrochloric acid, severe pain along nerves, and cramps. Which vitamin deficiency causes these symptoms?
++ thiamine
+- riboflavin
+- nicotinamide
+- cobalamin
+- biotin
+
+? A patient has mucous membrane disorders, degenerative changes in the adrenal glands, changes in the nervous system, heart, and kidneys, and graying hair. Which vitamin deficiency causes these disorders?
++ pantothenic acid
+- nicotinic acid
+- ascorbic acid
+- thiamine
+- naphthoquinone
+
+? A patient experienced skin inflammation, nail lesions, hair loss, increased sebum production, muscle pain, fatigue, and depression. Which vitamin deficiency causes these symptoms?
++ biotin
+- riboflavin
+- thiamine
+- cobalamin
+- pridoxine
+
+? A 4-year-old boy has decreased ability to perform physical work. A muscle biopsy revealed that the carnitine concentration in the tissue was four times lower than normal. Fat vacuoles were found in the muscle cell cytosol. What are the possible causes of this condition?
++ insufficient supply of activated fatty acids to the mitochondria
+- excessive supply of activated fatty acids to the mitochondria
+- insufficient supply of non-activated fatty acids to the mitochondria
+- excessive supply of non-activated fatty acids to the mitochondria
+- absence of fatty acids in tissue mitochondria
+
+? Aspirin is prescribed prophylactically for atherosclerosis and the risk of thrombus formation. What reaction in eicosanoid synthesis is inhibited by aspirin?
++ cyclooxygenase inhibition reaction
+- cyclooxygenase activation reaction
+- phospholipase A2 inhibition reaction
+- lipoxygenase inhibition reaction
+- peroxidase inhibition reaction
+
+? People with long-term diabetes may develop acidosis. Increased concentrations of which compounds cause blood pH to deviate from the normal range?
++ ketone bodies
+- cholesterol
+- hemoglobin
+- phosphatides
+- glycolipids
+
+? The oxidation of fatty acids in tissue mitochondria produces energy needed for the body's energy needs. How much ATP is released during the oxidation of palmitic acid?
++ 131
+- 136
+- 147
+- 164
+- 101
+
+? Due to duodenal probing, a patient was found to have bile retention in the gallbladder. What is the role of bile acids in fat digestion?
++ emulsifying, lipolytic enzyme activator, transport
+- emulsifying, inhibitor of lipolytic enzymes, transport
+- emulsifying, inhibitor of lipolytic enzymes
+- conjugating, inhibitor of lipolytic enzymes, transport
+- conjugating, activator of lipolytic enzymes, transport
+
+? A patient was admitted to the internal medicine department complaining of profuse, repeated vomiting and diarrhea throughout the day. What substances in the body prevent dehydration?
++ renin, angiotensin II, aldosterone, and ADH
+- cortisol, angiotensin2, aldosterone and ADH
+- renin, thyroxine, aldosterone, and ADH
+- corticotropin, angiotensin II, aldosterone, and ADH
+- renin, adrenaline, aldosterone, and ADH
+
+? A patient has a daily urine volume of 4.5 liters, with a specific gravity of 1004 (normal 1020). Glucose and ketone bodies are absent in the urine. What is the most likely diagnosis?
++ diabetes insipidus
+- insulin-dependent diabetes mellitus
+- steroid diabetes
+- non-insulin-dependent diabetes mellitus
+- renal diabetes
+
+? The patient exhibits hyperglycemia, increased protein catabolism, decreased muscle mass, thinning skin, osteoporosis, and lymphoid tissue involution. Increased levels of which hormone cause these symptoms to develop?
++ cortisol
+- androgen
+- estrogen
+- adrenaline
+- glucagon
+
+? A patient was diagnosed with nephrogenic diabetes insipidus. Which receptor gene mutation causes this disease?
++ V2 receptor
+- α1 receptor
+- β1 receptor
+- V1 receptor
+- α2 receptor
+
+? A patient was diagnosed with renal hypertension. What is the mechanism leading to this disease?
++ increased synthesis of renin and angiotensin
+- vasopressin deficiency
+- excessive aldosterone levels
+- excessive water reabsorption
+- active synthesis of renin and angiotensinogen
+
+? A blood test revealed hyponatremia in a patient. What is the cause of this disease?
++ deficiency of aldosterone and vasopressin
+- vasopressin deficiency
+- deficiency of cortisol and vasopressin
+- excess cortisol
+- excess aldosterone
+
+? A 16-year-old patient presented to the doctor with complaints of weakness, muscle pain, constipation, and recent bouts of back pain and urinary pain. Upon examination, the patient was diagnosed with primary hyperparathyroidism due to the development of a benign hypersecretory tumor of the left lobe of the parathyroid gland. What causes kidney stones?
++ increase in the concentration of phosphate and calcium ions in the renal tubules
+- decrease in the concentration of phosphate and calcium ions in the renal tubules
+- increased concentration of sodium and calcium ions in the renal tubules
+- decrease in the concentration of phosphate and potassium ions in the renal tubules
+- increased concentration of potassium and calcium ions in the renal tubules
+
+? A patient consulted a doctor complaining of frequent urination and a constant feeling of thirst. An examination revealed an increase in daily urine volume with a sharp decrease in its specific gravity. A blood test revealed normal insulin levels, but a decrease in the hormone responsible for water reabsorption. What is the cause of polyuria in this patient?
++ diabetes insipidus
+- non-insulin-dependent diabetes mellitus
+- steroid diabetes
+- renal diabetes
+- insulin-dependent diabetes
+
+? Hormones are released during stressful situations. Which hormone is produced by the adrenal glands?
++ adrenaline
+- cortisol
+- aldosterone
+- androgen
+- glucagon
+
+? Epinephrine and norepinephrine are biosynthesized in the chromoaffin cells of the adrenal medulla. When a signal is received, how are adrenaline and norepinephrine released from the cells into the environment?
++ exocytosis
+- pinocytosis
+- simple diffusion
+- facilitated diffusion
+- active transport
+
+? A patient has been diagnosed with diabetes insipidus. What metabolic symptoms are characteristic of this disease?
++ polyuria and polydipsia
+- acidosis and hyperketonuria
+- hyperglycemia and glucosuria
+- polydipsia and ketonuria
+- alkalosis and hypoglycemia
+
+? A newborn's urine test revealed black urine. What disease causes a newborn's urine to turn black?
++ alkaptonuria
+- acromegaly
+- diabetes insipidus
+- diabetes mellitus
+- phenylketonuria
+
+? An increase in the amount of homogentisic acid in urine leads to alkaptonuria. The development of this disease is associated with a metabolic disorder of which amino acid?
++ tyrosine
+- threonine
+- tryptophan
+- phenylalanine
+- methionine
+
+? Under the influence of antidiuretic hormone, normal urine volume and concentration are maintained. What is the primary mechanism of action of antidiuretic hormone?
++ participation in water reabsorption
+- lowering blood sugar levels
+- increased blood pressure
+- narrowing of the arteries
+- capillary constriction
+
+? In the human body, normal water-salt balance is maintained by hormones. Which hormones play a major role in this?
++ aldosterone and vasopressin
+- aldosterone and insulin
+- somatotropin and aldosterone
+- adrenaline and vasopressin
+- thyroxine and aldosterone
+
+? Hormones help maintain normal sodium and potassium metabolism. Which hormone regulates sodium and potassium metabolism?
++ aldosterone
+- thyroxine
+- parathyroid hormone
+- insulin
+- glucagon
+
+? Genetic defects in prepro-ADH synthesis in the hypothalamus, defects in proADH processing and transport, as well as damage to the hypothalamus or neurohypophysis due to traumatic brain injury, tumors, or ischemia lead to ADH deficiency. What disease occurs with a deficiency of the hormone vasopressin?
++ diabetes insipidus
+- diabetes mellitus
+- albinism
+- cretinism
+- acromegaly
+
+? The anterior pituitary gland synthesizes so-called tropic hormones, which stimulate the synthesis and secretion of hormones from other endocrine glands or influence metabolic reactions in other target tissues. What is the effect of gonadotropin?
++ activation of maturation of follicles and spermatozoa
+- reduction of biological oxidation
+- decreased protein synthesis
+- increased glycogen accumulation in the liver
+- increased thyroid activity
+
+? To diagnose phenylketonuria, qualitative and quantitative methods are used to detect pathological metabolites in urine and determine the concentration of phenylalanine in the blood and urine. What enzyme deficiency causes phenylalanine to appear in urine?
++ phenylalanine hydroxylase
+- arginase
+- tyrosinase
+- hexokinase
+- aldolase
+
+? The renin-angiotensin-aldosterone system plays a major role in regulating water-salt metabolism. The renin-angiotensin system regulates the secretion of which hormone?
++ aldosterone
+- progesterone
+- oxytocin
+- melanotropin
+- adrenocorticotropin
+
+? A patient's urine analysis revealed hematuria. What disease is associated with hematuria?
++ urolithiasis
+- hypotension
+- acidosis
+- hypertension
+- hepatitis
+
+? A patient presented to the doctor with complaints of increased fatigue, muscle weakness, weight loss, and loss of appetite. Examination revealed skin hyperpigmentation and low blood pressure. Laboratory tests revealed hyponatremia, hyperkalemia, hypoglycemia, and ketosis. What is the patient's endocrine status?
++ hypofunction of the adrenal cortex
+- hyperfunction of the adrenal cortex
+- hyperfunction of the pancreas
+- hypofunction of the pancreas
+- hyperfunction of the adrenal medulla
+
+? Water-soluble vitamins play an important role in metabolism. Vitamin B1 is a component of which coenzyme?
++ thiamine pyrophosphate
+- nicotinamide adenine dinucleotide
+- biotin
+- flavin adenine dinucleotide
+- coenzyme A
+
+? To prevent infertility and miscarriages, as well as in the treatment of liver diseases and skeletal muscle atrophy, the drug ... is used in medicine.
++ tocopherol
+- retinol
+- calciferol
+- naphthoquinone
+- thiamine
+
+? Water-soluble vitamins participate in metabolism. Vitamin B2 is a component of which coenzyme?
++ flavin adenine dinucleotide
+- pyridoxal phosphate
+- biotin
+- nicotinamide adenine dinucleotide
+- thiamine pyrophosphate
+
+? Anabolic steroids are used quite frequently in the clinic. What group of hormones do they belong to?
++ testosterone, methyltestosterone, and androstorene
+- progesterone, folliculin, and corticosterone
+- aldosterone, corticosterone, and estradiol
+- cortisol, corticosterone, and estradiol
+- folliculin, estradiol and aldosterone
+
+? A patient has sharply elevated blood pressure, sugar and NEFA levels above normal, and glucosuria. Plasma norepinephrine and adrenaline levels are 500-fold elevated. What could be the cause?
++ powerful vasoconstrictive, hyperglycemic, lipid-mobilizing action of catecholamines
+- lipid-mobilizing, glycogen-depositing, hypoglycemic action of catecholamines
+- powerful vasodilating, lipid-mobilizing, hyperglycemic action of catecholamines
+- lipid-synthesizing, glycogen-depositing, vasoconstrictive action of catecholamines
+- glycogen-depositing, vasodilating, hyperglycemic action of catecholamines
+
+? A person exhibits inappropriate behavior, is aggressive, and experiences conflicts at home and at work. An excess of which hormone can contribute to this behavioral state?
++ norepinephrine
+- cortisol
+- adrenaline
+- vasopressin
+- oxytocin
+
+? In the human body, glucose is used as an energy source under both anaerobic and aerobic conditions. In which process is the majority of glucose utilized?
++ glycolysis
+- proteolysis
+- lipolysis
+- fibrinolysis
+- deamination
+
+? During the transfer of electrons along the respiratory chain, an electrochemical potential is generated, the energy of which is used in ATP biosynthesis via oxidative phosphorylation. What are the primary electron acceptors in the respiratory chain?
++ FMN or ubiquinone
+- NAD or FMN
+- FAD or cytochrome oxidase
+- NAD or FAD
+- NAD, FAD or cytochrome oxidase
+
+? Oxidative reactions generate energy sources for oxidative phosphorylation. Which of the following is NOT an oxidative reaction?
++ CO2 emission
+- hydrogen transfer
+- splitting off of electrons and protons
+- oxygen addition
+- loss of electrons
+
+? A woman who had started lactating, although she wasn't pregnant, consulted a gynecologist. She was prescribed blood hormone tests. Which hormones trigger lactation?
++ thyrotropin-releasing hormone and prolactin
+- thyrotropin-releasing hormone and luteinizing hormone
+- thyroliberin and vasopressin
+- thyreostatin and prolactin
+- thyrotropin-releasing hormone and somatotropin
+
+? A patient exhibits allergic and inflammatory symptoms. Which hormone has a pronounced anti-allergic and anti-inflammatory effect?
++ cortisol
+- estradiol
+- adrenaline
+- aldosterone
+- thyroxine
+
+? A patient has been diagnosed with diabetes insipidus. What causes this disease?
++ decreased secretion of vasopressin
+- cortisol deficiency
+- glucagon deficiency
+- hyperproduction of corticosterone
+- excess glucagon
+
+? A cell is formed from organelles. In which organelle is cytochrome oxidase localized?
++ mitochondria
+- kernel
+- ribosome
+- Golgi apparatus
+- cytoplasm
+
+? The Krebs cycle involves 8 reactions. What is the substrate phosphorylation reaction in the Krebs cycle?
++ succinyl-CoA → succinate
+- citrate → isocitrate
+- α-ketoglutarate → succinyl-CoA
+- fumarate → malate
+- malate → oxaloacetate
+
+? The human body's energy supply occurs primarily through aerobic and anaerobic glycolysis. What is a glucose derivative formed as an intermediate product in the process of glycolysis?
++ fructose-1,6-diphosphate
+- glucuronic acid
+- sorbitol
+- 2-aminoglucose
+- glucaric acid
+
+? Increased blood pressure is observed with pheochromocytoma. What hormone excess causes this?
++ adrenaline
+- aldosterone
+- vasopressin
+- calcitonin
+- thyroxine
+
+? A blood test revealed hyponatremia in a patient. What is the cause of this disease?
++ deficiency of aldosterone and vasopressin
+- vasopressin deficiency
+- deficiency of cortisol and vasopressin
+- excess cortisol
+- excess aldosterone
+
+? In human cells, 50% of bioenergetics is provided by glucose as an energy source, with the help of hormones. Which hormones regulate cellular bioenergetics?
++ norepinephrine, adrenaline, thyroxine
+- parathyroid hormone, melatonin
+- androstorene, adrenolutin
+- estriol, progesterone
+- triiodothyronine, aldosterone
+
+? Oxidative decarboxylation of pyruvate produces acetyl-CoA and NADH2, which are used as energy sources under aerobic conditions. Which vitamin is involved in the decarboxylation of pyruvic acid?
++ thiamine
+- pyridoxine
+- niacin
+- riboflavin
+- pantothenic acid
+
+? The enzymes of the respiratory chain are localized in the inner membrane of mitochondria. As a result, endogenous water is formed?
++ biological oxidation and oxidative phosphorylation
+- glycogen amylolysis
+- deamination of biogenic amines in various tissues
+- glycogen phosphorylosis
+- deamination of amino acids
+
+? One of the pathways for detoxifying ammonia in the body is the urea cycle, which involves several processes. One of the functions of the urea cycle is:
++ arginine biosynthesis
+- alanine biosynthesis
+- tyrosine biosynthesis
+- cysteine biosynthesis
+- methionine biosynthesis
+
+? A patient was diagnosed with hypothyroidism. What is observed with this disease?
++ decreased basal metabolic rate
+- increasing the rate of protein synthesis
+- muscle weakness
+- weight loss
+- increased appetite
+
+? Tropic hormones act on the endocrine glands and ensure hormone biosynthesis. What does a deficiency of corticotropic hormone lead to?
++ reduction in corticosteroid production
+- hyperthyroidism
+- hyperglycemia
+- diabetes insipidus
+- glucosuria
+
+? A patient was diagnosed with glomerulonephritis and pulmonary hemosiderosis. In what disease do these syndromes occur?
++ Goodpasture's syndrome
+- Alport syndrome
+- Knist's disease
+- epidermolysis bullosa
+- Wagner and Stickler syndromes
+
+? Gluconeogenesis is the process of glucose biosynthesis from non-carbohydrate substances. The substrates for glucose biosynthesis are glycerol, amino acids, and lactate. The main function of gluconeogenesis is to maintain blood glucose levels during periods of prolonged fasting and intense physical activity. Hormones regulate the rate of gluconeogenesis. Which hormone activates gluconeogenesis and increases blood glucose levels?
++ cortisol
+- thyroxine
+- insulin
+- adrenaline
+- vasopressin
+
+? In the hereditary disease argininosuccinuria, the daily excretion of argininosuccinate by the kidneys reaches 3 g (normally absent), which is associated with a defect in the enzyme ..., which is involved in the ornithine cycle of urea formation
++ argininosuccinate lyase
+- arginase
+- carbamoyl phosphate synthetase-1
+- argininosuccinate synthetase
+- ornithine carbamoyltransferase
+
+? A newborn baby's urine darkens when exposed to air. What amino acid metabolism is impaired in this condition?
++ tyrosine
+- histidine
+- tryptophan
+- lysine
+- arginine
+
+? During seasonal viral infections, the body activates antiviral defenses. Which specialized protein is involved in this?
++ interferon
+- lysozyme
+- thrombin
+- haptoglobin
+- cryoglobulin
+
+? Mineralocorticoids stimulate the reabsorption of sodium ions in the distal convoluted tubules and collecting ducts of the kidneys. They also promote the secretion of potassium and ammonium ions. Which hormone enhances Na+ reabsorption in the renal tubules?
++ aldosterone
+- calcitriol
+- somatotropin
+- gastrixin
+- calcitonin
+
+? Blood and urine tests revealed a prostate disease in a patient. What was used to diagnose this disease?
++ acid phosphatase
+- catalase
+- amylase
+- creatine kinase
+- enolase
+
+? Amino acid catabolism in tissues occurs constantly, and deamination of amino acids releases large amounts of ammonia. Ammonia is a toxic compound. The main ammonia binding reaction occurring in all body tissues is the synthesis of glutamine by glutamine synthetase. Glutamine is transported via the bloodstream to the intestines and kidneys. The activity of which enzyme increases in renal acidosis?
++ glutaminase
+- AlAT
+- AsAT
+- LDG
+- MDG
+
+? Citrullinemia, clinical manifestations of severe hyperammonemia in newborns and in adults after a protein load, develops as a result of a deficiency of the enzyme...
++ argininosuccinate synthetase
+- glutamine synthetase
+- asparagine synthetase
+- citrate synthetase
+- fumarases
+
+? A sharp decrease in the activity of the enzyme leads to the development of argininosuccinaturia, clinical manifestations of hyperammonemia, ataxia, limb cramps, and hair loss...
++ argininosuccinate lyase
+- aspartate ammonia lyase
+- aldehyde lyase
+- carbonic anhydrase
+- decarboxylase
+
+? The kidneys primarily obtain energy under aerobic conditions. What is the end product of aerobic glycolysis in the kidneys?
++ pyruvate
+- lactate
+- malat
+- fumarate
+- succinate
+
+? A patient's urine analysis revealed ketonuria. Ketonuria is observed with decreased biosynthesis of which hormone?
++ insulin
+- vasopressin
+- thyroxine
+- oxytocin
+- cortisol
+
+? Adrenaline is released from cells of the adrenal medulla in response to nervous system signals from the brain during extreme situations requiring sudden muscle activity. After performing its biological function, adrenaline is inactivated in liver cells. What enzyme do cells use to inactivate adrenaline?
++ methyltransferase
+- uridyl transferase
+- cytochrome P450
+- transaminase
+- monoamine oxidase
+
+? A patient with adrenal insufficiency taking hydrocortisone experiences decreased blood glucose levels. How are normal blood glucose levels restored?
++ increasing gluconeogenesis
+- by increasing lipogenesis
+- by increasing glycogenogenesis
+- by increasing glycolysis
+- settling lipolysis
+
+? A patient's urine analysis revealed proteinuria. What causes proteinuria?
++ inflammation of the kidneys
+- gastrointestinal tract disease
+- pneumonia
+- inflammation of the pancreas
+- heart disease
+
+? During genetic testing, a child was diagnosed with a structural disorder of the apoprotein C-II gene. Upon examination, xanthomas were found on the skin. The plasma is opaque and resembles milk. What biochemical test should be performed to confirm chylomicronemia?
++ TAG concentration in the blood
+- cholesterol concentration in the blood
+- concentration of free fatty acids in the blood
+- concentration of LP(a) in the blood
+- blood acetone concentration
+
+? A patient developed an allergic reaction and a drop in blood pressure in response to the administration of protein preparations. What substance is associated with the development of the allergic reaction?
++ histamine
+- dopamine
+- norepinephrine
+- serotonin
+- beta-alanine
+
+? A patient is experiencing developing atherosclerosis, cancer, and immune pathologies. Which enzyme dysfunction is particularly prominent in this patient?
++ Ca2+-ATPase
+- Mg2+-ATPases
+- H+-ATPase
+- methyltransferases
+- Na+, K+-ATPases
+
+? A 52-year-old patient presented with complaints of thirst, polyuria, and polyphagia. Blood and urine tests revealed a blood glucose level of 10 mmol/L and glucosuria. What biochemical test should be performed in this patient to confirm the diagnosis?
++ glycosylated hemoglobin
+- methemoglobin
+- fetal hemoglobin
+- carboxyhemoglobin
+- carbhemoglobin
+
+? A hereditary defect in glutathione peroxidase in red blood cells leads to hemolytic anemia. What biochemical process is impaired in this case?
++ neutralization of active oxygen species
+- hemoglobin oxygenation
+- anaerobic glycolysis
+- tricarboxylic acid cycle
+- breakdown of heme and formation of bilirubin
+
+? A patient is experiencing thrombus formation. Which enzyme in the circulatory system helps prevent thrombus formation?
++ urokinase
+- asparaginase
+- glucokinase
+- deoxyribonuclease
+- hyaluronidase
+
+? The blood plasma of a 42-year-old patient is transparent, cholesterol is 5.2 mmol/l, α-cholesterol is 0.94 mmol/l, the atherogenic index is 4.5. The state of lipid metabolism in this case is assessed as ...
++ norm
+- hyperlipidemia
+- hypocholesterolemia
+- atherogenic spectrum
+- hypolipidemia
+
+? The patient is showing signs of inflammation. Which biochemical blood test is necessary in this case?
++ C-reactive protein
+- albumin
+- transferrin
+- ferritin
+- hemoglobin
+
+? A patient hospitalized after a traffic accident had elevated urea and creatine concentrations in his blood plasma. Creatine was detected in his urine. Which enzyme activity is elevated in this case?
++ creatinine kinase
+- alpha-amylase
+- alkaline phosphatase
+- methyltransferases
+- hydroxylases
+
+? A patient's blood test showed triglyceride levels of -3.5 mmol/L, that is, elevated; the norm is 0.56-1.69 mmol/L. What disease causes elevated triglyceride levels?
++ for diabetes mellitus
+- for leukemia
+- for hepatitis
+- for thyrotoxicosis
+- for pancreatitis
+
+? A 56-year-old patient was admitted to the emergency room with symptoms of acute Coronary syndrome. Which serum laboratory parameter is NOT elevated above other parameters in this pathological condition?
++ myoglobin
+- aspartic transaminase
+- creatine phosphokinase
+- lactate dehydrogenase
+- alanine transaminase
+
+? To prevent thrombosis and thromboembolism after a myocardial infarction, a doctor prescribed warfarin and recommended a diet excluding foods rich in vitamin K (cabbage, spinach, lettuce, green tea) for the duration of treatment. What function does vitamin K perform in this case?
++ is a coenzyme of gamma-glutamyl carboxylase
+- is a coenzyme of NADFH-dependent vitamin K reductase
+- is an inhibitor of NADFH-dependent vitamin K reductase
+- is a coenzyme of NADFH oxidase
+- is a gamma-glutamyl carboxylase inhibitor
+
+? Biochemical studies of the plasma electrolyte composition of a 42-year-old patient revealed low Ca2+ ion concentrations and impaired blood clotting. What role do Ca2+ ions play in blood clotting?
++ ensure the binding of procoagulant pathway enzymes to cell membranes
+- prevent the binding of procoagulant pathway enzymes to cell membranes
+- participate in the anticoagulant system
+- participate in the process of fibrinolysis
+- participate in the deactivation of the enzyme prothrombinase
+
+? A young man began bleeding after a traffic accident. Blood clotting occurs in a stepwise manner. How does the first phase of hemostasis manifest itself?
++ contraction of the damaged vessel
+- red thrombus disorder
+- partial or complete dissolution of the clot
+- formation of a red thrombus
+- formation of platelet plugs at the site of damage
+
+? A young man began bleeding after a traffic accident. Blood clotting occurs in a stepwise manner. How does the second phase of hemostasis manifest itself?
++ formation of platelet plugs at the site of damage
+- formation of a red thrombus
+- contraction of the damaged vessel
+- partial or complete dissolution of the clot
+- red thrombus disorder
+
+? A young man began bleeding after a traffic accident. Blood clotting occurs in a stepwise manner. How does the third phase of hemostasis manifest itself?
++ formation of a red thrombus
+- partial or complete dissolution of the clot
+- red thrombus disorder
+- formation of platelet plugs at the site of damage
+- contraction of the damaged vessel
+
+? In a person poisoned by carbon monoxide, the superficial layers (skin, mucous membranes) have a healthy pink color, which is due to the formation of a compound that imparts color to blood, skin, and muscles when present in high concentrations. Name this compound:
++ carboxyhemoglobin
+- carbhemoglobin
+- oxyhemoglobin
+- methemoglobin
+- glycosylated hemoglobin
+
+? Pancreatic diseases can be accompanied by the development of infectious diseases. What suppresses humoral immunity and weakens the body's defenses against infections?
++ decreased synthesis of blood gamma globulins
+- increased synthesis of blood gamma globulins
+- decreased synthesis of blood beta-globulins
+- increased synthesis of blood beta-globulins
+- increased synthesis of alpha globulins in the blood
+
+? The proteinogram shows the fractions of blood plasma proteins, and a decrease in the protein fraction most mobile toward the anode is noted. Which proteins are most mobile during electrophoresis?
++ albuminis
+- globulins
+- prolaminis
+- protamines
+- glutelins
+
+? During blood plasma electrophoresis, proteins are separated into fractions. The movement of proteins in an electric field is caused by the charged amino acids of the protein fractions. Which amino acid radicals allow proteins to move toward the positive electrode in an electric field?
++ due to charged radicals asp and glu
+- due to charged radicals arg and lys
+- due to charged radicals his and lys
+- due to the radicals ala and val
+- due to the radicals fen and tyr
+
+? Calcium-binding proteins of the coagulation system, containing modified amino acid residues, participate in the process of hemostasis. Which amino acid residues undergo modification?
++ glutamic acid residues
+- aspartic acid residues
+- methionine residues
+- histidine residues
+- arginine residues
+
+? A doctor prescribed Ferrofolgamma, a medication containing ascorbic acid, ferrous sulfate, folic acid, and vitamin B12, to a patient suffering from iron deficiency anemia. What role does ascorbic acid play in this case?
++ improves iron absorption
+- impairs iron absorption
+- deposits iron
+- improves the binding of iron to gamma globulins
+- forms an insoluble complex with iron
+
+? The blood plasma of patient M., 43 years old, is transparent, cholesterol is 5.2 mmol/l, α-cholesterol is 0.94 mmol/l, the atherogenic index is 4.5. The state of lipid metabolism in this case can be assessed as ...
++ norm
+- hyperlipidemia
+- hypocholesterolemia
+- atherogenic spectrum
+- hypolipidemia
+
+? The influenza virus is known to disrupt the synthesis of the enzyme carbamoyl phosphate synthetase I. This can cause vomiting, dizziness, convulsions, and possible loss of consciousness in children. Which substance's concentration increases in the patient's blood?
++ ammonia
+- glutamate
+- histamine
+- CO2
+- NH4
+
+? Elevated uric acid levels were detected in the blood plasma of a patient complaining of joint pain. These changes are associated with...
++ gout
+- orotoaciduria
+- hyperglycemia
+- azotemia
+- ketonemia
+
+? Tourists miscalculated their food supplies and fasted for two days. How did glucose, fatty acid, and cortisol levels change?
++ glucose concentration decreased, fatty acids and cortisol increased
+- glucose concentrations increased, fatty acids and cortisol decreased
+- concentrations of glucose, fatty acids and cortisol did not change
+- concentrations of glucose, fatty acids and cortisol decreased
+- glucose concentrations increased, fatty acids and cortisol levels remained unchanged
+
+? Increased blood pressure is observed with pheochromocytoma. What hormone excess causes this?
++ adrenaline
+- aldosterone
+- vasopressin
+- calcitonin
+- thyroxine
+
+? Soon after her final exams, a female student developed sleep disturbances and tachycardia with a feeling of irregular heartbeat. She also noticed that her hands had become warm and clammy. To establish a diagnosis, the patient may be given a blood test to determine hormone levels:
++ thyroid-stimulating hormone and thyroid hormones
+- adrenocorticotropic hormone and cortisol
+- lipotropic hormone and progesterone
+- luteinizing hormone and sex hormones
+- somatotropic hormone and glucagon
+
+? A young man with diabetes injected himself with his usual hormone dose this morning and ate a normal breakfast. During a long-distance jog for fitness, he collapsed. Upon hospitalization, his blood glucose level was 1.6 mmol/L. An overdose of which hormone would cause this condition?
++ insulin
+- adrenaline
+- glucagon
+- thyroxine
+- vasopressin
+
+? A 47-year-old patient is overweight and obese. A blood biochemistry test revealed elevated levels of triacylglycerides, cholesterol, and glucose. The doctor diagnosed fatty liver disease. What amino acid deficiency leads to fatty liver disease?
++ methionine
+- tryptophan
+- cysteine
+- tyrosine
+- threonine
+
+? A 50-year-old man complains of severe weakness, a recent decline in mood, bloating, a bitter taste in the mouth, nausea, dark urine, weight loss, fever, and itchy skin. He has been drinking alcohol frequently for 10 years. A blood biochemistry test revealed decreased glucose and increased lactate. We know that ethanol is formed during the breakdown of glucose. How does ethanol reduce the rate of gluconeogenesis?
++ inhibiting lactate oxidation
+- increasing pyruvate oxidation
+- increasing NAD+ levels
+- increasing ADP levels
+- increasing ATP levels
+
+? A 48-year-old man complains of severe weakness, nausea, weight loss, fever, and itchy skin. He has been abusing alcohol for 10 years. A blood biochemistry test revealed decreased glucose and increased lactate. What function does ethanol serve in this case?
++ reduces the rate of gluconeogenesis
+- increases pyruvate oxidation
+- increases the rate of gluconeogenesis
+- increases the rate of glycolysis
+- increases the rate of glycogenesis
+
+? A 35-year-old man complains of severe weakness, a recent decline in mood, bloating, a bitter taste in the mouth, nausea, dark urine, weight loss, fever, and itchy skin. He has been drinking alcohol frequently for 10 years. Based on biochemical tests, the doctor diagnosed viral hepatitis. Viral hepatitis is characterized by significantly increased activity...
++ alanine aminotransferase
+- pepsin
+- gamma-glutamyl transferase
+- alpha-amylase
+- glutaminase
+
+? A patient suffering from intestinal atony and liver dysfunction is advised not to eat protein-rich foods in large quantities. What biochemical process is disrupted in the intestine when protein digestion is impaired?
++ Undigested and not removed from the intestines proteins are subject to putrefaction
+- undigested and not eliminated from the intestine proteins are excreted in feces
+- there is insufficient secretion of intestinal juice
+- untimely release of bile into the duodenum
+- hereditary protein digestion disorder
+
+? A 45-year-old female patient was admitted to the clinic with complaints of general weakness, fatigue, loss of appetite, bloating, dull pain in the right side of the abdomen, unstable stool, yellowing of the sclera, and itchy skin. What biochemical tests should the doctor prescribe?
++ bilirubin, cholesterol, AST, ALT, alkaline phosphatase
+- glucose, cholesterol, cholesterol, VLDL
+- LDH, CF, LDH4, LDH5
+- LDG4, KF, LDG4, LDG5
+- LDH3, CP, LDH4, LDH1, glucose
+
+? The patient's blood contains 15.2 μmol/L of total bilirubin, direct bilirubin - 1.8 μmol/L, stercobilin is detected in the feces, stercobilinogen is detected in the urine, and bilirubin is absent. How can pigment metabolism be assessed in this case?
++ everything is in order
+- hyperbilirubinemia
+- hypobilirubinemia
+- hyperbilirubinemia
+- hypourobilinemia
+
+? In porphyrin synthesis, this enzyme is a key allosteric enzyme, determining the rate of the entire process. It is localized in the mitochondria, and its coenzyme group is pyridoxal. The enzyme is activated by estrogens and certain drugs, particularly barbiturates and sulfonamides. It is inhibited by feedback by heme, hemoglobin, and other hemoproteins. What enzyme is this?
++ δ-aminolevulinate synthase
+- γ-aminolevulinate synthase
+- UP-III-cosynthase
+- UP-I-synthase
+- uroporphyrinogenase
+
+? Sources of iron are primarily animal products, which contain Fe2+, which is easily absorbed in the intestine. Plant foods (vegetables, fruits) contain mainly Fe3+, and therefore, for its absorption, vitamins that convert Fe3+ to Fe2+ are necessary. Name the vitamin:
++ ascorbic acid
+- glutamic acid
+- pantothenic acid
+- thiamine
+- folic acid
+
+? During digestion, Fe2+ combines with a specific protein and binds to receptors on the enterocyte membrane. Iron entering the cell is transported to the opposite side of the membrane by a specific protein, which releases the iron into the blood and is itself destroyed in lysosomes. Where in the body does iron absorption occur?
++ in the duodenum and upper small intestine
+- in the large intestine
+- in the oral cavity
+- in the lower parts of the small intestine
+- is not absorbed
+
+? Considering that 1 g of hemoglobin binds 1.34 ml of oxygen, and 100 ml of blood contains 13-16 g of hemoglobin and is 96% saturated with oxygen, 100 ml of blood will contain 15 x 1.34 x 96/100 = 19.3 ml O2/100 ml of blood. What is the name of the combination of hemoglobin with molecular oxygen?
++ oxyhemoglobin
+- carboxyhemoglobin
+- methemoglobin
+- carboxyhemoglobin
+- deoxyhemoglobin
+
+? When methemoglobin production increases, reducing compounds are administered to save the patient. These compounds restore the trivalent iron in methemoglobin to its divalent form. What are these reducing compounds?
++ ascorbic acid, glucose, methylene blue
+- ceruloplasmin, albumin
+- ferritin, cyanocobalamin (B12)
+- globulin, haptoglobin
+- acetic acid, thiamine, galactose
+
+? Vitamin B6 deficiency can lead to anemia, which is characterized by a decrease in red blood cell size and reduced hemoglobin synthesis. What is the role of vitamin B6 in this process?
++ is a cofactor for the enzyme aminolevulinate synthase
+- is an activator of the enzyme aminolevulinate synthase
+- is a coenzyme of ferrochelatase
+- is a gamma-glutamyl carboxylase inhibitor
+- is an activator of the enzyme ferrochelatase
+
+? The proteinogram shows the fractions of blood plasma proteins, and a decrease in the protein fraction most mobile toward the anode is noted. What is the name of the most mobile protein fraction?
++ albuminis
+- α-globulins
+- β-globulins
+- fibrinogen
+- γ-globulins
+
+? The patient is experiencing dizziness, headaches, shortness of breath, rapid heartbeat, and pain in the extremities. A blood test revealed elongated, crescent-shaped red blood cells. What is the cause of the change in red blood cell shape?
++ replacement of glutamate in the β-chain with valine
+- replacement of glutamate in the α-chain with cysteine
+- presence of Fe3+ ion
+- absence of α-chain
+- change in the primary structure of the gamma chain
+
+? Calcium-binding proteins of the blood coagulation system contain modified amino acid residues. Which enzyme and coenzyme are involved in this reaction?
++ glutamate carboxylase, phylloquinone
+- NAD, NADP, thiamine pyrophosphate
+- glutamate carboxylase, NAD
+- thiamine pyrophosphate, NAD
+- pyruvate kinase men Cu
+
+? The increase in plasma glucose concentration in the subject was associated with increased secretion of adrenal cortex hormones. What process is associated with the increase in blood glucose concentration in this case?
++ with gluconeogenesis
+- with gluconeogenesis
+- with glycolysis
+- with lipolysis
+- with erythropoiesis
+
+? Hirudin, obtained from leeches, specifically interacts with thrombin and inactivates it. What substance catalyzes the hydrolysis of fibrin thrombus?
++ plasmin
+- thrombin
+- thromboembolism
+- plasminogen
+- heparin
+
+? Changes in the protein content in blood plasma may result from a disruption in their synthesis process. Where in the human body is the majority of blood plasma proteins synthesized?
++ in the liver
+- in the spleen
+- in skeletal muscles
+- in formed elements of blood
+- in bone marrow
+
+? The albumin-globulin ratio of blood plasma has definite clinical significance. What is the quantitative ratio of albumins and globulins in the blood plasma of a healthy person?
++ 1.5-1.9
+- 1.2-1.5
+- 1.9-2.5
+- 2.0-2.5
+- 1.5-2.5
+
+? Thrombosis during blood coagulation is based on partial proteolysis, polymerization, and the transformation of a unique plasma protein into an insoluble form. What protein are we talking about?
++ fibrinogen
+- prothrombin
+- antihemophilic globulin A
+- immunoglobulin
+- serum albumin
+
+? The formation of a blood clot is based on the conversion of fibrinogen to fibrin. Which of the blood coagulation factors directly catalyzes this transformation?
++ thrombin
+- proconvertin
+- Prower-Stewart factor
+- prothrombin
+- proaccelerin
+
+? The patient's total protein content after surgery is 52 g/l. Albums account for 33%. What complications can such changes in the blood protein spectrum lead to?
++ decrease in oncotic arterial pressure
+- With increased oncotic arterial pressure
+- violation of transport of hydrophilic substances
+- stimulate the spread of fluids in tissues
+- to change the ratio of protein fraction
+
+? A patient complaining of weakness and pale skin has a decreased hemoglobin level. Which of the following values corresponds to the normal hemoglobin level for an adult male?
++ 130-160 g/l
+- 120-140 g/l
+- 90-110 g/l
+- 170-190 g/l
+- 200-220 g/l
+
+? A patient with a suspected coagulation disorder has a low prothrombin index (PTI) in their coagulogram. Which of the following ranges is normal for PTI?
++ 70-120%
+- 50-60%
+- 20-40%
+- 130-150%
+- 5-15%
+
+? During an examination of a patient with suspected Wilson's disease, the serum ceruloplasmin level was determined. Which of the following values corresponds to a normal ceruloplasmin level in adults?
++ 20-60 mg/dL
+- 5-20 mg/dL
+- 70-100 mg/dL
+- 110-150 mg/dL
+- 160-200 mg/dL
+
+? A 32-year-old female patient presented with complaints of weakness, a fever of 38.5°C, joint pain, and swollen lymph nodes. A complete blood count revealed leukocytes of 14 × 10^9/L and ESR of 38 mm/h. Additional biochemical analysis was performed. Which of the following biochemical parameters most accurately reflects the degree of inflammation in this patient?
++ C-reactive protein
+- ESR
+- leukocytes
+- platelets
+- bilirubin level
+
+? A 35-year-old patient presents with chronic fatigue, pale skin, brittle nails, and hair loss. Laboratory tests revealed decreased hemoglobin and red blood cell levels, as well as a decreased blood color index. What is the most likely diagnosis?
++ iron deficiency anemia
+- aplastic anemia
+- hemolytic anemia
+- megaloblastic anemia
+- sickle cell anemia
+
+? A 40-year-old female patient complains of chronic fatigue, brittle nails, and decreased performance. Laboratory tests revealed hemoglobin of 90 g/L, serum iron level of 4 μmol/L (normal range: 10–30 μmol/L), and total iron-binding capacity (TIBC) of 75 μmol/L (normal range: 45–70 μmol/L). The physician noted decreased levels of the protein responsible for iron transport. Which protein transports iron in the blood?
++ transferrin
+- ferritin
+- albumin
+- myoglobin
+- hemoglobin
+
+? A 50-year-old patient was admitted to the surgical department for a planned operation. His medical history includes long-term anticoagulant use for deep vein thrombosis. A series of laboratory tests were performed before the operation. The doctors paid special attention to the blood tests to rule out the risk of bleeding. In this case, which test most accurately characterizes blood clotting?
++ prothrombin time
+- ESR
+- hemoglobin
+- mean corpuscular volume (MCV)
+- glucose level
+
+? A 60-year-old patient was admitted to the department with severe edema of the lower extremities. Blood biochemistry reveals total protein of 50 g/L (normal range: 65–85 g/L), albumin of 20 g/L (normal range: 35–50 g/L). Plasma osmotic pressure is decreased. Which blood protein plays a key role in maintaining oncotic pressure and is likely decreased in this patient?
++ albumin
+- hemoglobin
+- fibrinogen
+- C-reactive protein
+- transferrin
+
+? A 48-year-old patient is being treated for deep vein thrombosis. As part of his treatment, he was prescribed a drug that activates an enzyme that promotes the breakdown of fibrin clots and restores blood flow. A follow-up examination revealed improved tissue blood flow and a reduction in clot size. Which enzyme is responsible for breaking down the fibrin clot?
++ plasmin
+- thrombin
+- fibrinogenase
+- prothrombin
+- hydrolase
+
+? A 45-year-old patient was admitted with complaints of frequent bleeding after minor trauma. Laboratory testing revealed a disturbance in the final stage of blood coagulation associated with insufficient conversion of soluble protein into insoluble fibrin, which forms a thrombus. Which component of the blood coagulation system converts fibrin?
++ fibrinogen
+- prothrombin
+- thrombin
+- antithrombin
+- haptoglobin
+
+? A 25-year-old female patient complains of increased fatigue, pale skin, and bruising after even the slightest impact. A blood chemistry panel reveals normal glucose levels, but serum iron levels are reduced to 3 µmol/L (normal range: 10-30 µmol/L), and ferritin is 10 µg/L (normal range: 30-300 µg/L). What pathology can be suspected in this patient?
++ iron deficiency anemia
+- sideroblastic anemia
+- megaloblastic anemia
+- hemolytic anemia
+- anemia of chronic disease
+
+? A 28-year-old patient complains of bleeding gums, nosebleeds, and blurred vision. Blood tests show a platelet count of 30 × 10^9/L (normal range: 150-400 × 10^9/L), a PTT of 32 sec (normal range: 25-35 sec), and a fibrinogen level of 1.2 g/L (normal range: 2-4 g/L). What disease might be suspected in this patient?
++ thrombocytopenia
+- leukemia
+- hemophilia
+- von Willebrand disease
+- Botkin's disease
+
+? A 45-year-old female patient complains of fatigue, shortness of breath with minimal exertion, dizziness, and pale skin. Blood tests reveal decreased hemoglobin and hematocrit levels, as well as a decreased red blood cell count. What is the most likely diagnosis?
++ iron deficiency anemia
+- leukemia
+- polycythemia
+- hemophilia
+- B12 deficiency anemia
+
+? Laboratory blood tests revealed a significant increase in the number of immature granulocytes, elevated lactate dehydrogenase levels, and marked leukocytosis. What is the most likely diagnosis?
++ leukemia
+- hemophilia
+- iron deficiency anemia
+- thalassemia
+- sepsis
+
+? A 50-year-old patient suffers from chronic liver disease. Blood tests revealed a decrease in albumin levels to 20 g/L (normal: 35-50 g/L). Which of the following statements correctly explains the cause of hypoalbuminemia in this patient?
++ albumin ceases to be synthesized in the liver due to its damage
+- Albumin is lost through the kidneys due to inflammation
+- albumin is destroyed in the stomach when digestion is impaired
+- Albumin is converted to glucose during fasting
+- Albumin is excreted through the skin during increased sweating
+
+? The patient has been diagnosed with anemia, accompanied by decreased serum iron and ferritin levels, as well as an increase in total iron-binding capacity (TIBC). What type of anemia is most likely?
++ iron deficiency anemia
+- hemolytic anemia
+- aplastic anemia
+- megaloblastic anemia
+- sickle cell anemia
+
+? The patient's blood showed an elevated total bilirubin level due to the indirect fraction, a decreased haptoglobin level, and an increased lactate dehydrogenase (LDH) activity. What pathological process can be suspected?
++ hemolysis of erythrocytes
+- acute leukemia
+- vitamin B12 deficiency
+- hemophilia
+- chronic inflammation
+
+? A biochemical blood test of a patient with macrocytic anemia revealed elevated homocysteine levels and decreased methylmalonic acid concentrations. Which vitamin deficiency is most likely?
++ vitamin B9 (folic acid)
+- vitamin B2
+- vitamin B6
+- vitamin B1
+- vitamin C
+
+? A 35-year-old patient was admitted to the emergency department after a traffic accident. Significant blood loss was noted. On examination: pale skin, tachycardia (heart rate 120 bpm), blood pressure 90/60 mmHg. Laboratory data: total protein level is within normal limits, glucose level is 5.2 mmol/L, leukocytes are within normal limits, hemoglobin is 65 g/L. Which biochemical parameter is most typically reduced with severe blood loss?
++ hemoglobin
+- albumins
+- glucose
+- cholesterol
+- leukocytes
+
+? Blood tests in a patient with frequent bleeding revealed a decreased prothrombin index and an increased international normalized ratio (INR). What possible deficiency led to this condition?
++ vitamin K deficiency
+- iron deficiency
+- vitamin B12 deficiency
+- erythropoietin deficiency
+- C-reactive protein deficiency
+
+? A patient with suspected multiple myeloma has a significantly elevated total protein level in the blood due to elevated immunoglobulin concentrations. What additional laboratory test is most informative for diagnosing this disease?
++ serum protein electrophoresis
+- determination of ferritin levels
+- determination of bilirubin levels
+- reticulocyte analysis
+- coagulogram
+
+? A 23-year-old patient presents with tremors, impaired coordination, jaundice, and signs of liver failure. A blood chemistry panel revealed decreased ceruloplasmin levels, elevated serum free copper, and a significant increase in urinary copper excretion. What is the most likely diagnosis?
++ Wilson-Konovalov disease
+- hemochromatosis
+- iron deficiency anemia
+- Gaucher disease
+- B12 deficiency anemia
+
+? A patient with frequent bleeding and a tendency to hematoma formation underwent a coagulation test. A significantly prolonged prothrombin time (PT) and an elevated international normalized ratio (INR) were detected. Which coagulation factor is most likely depleted?
++ prothrombin (factor II)
+- factor XIII
+- fibrinogen
+- factor VIII
+- vitamin B12
+
+? A 35-year-old female patient complains of fatigue, shortness of breath, and dizziness. A blood chemistry report shows: Hemoglobin - 85 g/L (normal 120-160 g/L), Hematocrit - 27% (normal 36-48%), Serum Iron - 5 µmol/L (normal 11.6-31.3 µmol/L), Ferritin - 10 µg/L (normal 15-200 µg/L). What is the most likely diagnosis?
++ iron deficiency anemia
+- B12 deficiency anemia
+- aplastic anemia
+- leukemia
+- polycythemia
+
+? A 52-year-old man is experiencing increasing fatigue, bleeding gums, pale skin, and weakness. Blood tests show: Hemoglobin - 78 g/L, MCV (mean corpuscular volume) - 120 fl (normal 80-100 fl), Leukocytes - 3.5 thousand/µL (normal 4-9 thousand/µL), Platelets - 90 thousand/µL (normal 150-400 thousand/µL). Which disorder is most likely?
++ B12 deficiency anemia
+- hemolytic anemia
+- aplastic anemia
+- leukemia
+- polycythemia
+
+? A 45-year-old female patient was admitted with complaints of rapid heartbeat, general weakness, and pale skin. Laboratory tests: Erythrocytes - 3.0 million/µl (normal 3.5-5.5 million/µl), Hemoglobin - 90 g/l, Leukocytes - 4.5 thousand/µl (normal 4-9 thousand/µl), Platelets - 150 thousand/µl (normal 150-400 thousand/µl), Serum iron level - 6 µmol/l (normal 11.6-31.3 µmol/l). What is the most likely diagnosis?
++ iron deficiency anemia
+- polycythemia
+- thrombocytopenia
+- hemophilia
+- leukemia
+
+? The patient has severe anemia, jaundice, dark urine, and signs of copper accumulation. A blood chemistry panel revealed decreased ceruloplasmin levels and increased free copper. What is the most likely mechanism of the pathology?
++ copper transport disorder
+- iron deficiency
+- vitamin C deficiency
+- folate deficiency
+- vitamin K deficiency
+
+? A 60-year-old patient complains of frequent gum infections and bleeding. Blood test results: Leukocytes - 2,000/μl (normal: 4,000-9,000/μl), Platelets - 60,000/μl (normal: 150,000-400,000/μl), Hemoglobin - 95 g/l, ESR - 40 mm/h (normal for men: up to 10 mm/h). What is the most likely diagnosis?
++ aplastic anemia
+- lymphoma
+- polycythemia
+- hemophilia
+- sickle cell anemia
+
+? A 35-year-old man complains of dizziness, fatigue, pallor, and cold extremities. He leads an active lifestyle and exercises regularly. A blood chemistry panel shows: Hemoglobin - 95 g/L, Hematocrit - 30%, Vitamin B12 - 130 pg/ml (normal range: 200-900 pg/ml). What disorder could be causing these symptoms?
++ B12 deficiency anemia
+- aplastic anemia
+- hemophilia
+- polycythemia
+- leukemia
+
+? A 55-year-old female patient complains of frequent fatigue and shortness of breath. The doctor notes pale skin and mucous membranes. Hemoglobin is below normal, mean corpuscular volume (MCV) is normal, and iron levels are normal. What does this picture indicate? Which of the following is most likely?
++ aplastic anemia
+- B12 deficiency anemia
+- iron deficiency anemia
+- polycythemia
+- sickle cell anemia
+
+? A 40-year-old patient developed signs of jaundice, weakness, and pain in the right hypochondrium. A blood biochemistry analysis showed: Total bilirubin - 70 μmol/L (normal range: 5-21 μmol/L), Direct bilirubin - 20 μmol/L (normal range: up to 5 μmol/L), Indirect bilirubin - 50 μmol/L, Hemoglobin - 115 g/L. Which diagnosis is most likely?
++ hemolytic anemia
+- polycythemia
+- hemophilia
+- thrombocytopenic purpura
+- anemia of chronic disease
+
+? A 5-year-old child has frequent nosebleeds and easy bruising with even the slightest bump. There is a family history of hereditary bleeding disorders. What is the most likely cause?
++ Hemophilia
+- Aplastic anemia
+- Iron deficiency anemia
+- Polycythemia
+- Leukemia
+
+? A 48-year-old woman complains of constant fatigue, headaches, and insomnia. Blood tests reveal: Hemoglobin is 180 g/L (normal: 120-160 g/L), hematocrit is 55% (normal: 36-48%), and red blood cells are 6.5 million/μL (normal: 3.5-5.5 million/μL). What is the most likely diagnosis?
++ polycythemia
+- B12 deficiency anemia
+- aplastic anemia
+- leukemia
+- hemophilia
+
+? A patient with frequent bleeding and poor wound healing has laboratory tests revealing a normal prothrombin time, but significantly elevated levels of D-dimers and fibrin degradation products. Which disorder is most likely?
++ increased fibrinolytic activity
+- fibrinogen deficiency
+- violation of prothrombin synthesis
+- vitamin B12 deficiency
+- hemophilia
+
+? An 8-year-old girl with a history of frequent infections presents with weakness, pallor, and prolonged bleeding from cuts. Her test results: Leukocytes - 2,000/μl (normal: 4,000-9,000/μl), Platelets - 80,000/μl (normal: 150,000-400,000/μl), Hemoglobin - 90 g/l. What is the most likely diagnosis?
++ aplastic anemia
+- hemophilia
+- iron deficiency anemia
+- polycythemia
+- leukemia
+
+? A 48-year-old woman complains of constant fatigue, headaches, and insomnia. Blood tests reveal: Hemoglobin - 185 g/L, Red Blood Cells - 6.7 million/μL, Hematocrit - 56%. What is the most likely diagnosis?
++ polycythemia
+- aplastic anemia
+- iron deficiency anemia
+- lymphoma
+- leukemia
+
+? A 45-year-old patient complains of weight loss, night sweats, and enlarged lymph nodes in the neck. Laboratory data show an elevated lymphocyte count and a high ESR. What disease is most likely present?
++ lymphoma
+- aplastic anemia
+- polycythemia
+- iron deficiency anemia
+- leukemia
+
+? A 5-year-old child has frequent nosebleeds, subcutaneous hemorrhages, and large hematomas after minor injuries. A coagulogram shows prolonged clotting time. Which protein deficiency is most likely?
++ factor VIII
+- fibrinogen
+- antithrombin III
+- hemoglobin
+- haptoglobin
+
+? A 34-year-old female patient complains of weakness, dizziness, and tingling in her arms and legs. Blood test results: Hemoglobin - 78 g/L, MCV - 110 fl (normal 80-100 fl), Vitamin B12 - 150 pg/ml (normal 200-900 pg/ml). Which disease is most likely?
++ B12 deficiency anemia
+- hemophilia
+- leukemia
+- polycythemia
+- aplastic anemia
+
+? A 50-year-old female patient complains of numbness in her fingers, dizziness, and weakness. A complete blood count (CBC) reveals hemoglobin 95 g/L, MCV 110 fl, reticulocyte count 0.5%, and red blood cell hyperchromia. Which deficiency is most likely?
++ vitamin B12 deficiency
+- iron deficiency
+- folate deficiency
+- vitamin C deficiency
+- vitamin D deficiency
+
+? A patient with chronic joint inflammation has an elevated ESR, hypoalbuminemia, and elevated fibrinogen levels. What biochemical changes are characteristic of chronic inflammation?
++ increased levels of α2-globulins
+- increased albumin levels
+- decreased C-reactive protein levels
+- decreased fibrinogen levels
+- increased transferrin levels
+
+? A 30-year-old patient complains of increased fatigue, dizziness, and palpitations. Blood tests show elevated bilirubin, reticulocytes of 12%, and signs of splenomegaly. What is the patient's condition?
++ hemolytic anemia
+- aplastic anemia
+- iron deficiency anemia
+- megaloblastic anemia
+- leukemia
+
+? A 65-year-old man presented with complaints of bleeding gums, weakness, and bruising without apparent cause. Laboratory results: platelets 20 x 10^9/L, fibrinogen is normal, bleeding time is significantly increased. What is the most likely cause?
++ thrombocytopenic purpura
+- vitamin B12 deficiency
+- hemophilia A
+- DIC syndrome (disseminated intravascular coagulation)
+- vitamin K-dependent coagulopathy
+
+? A 7-year-old child has frequent nosebleeds and multiple subcutaneous hemorrhages. Laboratory data: platelets are 180 × 10^9/L, prothrombin time is increased, and factor VIII levels are decreased. What is the most likely diagnosis?
++ hemophilia A
+- von Willebrand disease
+- thrombocytopathy
+- vitamin K deficiency
+- hemophilia B
+
+? A 40-year-old female patient complains of weakness, loss of appetite, dark urine, and yellowing of the skin. Blood tests: total bilirubin is 45 μmol/L (normal range: up to 20 μmol/L), direct bilirubin is 38 μmol/L, and ALT and AST levels are significantly elevated. What do these lab results indicate?
++ hepatocellular jaundice
+- hemolytic anemia
+- aplastic anemia
+- obstructive jaundice
+- Glucose-6-phosphate dehydrogenase deficiency
+
+? The patient was found to have elevated levels of α1-antitrypsin, C-reactive protein, and seromucoid. What condition is this characteristic of?
++ acute phase of inflammation
+- chronic renal failure
+- α1-antitrypsin deficiency
+- iron deficiency anemia
+- alcoholic liver disease
+
+? A 25-year-old patient presented with complaints of fatigue, rapid heartbeat, and dizziness. Blood tests revealed hemoglobin of 82 g/L, MCV of 120 fL, reticulocytes of 0.2%, and neutrophil hypersegmentation. Which disorder is most likely?
++ megaloblastic anemia
+- hemolytic anemia
+- aplastic anemia
+- iron deficiency anemia
+- sideroblastic anemia
+
+? For children suffering from rickets, vitamins are the mainstay of treatment. Select the necessary vitamin from the list below:
++ D
+- B6
+- P
+- C
+- B1
+
+? A patient who came to the clinic complains of joint pain, pain around the navel and right hypochondrium, and fatigue. What enzymes are specific for bone tissue?
++ alkaline phosphatase and pyrophosphatase
+- TCA cycle enzymes
+- aldolase and alpha-amylase
+- LDH and ATPase
+- phospholipase and cholesterol esterase
+
+? A deficiency of this vitamin leads to severe fragility and brittleness of blood vessels, leading to the development of scurvy. Hydroxylation of proline and lysine residues in collagen fibers is also disrupted. Which vitamin deficiency is this?
++ ascorbic acid
+- biotin
+- pantothenic acid
+- folic acid
+- thiamine
+
+? A patient was diagnosed with skeletal muscle dystrophy during examination. What vitamin deficiency causes this condition?
++ tocopherol
+- thiamine
+- retinol
+- cobalamin
+- riboflavin
+
+? A patient had a disorder of calcium ion binding in bone tissue. What metabolic process disruption causes this condition?
++ citrate
+- aconitate
+- succinate
+- fumarate
+- lactate
+
+? A patient has been diagnosed with muscle weakness and has been prescribed a biochemical test for creatinine, CPK, ALP, and macronutrients. What additional biochemical tests can be ordered, since the physiological regulator of muscle contraction in this case is...
++ calcium ions
+- sodium ions
+- potassium ions
+- magnesium ions
+- copper ions
+
+? The patient has a disease called collagenosis. In this case, it is associated with a disruption of collagen synthesis. Which vitamin is involved in collagen synthesis?
++ C
+- A
+- B1
+- D
+- RR
+
+? The patient exhibits apathy, hypoxia, and weakness due to insufficient oxygen. Which protein ensures this physiological state where the oxygen reserve in muscle tissue is...
++ myoglobin
+- tropomyosin
+- troponin
+- actin
+- myosin
+
+? A patient complains of joint pain, constipation, and intermittent back pain. The doctor ordered a biochemical test to determine enzyme activity. Name the specific bone tissue enzyme:
++ alkaline phosphatase and pyrophosphatase
+- TCA cycle enzymes
+- aldolase and alpha-amylase
+- LDH and ATPase
+- phospholipase and cholesterol esterase
+
+? During the first week of vigorous physical activity, muscle pain and weakness are observed. During exercise, the end product accumulates in muscle cells due to anaerobic glycolysis:
++ lactic acid
+- phosphoenolpyruvate
+- acetyl-CoA
+- glucose-6-phosphate
+- oxaloacetate
+
+? The patient exhibits shortened and deformed limbs, joint stiffness, kyphoscoliosis, and high myopia. These manifestations are observed in Kniest disease, which occurs due to a defect in the synthesis of..., the main protein of connective tissue.
++ collagen
+- elastin
+- creatinine
+- urea
+- actin
+
+? A child in the first year of life exhibits the following symptoms: red-bloody urine; increased hair growth (hypertrichosis); high tissue photosensitivity; red discoloration of teeth (erythrodontia); hemolytic anemia; enlargement of the spleen, and in some cases, the liver. This manifestation is observed in Gunther's disease, in which dermatan sulfate accumulates due to an enzyme defect...
++ iduronate sulfatase
+- β-glucuronidases
+- heparan sulfate
+- chondroitin sulfate
+- creatine kinase
+
+? A child receiving adequate nutrition and vitamin D3 shows signs of rickets. What hormone deficiency causes these symptoms?
++ parathyroid hormone
+- adrenocorticotropic hormone
+- thyroid-stimulating hormone
+- lipotropic hormone
+- somatotropic hormone
+
+? Calcitonin reduces the level of ... in the blood.
++ calcium
+- zinc
+- iron
+- copper
+- potassium
+
+? A patient with a weakened immune system has cardiovascular and endocrine system (pancreas and endocrine glands) complaints, and muscle weakness. What vitamin deficiency, which is steroidal in nature, causes this condition?
++ vitamin D
+- vitamin B6
+- vitamin C
+- vitamin B1
+- vitamin B2
+
+? A 3-year-old girl exhibits progressive mental retardation, light skin, and blue eyes. She also has a specific unpleasant odor from her mouth, skin, or urine, which can be compared to the musty, "mousy" odor observed in phenylketonuria. Name the enzyme involved in this condition:
++ phenylalanine hydroxylase
+- tyrosinase
+- tyrosine hydroxylase
+- dihydroxyphenylalanine decarboxylase
+- succinate dehydrogenase
+
+? In progressive muscular dystrophy, it is excreted in the urine...
++ creatine
+- creatinine
+- creatine phosphate
+- carnosine
+- anserin
+
+? A patient has poor sleep, irritability, bowel dysfunction (diarrhea), symmetrical skin lesions on the face and hands, and hallucinations. What vitamin deficiency causes this condition?
++ nicotinamide
+- ascorbic acid
+- riboflavin
+- retinol
+- biotin
+
+? A patient was diagnosed with creatinuria. What disease is associated with creatinuria?
++ muscular dystrophy
+- cardiovascular diseases
+- anemia
+- jade
+- hepatitis
+
+? A 60-year-old patient experienced severe fasting hypoglycemia. Glycogen synthesis occurs, but the molecules formed have short side branches. Insufficient activity of which enzyme could be the cause of this pathology?
++ amylo-1,6-transglycosylase
+- glycogen synthetase
+- glycogen phosphorylase
+- oligosaccharides
+- amylo-1,4-glycosidase
+
+? The patient complains of bleeding gums and lesions in the corners of the mouth. This is due to vitamin C deficiency, which disrupts:
++ proline hydroxylation
+- glycine oxidation
+- lysine deamination
+- glycosylation of hydroxyproline
+- collagenase activation
+
+? The anticholesterolemic effect of simvastatin is based on its effectiveness as a competitive inhibitor of the rate-limiting enzyme in cholesterol biosynthesis. What substance is the MOST regulatory in the biosynthesis of cholesterol in the liver?
++ mevalonate
+- methyl malonate
+- lanosterol
+- squalene
+- acetocaine
+
+? Woman B., 50, complains that her ears, nose, and hands have recently begun to enlarge. Hyperfunction of which gland would cause such symptoms?
++ pituitary gland
+- thyroid
+- genital
+- adrenal glands
+- pineal gland
+
+? A 50-year-old man underwent surgery for a laryngeal tumor with soft tissue removal from the neck. Over the course of several months, she developed obesity, developed a tendency toward depression, began losing her hair, and her skin condition worsened. What is your presumptive diagnosis?
++ myxedema
+- Addison
+- rickets
+- hyperthyroidism
+- acremegaly
+
+? A 6-month-old child was admitted to the clinic with diarrhea after breastfeeding. A lactose tolerance test was performed to establish a diagnosis. The child was given 50 g of lactose dissolved in water on an empty stomach. Blood glucose levels were measured after 30, 60, and 90 minutes; there was no increase in blood glucose levels. Why did the blood glucose levels NOT increase?
++ due to lactose deficiency
+- due to a lack of sucrase
+- due to maltase deficiency
+- due to increased lactose content
+- due to increased sucrase content
+
+? Student A. drank only 1 glass of tea containing 50 g of sucrose for breakfast, another student B. ate a piece of bread weighing 50 g. In the blood of which of the students will the glucose content increase by 1.5 times after 30 minutes and why?
++ for student A, due to the high glucose content in 50g of sucrose
+- for student B, due to the high glucose content in 50g of bread
+- for both students, due to the fact that 50g of sucrose and 50g of bread give the same amount of glucose
+- in student B, due to the breakdown of liver glycogen
+- in student A due to the activation of the gluconeogenesis process
+
+? A person performs urgent physical work (for example, running away from danger) 30 minutes after a lunch consisting primarily of carbohydrates. What process occurs with glycogen in skeletal muscles in this situation, and which hormone switches the glycogen metabolism pathways in this situation?
++ anaerobic breakdown of glycogen occurs, adrenaline switches the pathways of glycogen metabolism in this situation
+- anaerobic breakdown of glycogen occurs, cortisol switches the pathways of glycogen metabolism in this situation
+- aerobic breakdown of glycogen occurs, cortisol switches the pathways of glycogen metabolism in this situation
+- anaerobic breakdown of glycogen occurs, glucagon switches the pathways of glycogen metabolism in this situation
+- aerobic breakdown of glycogen occurs, adrenaline switches the pathways of glycogen metabolism in this situation
+
+? Ketone bodies are highly water-soluble acids, so they easily penetrate the blood-brain barrier and, like glucose, serve as a source of energy for nervous tissue. What is the danger of hyperketonemia?
++ development of acidosis
+- development of alkalosis
+- activation of mitochondrial enzymes
+- hydration
+- activation of lipogenesis enzymes
+
+? A patient is experiencing vomiting, stomach pain, and liver dysfunction. What enzyme deficiency leads to this condition?
++ fructose-1-phosphataldolase
+- glucose-1-phosphate mutase
+- glucose-6-phosphatase
+- fructose-1,6-bisphosphatase
+- fumarate hydratase
+
+? A 4-year-old boy has decreased ability to perform physical work. A muscle biopsy revealed that the carnitine concentration in the tissue was four times lower than normal. Fat vacuoles were found in the muscle cell cytosol. What are the possible causes of this condition?
++ insufficient supply of activated fatty acids to the mitochondria
+- excessive supply of activated fatty acids to the mitochondria
+- insufficient supply of non-activated fatty acids to the mitochondria
+- excessive supply of non-activated fatty acids to the mitochondria
+- absence of fatty acids in tissue mitochondria
+
+? Aspirin is prescribed prophylactically for atherosclerosis and the risk of thrombus formation. Which reaction in eicosanoid synthesis is inhibited by aspirin?
++ cyclooxygenase inhibition reaction
+- cyclooxygenase activation reaction
+- phospholipase A2 inhibition reaction
+- lipoxygenase inhibition reaction
+- peroxidase inhibition reaction
+
+? A sick child was found to have elevated phenylpyruvate levels in his urine (normally, these levels are virtually absent). Blood phenylalanine levels were 35 mg/dL (normal is approximately 1.5 mg/dL). What disease are these symptoms characteristic of?
++ phenylketonuria
+- alkaptonuria
+- homocystinuria
+- ketonuria
+- galactosuria
+
+? A newborn baby experiences darkening of urine upon exposure to air, leading to alkaptonuria. What amino acid metabolism is impaired in this condition?
++ tyrosine
+- histidine
+- tryptophan
+- lysine
+- arginine
+
+? The patient is very emaciated due to a serious illness gastrointestinal tract, digestion disorders and absorption. What changes in serum protein levels can be expected when examining such a patient?
++ hypoproteinemia, hypoalbuminemia
+- hyperproteinemia, hyperalbuminemia
+- hyperammonemia, hyperglobulinemia
+- hypoammonemia, hypoglobulinemia
+- dysproteinemia, hyperproteinemia
+
+? Vitamin B6 deficiency in formula-fed infants can lead to nervous system damage. This vitamin plays a role in amino acid metabolism:
++ is a coenzyme of transaminase
+- is a coenzyme of deaminase
+- is a coenzyme of arginase
+- is a coenzyme of argininosuccinate lyase
+- is a coenzyme of argininosuccinate synthetase
+
+? Children with Lesch-Neyhan syndrome experience severe hyperuricemia, accompanied by the development of tophi, urate stones in the urinary tract, and serious neurological abnormalities. The loss of activity of which enzyme is associated with the development of the disease?
++ hypoxanthine oxidase
+- deaminase
+- transaminases
+- decarboxylase
+- carbamoyl phosphate synthase
+
+? Which of the following non-steroidal anti-inflammatory drugs is least likely to cause ulcerative changes in the gastrointestinal tract?
++ meloxicam
+- Voltaren
+- reopyrin
+- indomethacin
+
+? Bile acids are reabsorbed in the gastrointestinal tract. Where does this occur?
++ in the distal ileum
+- in the duodenum
+- in the jejunum
+- in the proximal ileum
+- in the large intestine
+
+? A 5-year-old girl was brought to the pediatrician. According to her mother, she has had slow mental and physical development since birth, as well as visual impairment. Upon examination, the doctor noted abnormally long fingers ("spider hand") and a displaced lens. Serum homocysteine levels were elevated. What enzyme deficiency causes this pathology?
++ methionine synthase
+- citrate synthetase
+- phenylalanine hydroxylase
+- fumarylacetoaetase
+- tyrosinase
+
+? Children with Lesch-Nyhan syndrome experience a severe form of hyperuricemia, accompanied by the development of tophi, urate stones in the urinary tract, and serious neurological abnormalities. The loss of activity of which enzyme is associated with the development of the disease?
++ hypoxanthine guanine phosphoribosyltransferase
+- serine hydroxymethyltransferase
+- argininosuccinate synthetase
+- ornithine carbamoyltransferase
+- dihydroorate dehydrogenase
+
+? A patient exhibits severe fasting hypoglycemia. A liver biopsy revealed that glycogen synthesis occurs, but the molecules formed are molecules with short side branches. Decreased activity of which enzyme could be the cause of this pathology?
++ amylo-(1,4→1,6)-transglycosylase
+- amylo-(1,2→1,4)-transglycosylase
+- glycogen synthetase
+- glycogen phosphorylase
+- amylo-1,6-transglycosylase
+
+? A patient was diagnosed with a hereditary defect of glucose-6-phosphatase in the liver. In this case, glycogen mobilization and glucose release into the blood are impossible. What is the name of the disorder associated with carbohydrate metabolism in this case?
++ Gierke's disease
+- measles disease
+- Anderson's disease
+- Hers disease
+- McArdle disease
+
+? A patient was admitted to the clinic with a non-union femur fracture. What diet was recommended?
++ A diet with a high content of protein, calcium salts, vitamins D and K, and ascorbic acid is recommended
+- a diet with a high content of lipids, calcium salts, vitamins D and K, and ascorbic acid is recommended
+- A diet with a high content of carbohydrates, calcium salts, vitamins D and K, and ascorbic acid is recommended
+- a diet with a high content of protein, carbohydrates, and lipids is recommended
+- A diet with a high content of protein, sodium salts, vitamins B and C is recommended
+
+? A 50-year-old man has been suffering from a duodenal ulcer with frequent recurrences for three years. He responded favorably to therapy with H2 histamine blockers. The latest exacerbation began with pain and was complicated by bleeding. After four weeks of treatment with Zantac, the ulcer healed, but erosive antral gastritis remained. What is the further treatment plan?
++ determination of Helicobacter pylori (HP) and, if the result is positive, antibacterial therapy while taking De-nol
+- long-term maintenance therapy with Zantac
+- surgical treatment
+- Solcoseryl therapy
+- intermittent course therapy with gastrocepin
+
+? During genetic testing, a child was diagnosed with a structural disorder of the apoprotein C-II gene. Upon examination, xanthomas were found on the skin. The plasma is opaque and resembles milk. What biochemical test should be performed to confirm chylomicronemia?
++ TAG concentration in the blood
+- blood cholesterol concentration
+- concentration of free fatty acids in the blood
+- LP(a) concentration in the blood
+- acetone concentration in the blood
+
+? Familial hypercholesterolemia was discovered during an examination of a teenager suffering from xanthomatosis. Which lipoproteins are significantly elevated in the blood in this condition?
++ LDL
+- Chylomicrons
+- VLDL
+- HDL
+- LPPP
+
+? The child is weak and apathetic. The liver is enlarged, and a liver biopsy revealed significant excess glycogen. Blood glucose levels are below normal. What is the cause of the low blood glucose levels in this sick child?
++ decreased activity of glycogen phosphorylase in the liver
+- decreased hexokinase activity
+- decreased glycogen synthase activity
+- decreased sucrase activity
+- deficiency of the gene responsible for the synthesis of glucotransferase
+
+? Patient K., 30, complains of intense thirst and dry mouth, which developed after a severe nervous shock. Laboratory tests revealed an increase in blood sugar to 10 mmol/L. What endocrine gland does the patient have?
++ pancreas
+- thyroid
+- genital
+- adrenal glands
+- pineal gland
+
+? A 70-year-old patient consulted a neurologist with complaints of hand tremors, slowness of movement, and muscle rigidity. Examination revealed decreased dopamine levels in the cerebrospinal fluid. Biochemical analysis showed: • Tyrosine level: 50 μmol/L (normal: 50–100 μmol/L) • L-DOPA level: 2 μmol/L (normal: 5–15 μmol/L) • Dopamine level: 50 pmol/L (normal: 80–200 pmol/L) Which enzyme is most likely underactive in this patient?
++ tyrosine hydroxylase
+- monoamine oxidase (MAO)
+- DOPA decarboxylase
+- catechol-O-methyltransferase
+- acetylcholinesterase
+
+? A 35-year-old female patient complains of chronic fatigue, depressed mood, and insomnia. A biochemical blood test revealed: • Tryptophan level – 40 μmol/l (normal: 50–100 μmol/l) • Serotonin level – 70 ng/ml (normal: 100–200 ng/ml) What substance is necessary for the synthesis of serotonin?
++ tryptophan
+- glutamate
+- tyrosine
+- acetylcholine
+- asparagine
+
+? A 85-year-old patient suffers from cognitive impairment, memory loss, and disorientation. Cerebrospinal fluid analysis revealed decreased acetylcholine levels. What disorder is most likely present in this patient?
++ Alzheimer's disease
+- Parkinson's disease
+- schizophrenia
+- depression
+- epilepsy
+
+? A 20-year-old patient was admitted to the clinic with a seizure. A blood biochemistry analysis revealed: • Glutamate level - 80 μmol/L (normal: 50-80 μmol/L) • GABA level - 20 μmol/L (normal: 30-50 μmol/L) Which enzyme is likely to have reduced activity?
++ glutamate decarboxylase
+- tyrosine hydroxylase
+- DOPA decarboxylase
+- monoamine oxidase
+- acetylcholinesterase
+
+? A 28-year-old patient was admitted to a psychiatric clinic with delusions, hallucinations, and disorganized behavior. Blood tests revealed: • Dopamine level - 220 pmol/l (normal: 80-200 pmol/l) • Norepinephrine level - 500 pg/ml (normal: 200-500 pg/ml) Which link in neurotransmitter metabolism is key in the pathogenesis of schizophrenia?
++ hyperproduction of dopamine
+- dopamine deficiency
+- decreased GABA levels
+- acetylcholine deficiency
+- serotonin hyperactivation
+
+? A 42-year-old patient taking SSRI (selective serotonin reuptake inhibitor) antidepressants was admitted to the intensive care unit with hyperthermia, tachycardia, myoclonus, and confusion. Blood tests revealed: • Serotonin level - 320 ng/ml (normal: 100-200 ng/ml) What is the mechanism underlying this condition?
++ excessive accumulation of serotonin
+- serotonin receptor blockade
+- serotonin deficiency
+- increased breakdown of serotonin
+- tryptophan deficiency
+
+? A patient with Parkinson's disease is receiving a monoamine oxidase (MAO) inhibitor. What is the consequence of this treatment?
++ slowing down the breakdown of dopamine
+- acceleration of dopamine breakdown
+- decreased dopamine synthesis
+- increased breakdown of acetylcholine
+- increased GABA levels
+
+? A patient with chronic fatigue, hypotension, and apathy. Biochemical analysis showed: • Tyrosine level – 40 μmol/L (normal: 50–100 μmol/L) • Dopamine level – 60 pmol/L (normal: 80–200 pmol/L) • Norepinephrine level – 120 pg/ml (normal: 200–500 pg/ml) Which amino acid is a precursor of norepinephrine?
++ tyrosine
+- tryptophan
+- glutamine
+- aspartate
+- alanine
+
+? A patient with Alzheimer's disease was prescribed a drug that blocks acetylcholinesterase. What is its mechanism of action?
++ slowing the destruction of acetylcholine
+- acceleration of acetylcholine destruction
+- blockade of acetylcholine synthesis
+- increased breakdown of serotonin
+- decreased GABA production
+
+? A patient with a stroke was admitted with a neurological deficit. Blood tests revealed: • Glutamate level – 95 μmol/L (normal: 50–80 μmol/L) What condition is associated with excessive stimulation of glutamate receptors?
++ excitotoxicity
+- Alzheimer's disease
+- epilepsy
+- schizophrenia
+- depression
+
+? A 38-year-old female patient consulted a doctor complaining of constant fatigue, insomnia, and a lack of interest in life. A blood biochemistry analysis revealed: Tryptophan level: 45 μmol/L (normal: 50–100 μmol/L) Serotonin level: 80 ng/ml (normal: 100–200 ng/ml) What neurotransmitter imbalance is most likely associated with the patient's condition?
++ serotonin deficiency
+- dopamine deficiency
+- acetylcholine deficiency
+- excess glutamate
+- GABA deficiency
+
+? A 27-year-old man complains of auditory hallucinations, delusional ideas, and disorganized speech. Blood tests showed: Dopamine level: 230 pmol/L (normal: 80-200 pmol/L). What metabolic disorder is most likely associated with this condition?
++ excess dopamine
+- dopamine deficiency
+- serotonin deficiency
+- acetylcholine hyperactivity
+- glutamate deficiency
+
+? A 30-year-old woman complains of constant anxiety, sleep disturbances, and increased fatigue. A cerebrospinal fluid analysis revealed: GABA level - 18 μmol/L (normal: 30-50 μmol/L). What is the most likely cause of her symptoms?
++ GABA deficiency
+- excess serotonin
+- excess acetylcholine
+- dopamine deficiency
+- hyperactivation of norepinephrine
+
+? The patient complains of bleeding gums and easy bruising even with mild mechanical stress. Tests revealed slow blood clotting and low levels of a certain vitamin. Which of these factors could be causing this condition?
++ vitamin K deficiency in the body
+- insufficient intake of vitamin C
+- excessive sodium intake with food
+- violation of osmotic pressure due to chlorine deficiency
+- excess potassium in the blood
+
+? A patient was hospitalized with severe swelling of the lower extremities. Laboratory tests show decreased plasma osmotic pressure. Which factor is most likely associated with this pathology?
++ decreased blood albumin levels
+- increased sodium concentration in the blood
+- insufficient intake of vitamin C
+- excess potassium in blood plasma
+- disorder of coagulation factor synthesis
+
+? A patient with arterial hypertension reports a rapid heartbeat. A biochemical analysis reveals elevated plasma sodium levels. Which process is most likely exacerbated by this condition?
++ increase in osmotic pressure
+- removal of potassium from the body
+- suppression of renal function
+- violation of vitamin synthesis
+- increased chlorine levels in the intercellular fluid
+
+? The patient complains of bleeding gums and a tendency to bruise. Laboratory tests reveal impaired blood clotting. Which vitamin deficiency is most likely causing these symptoms?
++ vitamin K
+- vitamin C
+- vitamin E
+- vitamin A
+- vitamin B1
+
+? A patient suffering from varicose veins is advised to increase their vitamin C intake. What is the main role of vitamin C in strengthening blood vessels?
++ collagen synthesis to support vascular walls
+- regulation of osmotic pressure in capillaries
+- synthesis of coagulation factors
+- decrease in the concentration of chlorine in blood plasma
+- regulation of potassium levels in cells
+
+? A patient has hyponatremia (low sodium levels in the blood). Which of the following disorders is most likely a consequence of this condition?
++ decrease in extracellular fluid volume
+- increased blood pressure
+- increased osmotic pressure in plasma
+- blood clotting disorder
+- acceleration of vitamin K synthesis in the liver
+
+? A patient with chronic vitamin K deficiency is being examined. Which deficiency is most likely associated with this condition?
++ tendency to bleed
+- violation of osmotic pressure
+- increased blood chlorine levels
+- inhibition of collagen synthesis
+- increased blood pressure
+
+? A patient with hypernatremia complains of thirst and general weakness. What disorder is most likely present in this case?
++ increased osmotic pressure in plasma
+- decrease in osmotic pressure
+- reducing the concentration of chlorine
+- accelerating the synthesis of vitamin C
+- inhibition of blood coagulation
+
+? An examination of the patient revealed increased capillary permeability, leading to small hemorrhages. What vitamin deficiency could cause this condition?
++ vitamin C
+- vitamin D
+- vitamin K
+- vitamin B12
+- vitamin E
+
+? The patient is experiencing decreased blood clotting. What elements or vitamins play a key role in normalizing this process?
++ K and calcium
+- sodium and potassium
+- chlorine and magnesium
+- vitamin C and sodium
+- phosphorus and iron
+
+? A patient with chronic heart failure experiences rapid fatigue and shortness of breath during physical exertion. Which of the following biochemical abnormalities is most likely present in myocardial cells?
++ excess lactate due to anaerobic glycolysis
+- calcium deficiency in the sarcoplasmic reticulum
+- inhibition of collagen synthesis
+- increasing the level of osmotic pressure
+- vitamin K deficiency
+
+? A patient with impaired vascular tone was found to have decreased nitric oxide (NO) synthesis. Which enzyme is involved in the synthesis of NO, which maintains vascular tone?
++ NO synthase
+- cytochrome c oxidase
+- adenylate cyclase
+- carbonic anhydrase
+- lactate dehydrogenase
+
+? A patient with coronary artery disease complains of chest pain after physical exertion. What biochemical change is most likely to occur in myocardial cells during ischemia?
++ lactic acid accumulation
+- increased oxygen consumption
+- increased ATP synthesis
+- speeding up the Krebs cycle
+- decreased sodium levels in cells
+
+? A patient with hypokalemia (low blood potassium) complains of weakness and arrhythmia. What biochemical consequences may be observed in myocardial cells?
++ decreased activity of the sodium-potassium pump
+- collagen synthesis disorder
+- increasing the concentration of chlorine
+- increased plasma calcium levels
+- increased osmotic pressure
+
+? A patient has been diagnosed with cardiac hypertrophy. What changes in the chemical composition of the myocardium may be observed in this condition?
++ increasing collagen levels
+- decrease in myoglobin content
+- fat accumulation
+- decrease in calcium content
+- decreased activity of Krebs cycle enzymes
+
+? A patient with prolonged oxygen deprivation is recommended to increase antioxidants in his diet. What role do they play in myocardial biochemistry?
++ prevention of membrane lipid damage
+- maintaining osmotic pressure
+- increased synthesis of coagulation factors
+- acceleration of glycogen breakdown
+- reducing lactic acid accumulation
+
+? The patient has signs of mitochondrial dysfunction in myocardial cells. What is the most likely consequence?
++ decreased ATP production
+- acceleration of oxidative phosphorylation
+- increased collagen synthesis
+- increased osmotic pressure
+- decrease in calcium content in the cytoplasm
+
+? A patient with arterial hypertension undergoes biochemical testing. Elevated angiotensin II levels are detected. What role does this hormone play in regulating vascular tone?
++ increases vascular tone, promoting vasoconstriction
+- reduces plasma sodium levels
+- reduces calcium levels in cells
+- increases collagen synthesis
+- lowers blood pressure
+
+? A patient with heart failure experiences impaired oxygen transport to tissues. What function does myoglobin perform in myocardial cells?
++ oxygen transport to mitochondria
+- participates in the transmission of impulses
+- regulates calcium levels in the sarcoplasm
+- participates in the synthesis of ATP
+- reduces lactic acid levels
+
+? A patient has been shown to have decreased ATP synthesis in myocardial cells. What is the primary substrate used for its synthesis under normal conditions?
++ fatty acids
+- glucose
+- amino acids
+- lactate
+- fructose
+
+? A patient with hypovitaminosis C has delayed wound healing. What is the underlying cause of this condition?
++ slowing down collagen synthesis
+- inhibition of coagulation factor synthesis
+- increased osmotic pressure in plasma
+- disruption of chlorine transport across cell membranes
+- increased potassium levels in cells
+
+? A patient with suspected myocardial infarction had his blood creatine kinase-MB (CK-MB) measured. What is the clinical significance of this enzyme?
++ Indicates damage to the heart muscle
+- Indicates liver damage
+- Reflects blood glucose levels
+- Associated with the synthesis of coagulation factors
+- Reflects kidney activity
+
+? The patient has an elevated troponin level in the blood. What does this indicator indicate?
++ myocardial damage
+- skeletal muscle injury
+- impaired kidney function
+- decrease in plasma oxygen levels
+- vitamin C deficiency
+
+? A patient experienced a temporary increase in blood lactate after prolonged physical exertion. What process was most likely activated in the myocardium?
++ anaerobic glycolysis
+- oxidative phosphorylation
+- protein synthesis
+- increasing the Krebs cycle
+- inhibition of lipolysis
+
+? A patient with myocardial ischemia experiences decreased ATP levels in cardiomyocytes. What process normally provides the majority of the energy for ATP synthesis?
++ fatty acid oxidation
+- anaerobic glycolysis
+- protein breakdown
+- glycogen synthesis
+- increased calcium levels in cells
