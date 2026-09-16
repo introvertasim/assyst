@@ -1,6 +1,6 @@
-# 🩺 MBBS Study Material
+# 🩺 MBBS Study Material By Asim
 
-> **A centralized study resource hub for MBBS students.**
+> **A centralized study resource hub for MBBS students — created by Asim.**
 
 A clean and simple website designed to help medical students **discover, access, and download useful MBBS study materials** from one place\.
 
@@ -16,6 +16,14 @@ A clean and simple website designed to help medical students **discover, access,
 
 The project aims to make MBBS study resources **organized, accessible, and easier to find**, so students can spend less time searching and more time studying\.
 
+## 👨‍💻 Created by Asim
+
+**Asim** — Creator & Maintainer
+
+This project was built with the goal of making medical education resources more accessible and convenient for students\.
+
+> 💡 **Built with purpose. Built for students.**
+
 ## ⚖️ Disclaimer
 
 This project is created for **educational purposes only**\. Please ensure that all resources shared through the website are legally available for distribution and respect the copyrights of their respective owners\.
@@ -24,7 +32,10 @@ This project is created for **educational purposes only**\. Please ensure that a
 
 <div align="center">
 
-🩺 **Built for medical students\.**
+🩺 **MBBS Study Material**
+
+### Built by **Asim** ❤️
+
 📚 **Learn • Prepare • Excel**
 
 </div>
