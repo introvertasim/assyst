@@ -1,0 +1,1882 @@
+? The organ that is an amazing musical instrument:
++ larynx
+- tongue
+- pharynx
+- trachea
+- bronchi
+
+? The laryngeal cartilage that has the “Adam’s apple”:
++ thyroid
+- cricoid
+- epiglottis
+- arytenoid
+- corniculate
+
+? The laryngeal cartilage that has a ring and a lamina:
++ cricoid
+- thyroid
+- epiglottis
+- arytenoid
+- corniculate
+
+? The laryngeal cartilage that has the shape of a leaf:
++ epiglottis
+- cricoid
+- thyroid
+- arytenoid
+- corniculate
+
+? The unpaired laryngeal cartilages include:
++ thyroid
+- cuneiform
+- conical
+- arytenoid
+- corniculate
+
+? Number of lobes in the right lung:
++ 3
+- 1
+- 2
+- 4
+- 5
+
+? Number of lobes in the left lung:
++ 2
+- 1
+- 3
+- 4
+- 5
+
+? Number of fissures in the right lung:
++ 2
+- 1
+- 3
+- 4
+- 5
+
+? Number of fissures in the left lung:
++ 1
+- 2
+- 3
+- 4
+- 5
+
+? The acinus is the functional and anatomical unit of the:
++ lung
+- liver
+- kidneys
+- uterus
+- prostate
+
+? Function of the lungs:
++ gas exchange
+- urine formation
+- reservoir
+- urinary excretion
+- bile formation
+
+? The lungs are located in …
++ thoracic cavity
+- abdominal cavity
+- pelvic cavity
+- neck region
+- mediastinum
+
+? Parts of the nasal cavity:
++ respiratory and olfactory
+- respiratory and visual
+- respiratory and tactile
+- olfactory and auditory
+- olfactory and gustatory
+
+? The nasal meatus is …
++ a space beneath the nasal concha
+- the vestibule of the nasal cavity
+- the opening of the nasolacrimal duct
+- a groove near the frontal process of the maxilla
+- a fissure between the lesser and greater wings of the sphenoid bone
+
+? The larynx is a part of …
++ the respiratory system and the vocal apparatus
+- the respiratory system and the musculoskeletal system
+- the digestive system and the vocal apparatus
+- the digestive system and the urogenital system
+- the urinary system and the vocal apparatus
+
+? The trachea is …
++ a tubular organ located between the larynx and the bronchi
+- a tubular organ located between the oral cavity and the esophagus
+- a lobular organ located at the upper pole of the kidney
+- a tubular organ located between the kidney and the urinary bladder
+- a lobular organ located between the lungs
+
+? The bifurcation of the trachea is …
++ division of the trachea into two main bronchi
+- a connective tissue layer between adjacent cartilaginous semirings
+- the outer membrane of the trachea
+- a valve in the wall of the trachea
+- a partial crossing of the trachea with the aortic arch
+
+? The inferior nasal meatus receives the opening of the:
++ nasolacrimal duct
+- frontal sinus
+- maxillary sinus
+- anterior ethmoidal cells
+- Eustachian tube
+
+? Unpaired laryngeal cartilage:
++ thyroid
+- corniculate
+- cuneiform
+- arytenoid
+- quadrangular
+
+? Skeletotopy of the larynx:
++ at the level of the IV–VI cervical vertebrae
+- at the level of the II–IV cervical vertebrae
+- at the level of the II cervical vertebra
+- at the level of the VI–VII cervical vertebrae
+- at the level of the I thoracic vertebra
+
+? Number of processes of the arytenoid cartilage:
++ two
+- three
+- four
+- one
+- five
+
+? The bronchial tree includes …
++ main bronchi
+- alveolar bronchi
+- alveoli
+- alveolar duct
+- alveolar sacs
+
+? The composition of the alveolar tree:
++ respiratory bronchioles
+- segmental bronchi
+- lobar bronchi
+- main bronchi
+- terminal bronchioles
+
+? The hilum of the lungs is located …
++ on the medial surface
+- on the diaphragmatic surface
+- at the apex
+- on the costal surface
+- at the base
+
+? Three segments are present …
++ in the upper lobe of the right lung
+- in the lower lobe of the right lung
+- in the lower lobe of the left lung
+- in the middle lobe of the right lung
+- in the upper lobe of the left lung
+
+? Two segments are present …
++ in the middle lobe of the right lung
+- in the lower lobe of the right lung
+- in the lower lobe of the left lung
+- in the upper lobe of the left lung
+- in the upper lobe of the right lung
+
+? Surface of the lung:
++ diaphragmatic
+- anterior
+- superior
+- lateral
+- posterior
+
+? The intercartilaginous part of the rima glottidis is located:
++ between the arytenoid cartilages
+- between the vestibular folds of the larynx
+- between the vestibular and vocal folds
+- between the cuneiform cartilages
+- between the corniculate cartilages
+
+? The arch of the cricoid cartilage is directed:
++ forward
+- backward
+- upward
+- downward
+- inward
+
+? Muscles that widen the rima glottidis:
++ posterior cricoarytenoid muscle
+- thyroarytenoid muscle
+- transverse arytenoid muscle
+- lateral cricoarytenoid muscle
+- oblique arytenoid muscle
+
+? Muscles involved in phonation:
++ laryngeal muscles
+- muscles of the oral cavity walls
+- muscles of the tongue
+- pharyngeal muscles
+- facial muscles
+
+? The bifurcation of the trachea in an adult is located at the level of:
++ 5th thoracic vertebra
+- sternal angle
+- jugular notch of the sternum
+- upper border of the aortic arch
+- 3rd thoracic vertebra
+
+? In front of the trachea is located:
++ pretracheal layer of the cervical fascia
+- pharynx
+- esophagus
+- thoracic duct
+- larynx
+
+? At the hilum of the left lung above the main bronchus is located:
++ pulmonary artery
+- azygos vein
+- hemiazygos vein
+- portal vein
+- pulmonary vein
+
+? Above the right main bronchus is located:
++ azygos vein
+- hemiazygos vein
+- arch of the thoracic duct
+- bifurcation of the pulmonary trunk
+- sympathetic trunk
+
+? At the hilum of the right lung, the highest position is occupied by:
++ main bronchus
+- pulmonary artery
+- right superior pulmonary vein
+- nerves
+- right inferior pulmonary vein
+
+? Number of segments in the left lung:
++ 10
+- 2
+- 7
+- 8
+- 9
+
+? Muscles that tense the vocal cords:
++ cricothyroid muscle
+- posterior cricoarytenoid muscle
+- thyroarytenoid muscle
+- thyrohyoid muscle
+- oblique arytenoid muscle
+
+? Anatomical structures in the mucous membrane of the trachea:
++ tracheal glands
+- annular ligaments
+- cardiac glands
+- lymphoid plaques
+- pyloric glands
+
+? Accessory inspiratory muscles:
++ sternocleidomastoid and scalene muscles
+- internal oblique and rectus abdominis muscles
+- transversus abdominis and pyramidalis
+- quadratus lumborum and iliopsoas
+- latissimus dorsi and trapezius
+
+? During pneumonia, lung function is impaired, which manifests as disturbed gas exchange between air and blood. Name the part of the lung parenchyma where gas exchange occurs:
++ alveoli
+- terminal bronchioles
+- segmental bronchi
+- primary bronchi
+- polysegmental bronchus
+
+? A young man has rhinitis (inflammation of the nasal mucosa). He does not perceive or distinguish odors. Name the area of the nasal mucosa responsible for the perception of odors and involved in the pathological process:
++ olfactory area
+- visual area
+- respiratory area
+- nasal area
+- orbital area
+
+? A cement factory worker has atrophy (thinning) of the nasal mucosa. He complains of persistent runny nose and occasional nosebleeds. His sense of smell is not impaired. Name the features of structure and function that will be affected by thinning:
++ covered with ciliated epithelium, cleaning, humidifying, warming
+- covered with squamous epithelium, protective
+- covered with stratified epithelium, covering
+- covered with simple epithelium, respiratory
+- covered with keratinized epithelium, olfactory
+
+? Patient V., 44 years old, was admitted to the therapeutic department with a diagnosis of right-sided pleuritis (inflammation of the pleura). Examination confirmed the presence of fluid in the pleural cavity. Name the pleural sinus where the largest accumulation of serous fluid will occur:
++ right costodiaphragmatic
+- left mediastinodiaphragmatic
+- right costomediastinal
+- left costomediastinal
+- right mediastinodiaphragmatic
+
+? A patient undergoes endoscopic examination of the trachea in search of a pathological focus. Indicate the layer of the tracheal wall accessible to endoscopic inspection:
++ mucous membrane, ciliated epithelium
+- membranous wall
+- pseudostratified columnar epithelium
+- muscular wall
+- connective tissue layer
+
+? A girl has bronchial asthma. Attacks of suffocation are accompanied by narrowing of the bronchi and accumulation of viscous mucus, forming mucous plugs that block the bronchial lumen. Indicate the layer of the bronchial wall involved in the pathological process:
++ fibromuscular-cartilaginous layer
+- cartilaginous layer
+- adventitial layer
+- submucosal layer
+- muscular layer
+
+? A 3-year-old child was admitted with a foreign body in the bronchi. Indicate the bronchus into which the foreign body entered:
++ right main bronchus
+- left main bronchus
+- right segmental bronchus
+- left segmental bronchus
+- lobar bronchus
+
+? A 7-year-old girl complains of difficulty breathing through the nose. Examination revealed nasal stones in the area of the inferior nasal meatus. Name the functions of the nasal cavity that will be affected:
++ respiratory, resonatory, and protective functions
+- receptor, protective function
+- nutritive, receptor function
+- gas exchange function, receptor function
+- olfactory function, resonatory
+
+? A 47-year-old woman has a burn of the larynx. The mucous membrane of the laryngeal cavity is damaged. Will the patient have impaired phonation?
++ yes, vocal cords are damaged
+- no, vocal cords are not damaged
+- yes, vestibular folds are damaged
+- no, vestibular folds are not damaged
+- yes, stylohyoid ligaments are damaged
+
+? A 7-year-old boy has an esophageal diverticulum (protrusion of the wall) detected radiologically. Why does the patient cough constantly while eating?
++ cervical and thoracic trachea are located in front of the esophagus, causing cough reflex
+- cervical trachea is located in front of the esophagus, causing swallowing reflex
+- irritation of the vascular-nerve bundle of the neck occurs
+- irritation of the vagus nerve occurs
+- irritation of the pharyngoesophageal constriction occurs
+
+? Children under 3 often have laryngeal stenosis (false croup). Indicate the causes:
++ high concentration of mucous glands, richly vascularized mucosa
+- cartilages are soft and pliable, mucosa is delicate
+- edema of mucosa by 1 mm narrows the laryngeal lumen
+- cartilages are soft and pliable
+- mucosa is richly vascularized
+
+? During lung examination, the doctor inserted a bronchoscope into one of the lobar bronchi and found that it divides into two segmental bronchi. In which lobe was the procedure performed?
++ in the middle lobe of the right lung
+- in the upper lobe of the right lung
+- in the lower lobe of the right lung
+- in the upper lobe of the left lung
+- in the lower lobe of the left lung
+
+? A patient with a knife wound to the right chest and pneumothorax was admitted to the surgical department. Percussion revealed that the lower border of the right lung along the midclavicular line rose to the level of the 3rd rib. Where should it normally be located?
++ 6th rib
+- 5th rib
+- 7th rib
+- 8th rib
+- 9th rib
+
+? During laryngeal examination, a phoniatrist revealed nodular formations on the vocal cords. Between which structures are the vocal cords located?
++ between the arytenoid and thyroid cartilages
+- between the arytenoid cartilages
+- between the thyroid cartilage and epiglottis
+- between the arytenoid cartilages and epiglottis
+- between the vocal and muscular processes of the arytenoid cartilages
+
+? A patient with acute respiratory viral infection was diagnosed with left-sided maxillary sinusitis. From which anatomical structure did the infection spread?
++ left middle nasal meatus
+- common nasal meatus
+- left superior nasal meatus
+- left inferior nasal meatus
+- cribriform plate of the ethmoid bone
+
+? During lung surgery, the surgeon removed a blood clot from the horizontal fissure. Which lobes of the lung does this fissure separate?
++ upper and middle lobes of the right lung
+- lower and middle lobes of the right lung
+- upper and lower lobes of the right lung
+- upper and lower lobes of the left lung
+- lower lobes of the right and left lungs
+
+? A 12-year-old patient was admitted with sudden cough and choking. Radiological examination revealed a foreign body at the bifurcation of the trachea (bifurcatio tracheae). At what level is the foreign body located?
++ Th4–Th5
+- C7–Th1
+- Th1–Th2
+- C6–C7
+- Th6–Th8
+
+? A 27-year-old man was admitted with an open fracture of the occipital bone and severe bleeding from the wound. What could be the cause of severe bleeding in this case?
++ injury of the transverse venous sinus
+- injury of the cavernous sinus
+- injury of the superior petrosal sinus
+- injury of the inferior petrosal sinus
+- injury of the spheno-parietal sinus
+
+? A patient went to the ENT department complaining of pronounced nasal mucosal swelling and watery eyes. Why do the eyes water during inflammation of the nasal mucosa?
++ edema of the nasolacrimal duct
+- conjunctivitis
+- increased tear secretion
+- compression of the lacrimal sac
+- reflex reaction
+
+? A child accidentally inhaled a pea while playing. In which bronchus is it most likely to become stuck?
++ in the right bronchus
+- in the left bronchus
+- in the bronchioles
+- at the bifurcation
+- it will get stuck in the trachea
+
+? Pus accumulates in the lowest part of the pleural cavity:
++ costodiaphragmatic recess
+- costomediastinal recess
+- mediastinum
+- pulmonary ligament
+- pericardial cavity
+
+? A patient has pleuritis with formation of a large amount of serous fluid. In which pleural recess will it accumulate first?
++ in the costodiaphragmatic recess
+- in the diaphragmatic recess
+- in the mediastinocostal recess
+- in the mediastinal recess
+- in the costal recess
+
+? A patient with purulent maxillary sinusitis requires puncture. Through which nasal meatus will the ENT doctor make the puncture to remove the pus?
++ through the middle nasal meatus
+- through the superior nasal meatus
+- through the inferior nasal meatus
+- through the incisive foramen
+- through the infraorbital foramen
+
+? A patient with exudative pleuritis needs pleural puncture on the right side. In which intercostal space and along which line is this procedure performed?
++ 8th intercostal space along the midaxillary line
+- 9th intercostal space along the midaxillary line
+- 5th intercostal space along the midclavicular line, right side
+- 6th intercostal space along the midclavicular line
+- 8th intercostal space along the scapular line
+
+? A patient with cancer needs removal of the upper lobe of the left lung. How many lung segments will be removed during the surgery?
++ 5 segments
+- 1 segment
+- 2 segments
+- 3 segments
+- 4 segments
+
+? A 2-year-old child with pharyngitis feels ear congestion. Which anatomical structure connects the pharyngeal cavity with the middle ear?
++ auditory tube (Eustachian tube)
+- fallopian tube
+- external acoustic meatus
+- internal acoustic meatus
+- middle nasal meatus
+
+? Which cartilage of the larynx is the largest?
++ thyroid cartilage (Cartilago thyroidea)
+- cricoid cartilage (Cartilago cricoidea)
+- arytenoid cartilage (Cartilago arytenoidea)
+- epiglottic cartilage (Cartilago epiglottica)
+- corniculate cartilage (Cartilago corniculata)
+
+? Which laryngeal cartilage has the shape of a ring?
++ cricoid cartilage (Cartilago cricoidea)
+- thyroid cartilage (Cartilago thyroidea)
+- arytenoid cartilage (Cartilago arytenoidea)
+- epiglottic cartilage (Cartilago epiglottica)
+- cuneiform cartilage (Cartilago cuneiformis)
+
+? Which ligament forms the true vocal folds?
++ vocal ligament (Ligamentum vocale)
+- vestibular ligament (Ligamentum vestibulare)
+- thyrohyoid ligament (Ligamentum thyrohyoideum)
+- hyoepiglottic ligament (Ligamentum hyoepiglotticum)
+- cricotracheal ligament (Ligamentum cricotracheale)
+
+? Which ligament forms the vestibular folds of the larynx?
++ vestibular ligament (Ligamentum vestibulare)
+- vocal ligament (Ligamentum vocale)
+- thyrohyoid ligament (Ligamentum thyrohyoideum)
+- cricothyroid ligament (Ligamentum cricothyroideum)
+- hyoepiglottic ligament (Ligamentum hyoepiglotticum)
+
+? Which muscle adducts the vocal folds?
++ lateral cricoarytenoid muscle (M. cricoarytenoideus lateralis)
+- posterior cricoarytenoid muscle (M. cricoarytenoideus posterior)
+- thyroarytenoid muscle (M. thyroarytenoideus)
+- vocalis muscle (M. vocalis)
+- aryepiglottic muscle (M. aryepiglotticus)
+
+? Which muscle is the only abductor of the vocal folds?
++ posterior cricoarytenoid muscle (M. cricoarytenoideus posterior)
+- lateral cricoarytenoid muscle (M. cricoarytenoideus lateralis)
+- vocalis muscle (M. vocalis)
+- thyroarytenoid muscle (M. thyroarytenoideus)
+- transverse arytenoid muscle (M. arytenoideus transversus)
+
+? Which muscle tenses the vocal cords?
++ cricothyroid muscle (M. cricothyroideus)
+- thyroarytenoid muscle (M. thyroarytenoideus)
+- vocalis muscle (M. vocalis)
+- aryepiglottic muscle (M. aryepiglotticus)
+- posterior cricoarytenoid muscle (M. cricoarytenoideus posterior)
+
+? What is the entrance to the larynx called?
++ aditus laryngis
+- rima glottidis
+- ventricle of larynx (ventriculus laryngis)
+- infraglottic cavity (cavitas infraglottica)
+- vestibule of larynx (vestibulum laryngis)
+
+? What is the space between the vocal folds called?
++ rima glottidis
+- rima vestibuli
+- ventricle of larynx (ventriculus laryngis)
+- aditus laryngis
+- infraglottic cavity (cavitas infraglottica)
+
+? Which part of the larynx is located above the vocal folds?
++ vestibule of larynx (vestibulum laryngis)
+- ventricle of larynx (ventriculus laryngis)
+- infraglottic cavity (cavitas infraglottica)
+- rima glottidis
+- arytenoid cartilage (Cartilago arytenoidea)
+
+? At what vertebral level does the trachea begin?
++ C6
+- C4
+- C7
+- Th1
+- Th2
+
+? At what vertebral level does the bifurcation of the trachea occur?
++ Th4–Th5
+- Th2
+- Th6
+- C7
+- Th7
+
+? What is the place of tracheal bifurcation called?
++ carina of trachea (Carina tracheae)
+- hilum of lung (Hilum pulmonis)
+- apex of lung (Apex pulmonis)
+- base of lung (Basis pulmonis)
+- cervical part of trachea (Pars cervicalis tracheae)
+
+? What forms the posterior wall of the trachea?
++ membranous wall (Paries membranaceus)
+- tracheal cartilages (Cartilagines tracheales)
+- annular ligaments (Ligamenta anularia)
+- adventitia
+- mucous membrane (Tunica mucosa)
+
+? What are the main bronchi called in Latin?
++ Bronchi principales
+- Bronchi lobares
+- Bronchi segmentales
+- Bronchi terminales
+- Bronchi respiratorii
+
+? How do the right and left main bronchi differ?
++ The right is wider, shorter, and more vertical
+- The left is wider, shorter, and more vertical
+- The right is longer and more horizontal
+- The left is longer and more vertical
+- No differences
+
+? How many lobar bronchi are in the right lung?
++ 3
+- 2
+- 4
+- 5
+- 6
+
+? How many lobar bronchi are in the left lung?
++ 2
+- 3
+- 4
+- 5
+- 6
+
+? What are the 3rd-order bronchi called?
++ segmental bronchi (Bronchi segmentales)
+- main bronchi (Bronchi principales)
+- lobar bronchi (Bronchi lobares)
+- terminal bronchi (Bronchi terminales)
+- respiratory bronchi (Bronchi respiratorii)
+
+? Which bronchi pass into the respiratory part?
++ terminal bronchi (Bronchi terminales)
+- main bronchi (Bronchi principales)
+- lobar bronchi (Bronchi lobares)
+- segmental bronchi (Bronchi segmentales)
+- mediastinal bronchi (Bronchi mediastinales)
+
+? How many segments are in the right lung?
++ 10
+- 9
+- 11
+- 8
+- 7
+
+? How many segments are in the left lung?
++ 9
+- 10
+- 11
+- 8
+- 7
+
+? Which lobe exists only in the right lung?
++ middle lobe
+- upper lobe
+- lower lobe
+- anterior lobe
+- posterior lobe
+
+? What is the apex of the lung called?
++ Apex pulmonis
+- Basis pulmonis
+- Hilum pulmonis
+- Facies diaphragmatica
+- Facies costalis
+
+? What is the base of the lung called?
++ Basis pulmonis
+- Apex pulmonis
+- Hilum pulmonis
+- Facies mediastinalis
+- Margo anterior
+
+? Which surface of the lung is adjacent to the diaphragm?
++ Facies diaphragmatica
+- Facies costalis
+- Facies mediastinalis
+- Facies interlobaris
+- Facies pulmonalis
+
+? Which surface of the lung faces the thoracic wall?
++ Facies costalis
+- Facies diaphragmatica
+- Facies mediastinalis
+- Facies interlobaris
+- Facies visceralis
+
+? What is the notch on the anterior border of the left lung called?
++ Incisura cardiaca pulmonis sinistri
+- Sulcus aortae
+- Sulcus venae azygos
+- Impressio esophagea
+- Impressio costalis
+
+? What is the tongue-like projection of the left lung called?
++ Lingula pulmonis sinistri
+- Lobulus pulmonis
+- Basis pulmonis
+- Apex pulmonis
+- Hilum pulmonis
+
+? Where is the hilum of the lung located?
++ On the medial surface (facies mediastinalis)
+- On the diaphragmatic surface
+- At the apex
+- On the anterior border
+- On the costal surface
+
+? What is the pleura covering the lung called?
++ Pleura visceralis
+- Pleura parietalis
+- Pleura costalis
+- Pleura diaphragmatica
+- Pleura mediastinalis
+
+? What is the pleura lining the thoracic wall called?
++ Pleura costalis
+- Pleura visceralis
+- Pleura diaphragmatica
+- Pleura mediastinalis
+- Pleura pulmonalis
+
+? What is the pleura covering the diaphragm called?
++ Pleura diaphragmatica
+- Pleura costalis
+- Pleura visceralis
+- Pleura mediastinalis
+- Pleura pulmonalis
+
+? What is the pleura adjacent to the mediastinum called?
++ Pleura mediastinalis
+- Pleura visceralis
+- Pleura costalis
+- Pleura diaphragmatica
+- Pleura pulmonalis
+
+? What is the space between the pleurae called?
++ Cavitas pleuralis
+- Mediastinum
+- Cavitas thoracis
+- Cavitas pericardialis
+- Cavitas infraglottica
+
+? What is the deepest recess of the pleura?
++ Recessus costodiaphragmaticus
+- Recessus costomediastinalis
+- Recessus phrenicomediastinalis
+- Recessus vertebralis
+- Recessus axillaris
+
+? Where does the pleura pass from one surface to another?
++ In the region of the lung root (radix pulmonis)
+- At the apex pulmonis
+- At the basis pulmonis
+- At the incisura cardiaca
+- At the lingula pulmonis
+
+? What forms the pulmonary ligament (lig. pulmonale)?
++ A duplication of pleura at the lung root
+- A diaphragm ligament
+- A thickening of the trachea
+- A remnant of the thymus
+- A continuation of the pericardium
+
+? What is the medial surface of the lung adjacent to the pleura called?
++ Facies mediastinalis
+- Facies diaphragmatica
+- Facies costalis
+- Facies interlobaris
+- Facies pulmonalis
+
+? What is the costal part of the pleura called?
++ Pleura costalis
+- Pleura visceralis
+- Pleura diaphragmatica
+- Pleura mediastinalis
+- Pleura pulmonalis
+
+? How many segments are there in the upper lobe of the right lung?
++ 3
+- 2
+- 4
+- 5
+- 6
+
+? Which segment belongs to the upper lobe of the right lung?
++ Apicalis (S1)
+- Medialis basalis (S7)
+- Lateralis basalis (S9)
+- Posterior basalis (S10)
+- Superior lingularis
+
+? Which segment is in the upper lobe of the left lung?
++ Apicalis (S1)
+- Medialis basalis (S7)
+- Lateralis basalis (S9)
+- Posterior basalis (S10)
+- Anterior basalis (S8)
+
+? Which segments form the lingula of the left lung?
++ Superior lingularis (S4) and inferior lingularis (S5)
+- Apicalis (S1) and posterior (S2)
+- Superior basalis (S6)
+- Lateralis basalis (S9) and posterior basalis (S10)
+- Anterior (S3)
+
+? How many segments are there in the lower lobe of the right lung?
++ 5
+- 4
+- 6
+- 3
+- 2
+
+? Which segment is in the lower lobe of the left lung?
++ Superior basalis (S6)
+- Apicalis (S1)
+- Anterior (S3)
+- Superior lingularis (S4)
+- Medialis (S5)
+
+? Which segment corresponds to S2 of the right lung?
++ Posterior (posterior segment)
+- Apicalis
+- Anterior
+- Superior basalis
+- Lateralis basalis
+
+? Which segment corresponds to S6?
++ Superior basalis
+- Apicalis
+- Posterior
+- Anterior
+- Inferior lingularis
+
+? In which lobe is the S9 segment (lateralis basalis) located?
++ Lower lobe
+- Middle lobe
+- Upper lobe
+- Lingula
+- Apex pulmonis
+
+? In which lobe is the S10 segment (posterior basalis) located?
++ Lower lobe
+- Upper lobe
+- Middle lobe
+- Lingula
+- Lingula pulmonis
+
+? What is the structural and functional unit of the lung?
++ Acinus pulmonis
+- Segmentum pulmonis
+- Lobus pulmonis
+- Pulmo
+- Bronchus principalis
+
+? From which bronchioles does the acinus begin?
++ Bronchioli respiratorii
+- Bronchioli terminales
+- Bronchi segmentales
+- Bronchi lobares
+- Bronchi principales
+
+? What do the respiratory bronchioles end with?
++ Alveoli pulmonis
+- Bronchioli terminales
+- Bronchi segmentales
+- Bronchi principales
+- Bronchi lobares
+
+? What are the passages leading to the alveoli called?
++ Ductuli alveolares
+- Bronchioli terminales
+- Bronchi segmentales
+- Sacculi pleurales
+- Bronchi lobares
+
+? What are the sacs consisting of alveoli called?
++ Sacculi alveolares
+- Ductuli alveolares
+- Bronchioli respiratorii
+- Lobuli pulmonis
+- Bronchi segmentales
+
+? Approximately how many alveoli are there in the lungs of an adult?
++ 300–350 million
+- 10–20 million
+- 50–70 million
+- 500 thousand
+- 1 billion
+
+? Which tissue forms the wall of the alveolus?
++ Simple squamous epithelium
+- Stratified squamous epithelium
+- Ciliated epithelium
+- Transitional epithelium
+- Pseudostratified columnar epithelium
+
+? What is the system of connections between alveoli called?
++ Pores of Kohn
+- Canales Haversii
+- Canaliculi ossis
+- Canales Malpighii
+- Laminae alveolares
+
+? Which type of alveolar cells provides gas exchange?
++ Pneumocytes type I
+- Pneumocytes type II
+- Pneumocytes type III
+- Fibroblasts
+- Macrophages
+
+? Which cells secrete surfactant?
++ Pneumocytes type II
+- Pneumocytes type I
+- Alveolar macrophages
+- Capillary endothelial cells
+- Lymphocytes
+
+? At what level is the apex of the lung in relation to the clavicle?
++ 2–3 cm above the clavicle
+- At the level of the clavicle
+- 1 cm below the clavicle
+- 5 cm above the clavicle
+- At the level of the first rib
+
+? At what level does the posterior border of the lung cross the scapula?
++ At the level of the spinous process of Th10
+- Th7
+- Th5
+- Th12
+- Th2
+
+? At what level does the inferior border of the lung pass along the midclavicular line?
++ 6th rib
+- 4th rib
+- 8th rib
+- 9th rib
+- 10th rib
+
+? At what level does the inferior border of the lung pass along the midaxillary line?
++ 8th rib
+- 6th rib
+- 9th rib
+- 10th rib
+- 7th rib
+
+? At what level does the inferior border of the lung pass along the scapular line?
++ X rib
+- VIII rib
+- VI rib
+- IX rib
+- XI rib
+
+? Where is the bifurcation of the trachea projected onto the anterior thoracic wall?
++ Sternal angle (angulus sterni)
+- Jugular notch
+- II intercostal space
+- IV rib
+- Th2
+
+? Which structure is projected at the jugular notch of the sternum?
++ Beginning of the trachea
+- Carina tracheae
+- Apex pulmonis
+- Lingula pulmonis
+- Recessus pleurae
+
+? Where is the apex of the right lung projected on the posterior surface?
++ At the level of the spinous process of C7
+- Th1
+- Th2
+- Th3
+- C6
+
+? Where is the inferior border of the pleura projected along the midclavicular line?
++ VII rib
+- VI rib
+- VIII rib
+- IX rib
+- X rib
+
+? Where is the inferior border of the pleura projected along the scapular line?
++ XII rib
+- XI rib
+- X rib
+- IX rib
+- VIII rib
+
+? Which part of the respiratory tract is called "dead space"?
++ Conducting part of the respiratory tract
+- Alveoli
+- Acinus
+- Alveolar sacs
+- Alveolar ducts
+
+? What belongs to the upper respiratory tract?
++ Cavitas nasi and pharynx
+- Larynx and trachea
+- Bronchi principales
+- Pulmones
+- Acini
+
+? What belongs to the lower respiratory tract?
++ Larynx, trachea, bronchi, pulmones
+- Cavitas nasi
+- Sinus maxillaris
+- Nasopharynx
+- Choanae
+
+? What is the section called from the entrance of the nasal cavity to the choanae?
++ Cavitas nasi
+- Vestibulum oris
+- Oropharynx
+- Laryngopharynx
+- Trachea
+
+? Which part of the respiratory tract serves as a resonance chamber for the voice?
++ Nasal cavity and paranasal sinuses
+- Trachea
+- Bronchi
+- Pulmones
+- Pleura
+
+? What forms the voice?
++ Vocal folds (plicae vocales)
+- Vestibular folds
+- Cartilago epiglottica
+- Lig. thyrohyoideum
+- Aditus laryngis
+
+? What is the part of the larynx below the vocal folds called?
++ Cavitas infraglottica
+- Vestibulum laryngis
+- Ventriculus laryngis
+- Rima vestibuli
+- Aditus laryngis
+
+? Which cavity connects the larynx with the trachea?
++ Cavitas infraglottica
+- Vestibulum laryngis
+- Ventriculus laryngis
+- Rima glottidis
+- Choanae
+
+? Which muscle participates in closing the rima glottidis?
++ M. arytenoideus transversus
+- M. cricothyroideus
+- M. cricoarytenoideus posterior
+- M. thyroepiglotticus
+- M. vocalis
+
+? Which structure limits the vestibule of the larynx inferiorly?
++ Plicae vestibulares
+- Plicae vocales
+- Cartilago epiglottica
+- Rima glottidis
+- Ventriculus laryngis
+
+? Where is the incisura jugularis located?
++ Manubrium sterni
+- Cartilago thyroidea
+- Cartilago cricoidea
+- Os hyoideum
+- First rib
+
+? At what level is the cartilago cricoidea located?
++ C6
+- C4
+- C7
+- Th1
+- Th2
+
+? Which part of the larynx is called ventriculus laryngis?
++ The space between true and false vocal folds
+- The space below the vocal folds
+- The entrance to the larynx
+- The space above the vestibular folds
+- Rima glottidis
+
+? Which organ is called the "main respiratory organ"?
++ Pulmones
+- Larynx
+- Trachea
+- Cavitas nasi
+- Sinus maxillaris
+
+? Which part of the lung is adjacent to the heart?
++ Incisura cardiaca and impressio cardiaca
+- Basis pulmonis
+- Apex pulmonis
+- Facies costalis
+- Lingula
+
+? Which groove exists only on the right lung?
++ Sulcus venae azygos
+- Sulcus aortae
+- Impressio cardiaca
+- Sulcus oesophageus
+- Incisura cardiaca
+
+? Which groove exists only on the left lung?
++ Sulcus aortae
+- Sulcus venae azygos
+- Impressio venae cavae superioris
+- Sulcus venae brachiocephalicae
+- Sulcus venae azygos accessorii
+
+? Which border of the lung is sharper?
++ Margo anterior
+- Margo posterior
+- Margo inferior
+- Margo lateralis
+- Margo medialis
+
+? Which border of the lung is more rounded?
++ Margo posterior
+- Margo anterior
+- Margo inferior
+- Margo medialis
+- Margo costalis
+
+? Which surface of the lung is adjacent to the heart and great vessels?
++ Facies mediastinalis
+- Facies costalis
+- Facies diaphragmatica
+- Facies interlobaris
+- Facies visceralis
+
+? What is the lumen of the larynx called?
++ Rima glottidis
+- Vestibulum laryngis
+- Cavitas laryngis
+- Aditus laryngis
+- Recessus piriformis
+
+? Which laryngeal cartilage is paired?
++ Cartilago arytenoidea
+- Cartilago thyroidea
+- Cartilago cricoidea
+- Cartilago epiglottica
+- Cartilago interarytenoidea
+
+? Which laryngeal cartilage has the shape of a ring?
++ Cartilago cricoidea
+- Cartilago arytenoidea
+- Cartilago thyroidea
+- Cartilago epiglottica
+- Cartilago corniculata
+
+? Where is the plica vocalis located?
++ Between cartilago thyroidea and arytenoidea
+- Between cartilago cricoidea and epiglottica
+- In the area of vestibulum laryngis
+- In the cavitas nasi
+- In the trachea
+
+? What is the upper opening of the larynx called?
++ Aditus laryngis
+- Rima glottidis
+- Ventriculus laryngis
+- Recessus piriformis
+- Cavitas oris
+
+? Which fold of the larynx is called the false vocal fold?
++ Plica vestibularis
+- Plica vocalis
+- Plica aryepiglottica
+- Plica pharyngea
+- Plica nasalis
+
+? Which part of the trachea is located above the bifurcatio tracheae?
++ Pars thoracica
+- Pars cervicalis
+- Pars abdominalis
+- Pars laryngea
+- Pars mediastinalis
+
+? At what vertebral level is the bifurcatio tracheae located?
++ Th4–Th5
+- C7
+- Th2
+- Th7
+- L1
+
+? What lines the inner surface of the trachea?
++ Ciliated epithelium
+- Stratified squamous keratinized epithelium
+- Cuboidal epithelium
+- Transitional epithelium
+- Synovial membrane
+
+? Which cartilage of the trachea is unpaired?
++ Cartilago cricoidea
+- Cartilago trachealis dextra
+- Cartilago trachealis sinistra
+- Cartilago arytenoidea
+- Cartilago corniculata
+
+? A patient with nasal obstruction has a deviated nasal septum:
++ Nasal septum
+- Middle nasal concha
+- Inferior nasal concha
+- Choanae
+- Nasal vestibule
+
+? In a man, bleeding occurs from the Kiesselbach's area:
++ Anterior part of the nasal septum
+- Posterior part of the nasal septum
+- Middle nasal meatus
+- Superior nasal meatus
+- Sphenoethmoidal recess
+
+? Pain and swelling are noted in the maxilla area after sinusitis:
++ Maxillary sinus
+- Frontal sinus
+- Sphenoid sinus
+- Ethmoidal sinus
+- Mastoid air cells
+
+? A patient complains of pain in the forehead due to sinus inflammation:
++ Frontal sinus
+- Maxillary sinus
+- Sphenoid sinus
+- Anterior ethmoidal cells
+- Posterior ethmoidal cells
+
+? Infection spreads from the nasal cavity into the nasolacrimal duct:
++ Inferior nasal meatus
+- Middle nasal meatus
+- Superior nasal meatus
+- Sphenoethmoidal recess
+- Choanae
+
+? A patient has a tumor in the posterior part of the nasal cavity near the pharynx:
++ Choanae
+- Nasal vestibule
+- Inferior nasal concha
+- Frontal sinus
+- Middle nasal meatus
+
+? CSF leakage into the nasal cavity occurs after a skull base fracture:
++ Cribriform plate of the ethmoid bone
+- Palatine process of the maxilla
+- Vomer
+- Sphenoid sinus
+- Inferior nasal concha
+
+? A child has an enlarged pharyngeal tonsil, leading to nasal obstruction:
++ Pharyngeal tonsil
+- Palatine tonsil
+- Lingual tonsil
+- Tubal tonsil
+- Epiglottis
+
+? A foreign body is stuck in the piriform sinus of the laryngopharynx:
++ Piriform sinus
+- Vallecula (epiglottic vallecula)
+- Epiglottis
+- Vestibular fold
+- Rima glottidis
+
+? A singer loses voice due to damage of the recurrent laryngeal nerve:
++ Posterior cricoarytenoid muscle
+- Cricothyroid muscle
+- Lateral cricoarytenoid muscle
+- Thyroarytenoid muscle
+- Transverse arytenoid muscle
+
+? A surgeon damages the external branch of the superior laryngeal nerve:
++ Cricothyroid muscle
+- Posterior cricoarytenoid muscle
+- Lateral cricoarytenoid muscle
+- Thyroarytenoid muscle
+- Transverse arytenoid muscle
+
+? A patient with diphtheria develops swelling of the laryngeal inlet:
++ Laryngeal inlet (aditus)
+- Vestibular folds
+- Vocal folds
+- Rima glottidis
+- Trachea
+
+? Pus from tonsillitis spreads into the lateral parapharyngeal space:
++ Parapharyngeal space
+- Retropharyngeal space
+- Pterygopalatine fossa
+- Infratemporal fossa
+- Mediastinum
+
+? Obstruction at the isthmus of the fauces prevents swallowing:
++ Isthmus of the fauces
+- Choanae
+- Faucial arches
+- Nasopharynx
+- Laryngopharynx
+
+? Main functions of the nasal cavity are:
++ warming, humidifying, and cleaning the air
+- production of bile
+- urine formation
+- hormone production
+- blood filtration
+
+? The sinus that opens into the superior nasal meatus:
++ maxillary sinus
+- frontoethmoidal sinus
+- sphenoid sinus
+- frontal sinus
+- lacrimal sac
+
+? The following structures pass through the hilum of the lung (hilum pulmonis):
++ main bronchus, pulmonary artery, pulmonary veins, lymphatic vessels, and nerves
+- trachea, esophagus, and aorta
+- internal jugular vein and common carotid artery
+- subclavian artery and vein
+- superior vena cava and inferior vena cava
+
+? At the level of which vertebrae does the trachea (trachea) divide into the right and left main bronchi?
++ at the level of Th4–Th5
+- at the level of C6–C7
+- at the level of Th1–Th2
+- at the level of Th8–Th9
+- at the level of L1–L2
+
+? A 21-year-old patient has impaired airflow through the nasal cavity after facial trauma. CT revealed a deviated nasal septum. Which structures mainly form the bony part of the nasal septum?
++ perpendicular plate of the ethmoid bone and vomer
+- nasal bones and lacrimal bone
+- inferior nasal concha and palatine bone
+- frontal bone and maxilla
+- zygomatic bone and vomer
+
+? A 24-year-old patient was diagnosed with inflammation of the mucous membrane of the maxillary sinus. During examination, it is necessary to determine its natural communication with the nasal cavity. Where does the maxillary sinus open?
++ into the middle nasal meatus
+- into the superior nasal meatus
+- into the inferior nasal meatus
+- into the common nasal meatus
+- directly into the nasopharynx
+
+? A 22-year-old female patient was diagnosed with frontal sinusitis associated with impaired drainage of the frontal sinus. Through which anatomical pathway does it usually communicate with the nasal cavity?
++ through the ethmoidal infundibulum into the middle nasal meatus
+- through the sphenopalatine foramen into the superior nasal meatus
+- through the nasolacrimal canal into the inferior nasal meatus
+- through the choanae into the nasopharynx
+- through the incisive canal into the oral cavity
+
+? A 25-year-old patient was diagnosed with inflammation of the sphenoid sinus. During endoscopic examination, it is necessary to determine the location of its natural opening. Where does the sphenoid sinus open?
++ into the sphenoethmoidal recess
+- into the inferior nasal meatus
+- into the middle nasal meatus
+- into the nasal vestibule
+- into the nasopharynx through the choanae
+
+? A 23-year-old patient developed impaired communication between the nasal cavity and nasopharynx after trauma to the midface. Which structure provides direct communication between these regions?
++ choanae
+- piriform aperture
+- nasolacrimal canal
+- sphenopalatine foramen
+- cribriform plate
+
+? A 27-year-old patient was found to have inflammation of the mucous membrane of the middle nasal meatus during endoscopy. Impaired drainage of which paranasal sinuses is most likely?
++ frontal, maxillary, and anterior ethmoidal sinuses
+- sphenoid and posterior ethmoidal sinuses
+- sphenoid sinus only
+- posterior ethmoidal sinuses only
+- frontal sinus only
+
+? A 20-year-old patient developed nasal cerebrospinal fluid leakage after a skull base injury. Damage to which structure is most likely?
++ cribriform plate of the ethmoid bone
+- horizontal plate of the palatine bone
+- vomer
+- inferior nasal concha
+- frontal process of the maxilla
+
+? A 31-year-old patient has a mass in the nasopharyngeal region causing impaired nasal breathing. Which structure is located in the posterior part of the fornix of the nasopharynx?
++ pharyngeal tonsil
+- palatine tonsil
+- lingual tonsil
+- tubal tonsil
+- epiglottis
+
+? A 28-year-old patient developed impaired ventilation of the middle ear due to swelling of the nasopharyngeal mucosa following an inflammatory process. Which structure provides communication between the nasopharynx and the tympanic cavity?
++ pharyngeal opening of the auditory tube
+- choana
+- piriform aperture
+- sphenopalatine foramen
+- nasolacrimal canal
+
+? A 26-year-old patient sustained damage to the thyroid cartilage after neck trauma. Which ligament connects it to the cricoid cartilage and participates in forming the anterior wall of the larynx?
++ cricothyroid ligament
+- thyrohyoid membrane
+- quadrangular membrane
+- vocal ligament
+- cricotracheal ligament
+
+? During laryngoscopy in a 29-year-old patient, a mass was detected between the vestibular and vocal folds. In which part of the larynx is it located?
++ in the laryngeal ventricle
+- in the laryngeal vestibule
+- in the infraglottic cavity
+- in the laryngopharynx
+- in the laryngeal part of the pharynx
+
+? A 19-year-old patient developed impaired tension of the vocal folds after laryngeal injury. Which muscle directly changes their tension?
++ cricothyroid muscle
+- posterior cricoarytenoid muscle
+- lateral cricoarytenoid muscle
+- thyroarytenoid muscle
+- arytenoid muscle
+
+? A 35-year-old patient developed hoarseness after thyroid surgery. Damage to which nerve most likely caused dysfunction of most of the intrinsic muscles of the larynx?
++ recurrent laryngeal nerve
+- external laryngeal nerve
+- lingual nerve
+- hypoglossal nerve
+- phrenic nerve
+
+? A 42-year-old patient developed impaired tension of the vocal folds after neck surgery, while their abduction and adduction were partially preserved. Damage to which nerve is most likely?
++ external laryngeal nerve
+- recurrent laryngeal nerve
+- glossopharyngeal nerve
+- hypoglossal nerve
+- superior laryngeal nerve completely
+
+? During endoscopy in a 33-year-old patient, impaired widening of the rima glottidis was detected due to damage to the only muscle that abducts the vocal folds. Which muscle is damaged?
++ posterior cricoarytenoid muscle
+- lateral cricoarytenoid muscle
+- cricothyroid muscle
+- thyroarytenoid muscle
+- transverse arytenoid muscle
+
+? A mass was detected at the tracheal bifurcation on chest CT in a 40-year-old patient. At what level is the tracheal bifurcation normally located in an adult?
++ at the level of the sternal angle, approximately Th4–Th5
+- at the level of C2–C3
+- at the level of C6–C7
+- at the level of Th8–Th9
+- at the level of Th10–Th11
+
+? During bronchoscopy in a 36-year-old patient, a foreign body was found in the right main bronchus. Which anatomical feature contributes to the more frequent entry of foreign bodies into this bronchus?
++ the right main bronchus is shorter, wider, and more vertical
+- the right main bronchus is longer and narrower than the left
+- the right main bronchus is more horizontal than the left
+- the right main bronchus has no lobar branches
+- the right main bronchus continues directly into the trachea without bifurcation
+
+? During examination of the bronchial tree in a 45-year-old patient, it was necessary to identify the bronchus directed toward the middle lobe of the right lung. Which bronchus corresponds to this description?
++ middle lobar bronchus
+- superior lobar bronchus
+- inferior lobar bronchus
+- apical segmental bronchus
+- main bronchus
+
+? A 38-year-old patient was diagnosed with a bronchial tumor accompanied by impaired ventilation of one of the bronchopulmonary segments. Which anatomical feature is characteristic of a bronchopulmonary segment?
++ it is ventilated by a segmental bronchus and receives a separate branch of the pulmonary artery
+- it is supplied only by bronchial arteries
+- it does not have its own bronchial branch
+- it corresponds to an anatomical lobe of the lung
+- it contains only one alveolar sac
+
+? A 52-year-old patient was found to have a tumor in the region of the root of the lung. Which structures are included in the root of the lung?
++ main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatic vessels, and nerves
+- only the main bronchus and pulmonary artery
+- only pulmonary veins and lymphatic vessels
+- trachea, esophagus, and aorta
+- only bronchi and nerves
+
+? CT revealed enlarged lymph nodes in the region of the hilum of the lung in a 21-year-old patient. Which anatomical structures pass through the hilum of the lung and form its root?
++ bronchi, vessels, lymphatic vessels, and nerves
+- only alveolar ducts
+- only pulmonary veins
+- only bronchial arteries
+- only the sympathetic trunk
+
+? A lesion of the middle lobe of the right lung was detected in a 47-year-old patient. Which interlobar fissures separate it from the superior and inferior lobes?
++ the horizontal fissure separates the middle lobe from the superior lobe, while the oblique fissure separates it from the inferior lobe
+- only the oblique fissure separates the middle lobe from both lobes
+- only the horizontal fissure separates the middle lobe from both lobes
+- a vertical fissure separates the middle lobe from the superior lobe
+- the middle lobe is separated from the other lobes only by the pulmonary ligament
+
+? A lesion of the lingula of the left lung was detected in a 56-year-old patient. With which lobe is this structure associated?
++ with the superior lobe of the left lung
+- with the inferior lobe of the left lung
+- with the middle lobe of the left lung
+- with the superior lobe of the right lung
+- with the inferior lobe of the right lung
+
+? During examination of the lung, a structure was detected on the mediastinal surface in the region of the hilum in a 63-year-old patient. Which structure is located directly below the root of the lung and represents a duplication of the pleura?
++ pulmonary ligament
+- oblique fissure
+- horizontal fissure
+- cardiac notch
+- pleural cupula
+
+? Radiography revealed fluid accumulation in the lower part of the pleural cavity in a 48-year-old patient. In which pleural sinus is fluid most likely to accumulate in the upright position?
++ costodiaphragmatic sinus
+- costomediastinal sinus
+- phrenicomediastinal sinus
+- apical sinus
+- interlobar sinus
+
+? A 34-year-old patient developed pneumothorax with air entering the pleural cavity. Which condition is most directly disturbed?
++ negative intrapleural pressure
+- positive alveolar pressure
+- pulmonary artery pressure
+- bronchial artery pressure
+- pressure in the pericardial cavity
+
+? During examination of the mediastinum in a 59-year-old patient, it was necessary to determine the boundaries of its posterior part. Which organs are mainly located in the posterior mediastinum?
++ esophagus, thoracic aorta, thoracic duct, and azygos venous system
+- heart and thymus
+- trachea and aortic arch
+- pulmonary trunk and ascending aorta
+- phrenic nerve and pericardium
+
+? A 44-year-old patient developed impaired diaphragmatic function after esophageal surgery. Which nerve could have been damaged during its passage through the thoracic cavity?
++ phrenic nerve
+- vagus nerve
+- intercostal nerve
+- recurrent laryngeal nerve
+- sympathetic trunk
+
+? A 70-year-old patient with lung cancer was admitted to the intensive care unit. Which segment is located in the inferior lobe of the left lung?
++ Superior basalis (S6)
+- Apicalis (S1)
+- Anterior (S3)
+- Superior lingularis (S4)
+- Medialis (S5)
+
+? A 25-year-old patient complained of difficulty breathing through the nose. The respiratory region of the nasal cavity was examined. What type of epithelium covers the mucous membrane of this region?
++ pseudostratified ciliated columnar epithelium
+- simple squamous epithelium
+- stratified keratinized squamous epithelium
+- simple cuboidal epithelium
+- transitional epithelium
+
+? The nasal mucosa was damaged in a 30-year-old man. Which anatomical structure most actively participates in warming the air in the nasal cavity?
++ nasal conchae
+- epiglottis
+- vocal folds
+- tracheal cartilages
+- bronchioles
+
+? Bronchoscopy was performed on a patient. The physician identified the site in the lower part of the trachea where it divides into two main bronchi. What is this structure called?
++ Carina tracheae
+- Glottis
+- Vestibulum laryngis
+- Sinus pleuralis
+- Hilum pulmonis
+
+? A 45-year-old man underwent bronchoscopy due to a foreign body entering the respiratory tract. The probability of the foreign body entering the right main bronchus was higher. What is the main reason for this?
++ the right main bronchus is short, wide, and vertically oriented
+- the right main bronchus is long and narrow
+- the right main bronchus is horizontally oriented
+- the right main bronchus is longer than the left bronchus
+- the right main bronchus is not directly connected to the trachea
+
+? A 38-year-old patient was found to have inflammation in the laryngeal region. The largest cartilage of the larynx was identified. Which cartilage is it?
++ Cartilago thyroidea
+- Cartilago arytenoidea
+- Cartilago corniculata
+- Cartilago cuneiformis
+- Cartilago epiglottica
+
+? A 42-year-old patient underwent laryngoscopy due to voice changes. A structure directly involved in sound production was identified. Which structure is it?
++ Plicae vocales
+- Plicae vestibulares
+- Epiglottis
+- Cartilago cricoidea
+- Sinus piriformis
+
+? A 50-year-old patient was examined because of the risk of food entering the respiratory tract during swallowing. Which structure participates in closing the entrance to the larynx?
++ Epiglottis
+- Cartilago thyroidea
+- Plica vocalis
+- Cartilago arytenoidea
+- Trachea
+
+? The tracheal wall was examined in a 60-year-old patient. Which structure completes the cartilaginous rings on the posterior wall of the trachea?
++ Musculus trachealis
+- Musculus cricothyroideus
+- Musculus vocalis
+- Musculus arytenoideus
+- Musculus thyrohyoideus
+
+? The respiratory tract was examined in a 35-year-old patient. The type of cartilage providing strength to the tracheal wall was identified. Which cartilage is it?
++ hyaline cartilage
+- elastic cartilage
+- fibrocartilage
+- bone tissue
+- dense connective tissue
+
+? A 48-year-old patient, the relative position of the main structures of the root of the left lung was examined. How is the pulmonary artery located on the left relative to the main bronchus?
++ it is located above the main bronchus
+- it is located below the main bronchus
+- it is located anterior to the main bronchus
+- it is located posterior to the main bronchus
+- it is located inside the main bronchus
+
+? A 26-year-old patient was found to have impaired airflow in the region of the inferior nasal meatus. Which anatomical structure opens into the inferior nasal meatus?
++ nasolacrimal canal
+- maxillary sinus
+- frontal sinus
+- sphenoid sinus
+- anterior ethmoidal cells
+
+? A 30-year-old patient sustained damage to the posterior part of the lateral wall of the nasal cavity after midface trauma. Through which opening do vessels and nerves pass into this region?
++ sphenopalatine foramen
+- infraorbital foramen
+- foramen rotundum
+- foramen ovale
+- foramen lacerum
+
+? A 34-year-old patient was found to have a structure dividing the common nasal meatus into superior, middle, and inferior regions. Which structure forms these boundaries?
++ superior, middle, and inferior nasal conchae
+- nasal septum
+- vomer
+- cribriform plate
+- hard palate
+
+? A 28-year-old patient developed impaired olfaction after a skull base injury. Damage to which structure may cause rupture of the olfactory nerve fibers?
++ cribriform plate
+- sella turcica
+- foramen magnum
+- jugular foramen
+- foramen rotundum
+
+? A 43-year-old patient was found to have impaired closure of the entrance to the respiratory tract during swallowing. Which structure directly participates in protecting the entrance to the larynx?
++ epiglottis
+- vocal fold
+- arytenoid cartilage
+- cricoid cartilage
+- cuneiform cartilage
+
+? A space was identified between the entrance to the larynx and the vestibular folds During laryngoscopy in a 24-year-old patient. What is this region called?
++ laryngeal vestibule
+- laryngeal ventricle
+- infraglottic cavity
+- rima glottidis
+- laryngopharynx
+
+? A 32-year-old patient sustained damage to a paired cartilage after laryngeal trauma. This cartilage articulates with the apex of the arytenoid cartilage. Which cartilage is damaged?
++ corniculate cartilage
+- cuneiform cartilage
+- cricoid cartilage
+- thyroid cartilage
+- epiglottic cartilage
+
+? CT revealed a mass in the upper part of the larynx in a 40-year-old patient. Which structure separates the larynx from the laryngopharynx and limits the entrance to the larynx?
++ laryngeal inlet
+- rima glottidis
+- laryngeal ventricle
+- infraglottic cavity
+- tracheal opening
+
+? A 22-year-old patient sustained damage to the neurovascular bundle in an intercostal space after chest trauma. In what order are the main elements of the bundle arranged from superior to inferior?
++ vein, artery, nerve
+- artery, vein, nerve
+- nerve, artery, vein
+- vein, nerve, artery
+- nerve, vein, artery
+
+? A 51-year-old patient was found to have enlarged lymph nodes near the trachea during examination of the mediastinum. To which division of the mediastinum does the region containing the trachea belong?
++ superior mediastinum
+- anterior mediastinum
+- middle mediastinum
+- posterior mediastinum
+- inferior posterior mediastinum
+
+? CT revealed a structure corresponding to the horizontal fissure of the right lung in a 45-year-old patient. Between which lobes does this fissure pass?
++ between the superior and middle lobes of the right lung
+- between the middle and inferior lobes of the right lung
+- between the superior and inferior lobes of the right lung
+- between the superior lobe and the root of the lung
+- between the inferior lobe and the diaphragm
+
+? A 49-year-old patient was found to have a structure corresponding to the lingula on the anterior border of the left lung. Which anatomical structure of the right lung corresponds to it in position?
++ middle lobe of the right lung
+- superior lobe of the right lung
+- inferior lobe of the right lung
+- apex of the right lung
+- accessory lobe of the right lung
+
+? It was necessary to identify segmental veins During lung surgery in a 57-year-old patient. How are the pulmonary veins positioned in relation to the bronchopulmonary segments?
++ they mainly pass through the intersegmental spaces
+- they pass only within the segmental bronchi
+- they are located only in the center of each segment
+- they pass only along the apex of the lung
+- they are not related to the boundaries of the segments
+
+? A 33-year-old patient was found to have damage to the bronchial vessels. What is the main function of the bronchial arteries?
++ they supply the walls of the bronchi and other structures of the lung tissue
+- they perform the main gas exchange in the alveoli
+- they drain venous blood from the alveoli
+- they provide blood supply only to the pleura
+- they carry blood directly into the left atrium
+
+? A 62-year-old patient was found to have close contact between the inferior surface of the lung and the diaphragm. Which structure of the thorax separates the lungs from the abdominal organs?
++ diaphragm
+- parietal pleura
+- pericardium
+- transversus thoracis muscle
+- internal intercostal muscle
+
+? Fluid accumulated in the left pleural cavity of a 57-year-old patient. A recess located between the costal and diaphragmatic parts of the pleura was identified. What is its name?
++ Recessus costodiaphragmaticus
+- Recessus costomediastinalis
+- Sinus maxillaris
+- Recessus subphrenicus
+- Sinus transversus
+
+? A chest radiograph was performed in a 34-year-old patient. The muscle mainly responsible for changes in the lower border of the lung during respiration was identified. Which muscle is it?
++ diaphragm
+- internal intercostal muscles
+- pectoralis major muscle
+- trapezius muscle
+- rectus abdominis muscle
+
+? The mechanism of respiration was examined in a 29-year-old athlete. What change occurs when the diaphragm contracts during normal breathing?
++ the diaphragm moves downward, and the vertical dimension of the thoracic cavity increases
+- the diaphragm moves upward, and the thoracic cavity expands
+- the diaphragm contracts, reducing the volume of the thoracic cavity
+- the diaphragm directly compresses the lungs
+- the diaphragm does not participate in respiration
+
+? Rib movement during respiration was examined in a 41-year-old patient. Which muscles mainly participate in elevating the ribs during normal breathing?
++ Mm. intercostales externi
+- Mm. intercostales intimi
+- M. transversus thoracis
+- M. rectus abdominis
+- M. latissimus dorsi
+
+? The gas exchange area of the lungs was examined in a 39-year-old patient. The main structure through which gases diffuse between the alveoli and blood was identified. What is it called?
++ alveolar-capillary membrane
+- pleural membrane
+- cartilage of the bronchial wall
+- tracheal epithelium
+- bronchopulmonary segment
+
+? The microscopic structure of the respiratory system was examined in a 28-year-old patient. Where does gas exchange mainly occur?
++ in the pulmonary alveoli
+- in the trachea
+- in the main bronchi
+- in the larynx
+- in the nasal cavity
+
+? The structure of the bronchial wall was examined in a 46-year-old patient. What changes occur in the cartilaginous elements as the diameter of the bronchi decreases?
++ the cartilage gradually decreases and is absent in the small bronchioles
+- the amount of cartilage gradually increases
+- cartilage persists in all bronchioles
+- cartilage is located only in the alveoli
+- cartilage is replaced by bone tissue
+
+? The anatomical features of bronchioles were examined in a 33-year-old patient. What is the main difference between bronchioles and bronchi?
++ cartilage is absent in the wall of bronchioles
+- bone is necessarily present in the wall of bronchioles
+- bronchioles lack a mucous membrane
+- bronchioles are located outside the lungs
+- bronchioles connect directly to the trachea
+
+? The structure of the pulmonary acinus was examined in a 50-year-old patient. The first structure of the respiratory portion included in the acinus was identified. Which structure is it?
++ respiratory bronchiole (bronchiolus respiratorius)
+- main bronchus
+- trachea
+- larynx
+- interlobular bronchus
+
+? The lymphatic vessels of the lungs were examined in a 43-year-old patient. Important regional lymph nodes through which lymph drains from the lungs were identified. Which nodes are these?
++ bronchopulmonary lymph nodes
+- inguinal lymph nodes
+- axillary lymph nodes
+- cubital lymph nodes
+- subaxillary lymph nodes
+
+? The lymphatic system was examined in a 68-year-old patient due to a lung tumor. What are the lymph nodes located in the region of the root of the lung called?
++ Nodi lymphatici bronchopulmonales
+- Nodi lymphatici inguinales
+- Nodi lymphatici cervicales superficiales
+- Nodi lymphatici poplitei
+- Nodi lymphatici axillares
+
+? Nervous regulation of the respiratory tract was examined in a 59-year-old patient. What is the effect of parasympathetic nerve fibers on the bronchi?
++ they increase contraction of the bronchial smooth muscles and cause bronchoconstriction
+- they completely relax the bronchial smooth muscles
+- they fix the bronchi by means of bones
+- they contract the pulmonary alveoli
+- they close the pleural cavity
+
+? The elasticity of lung tissue was examined in a 31-year-old patient. The structure making an important contribution to the elastic recoil of the lungs under normal conditions was identified. Which structure is it?
++ elastic fibers
+- hyaline cartilage rings
+- bone plates
+- striated muscle fibers
+- dense adipose tissue
+
+? The anatomical features of the left lung were examined in a 64-year-old patient. Which feature is present in the left lung compared with the right lung?
++ cardiac notch (incisura cardiaca)
+- middle lobe
+- horizontal fissure
+- division into three lobes
+- five main lobes
+
+? A 27-year-old patient was admitted to the emergency department with suspected pneumonia. From which bronchioles does the acinus begin?
++ Bronchioli respiratorii
+- Bronchioli terminales
+- Bronchi segmentales
+- Bronchi lobares
+- Bronchi principales
+
+? A 28-year-old patient presented to the emergency department with bronchial asthma. At what level does the posterior border of the lung cross the scapula?
++ at the level of Th10
+- at the level of Th7
+- at the level of Th5
+- at the level of Th12
+- at the level of Th2
+
+? The average length of the trachea in an adult is approximately:
++ 10–12 cm
+- 40 cm
+- 5–10 cm
+- 2–3 cm
+- 20–25 cm
+
+? The structures of the root of the lung were examined in a 65-year-old patient. One of the main structures entering and leaving the lung through the hilum was identified. How is the pulmonary artery positioned relative to the bronchus at the hilum?
++ on the right, the pulmonary artery is located anterior to the bronchus; on the left, it is located superior to the bronchus
+- on both sides, the pulmonary artery is located inferior to the bronchus
+- on both sides, the pulmonary artery is located anterior to the bronchus
+- on the right, it is located superior to the bronchus; on the left, inferior to the bronchus
+- on both sides, the pulmonary artery is located posterior to the bronchus
+
+? The anatomical structures of the root of the lung were examined in a 53-year-old patient. The positions of the bronchus, pulmonary artery, and pulmonary veins in the root of the right lung were studied. How is the pulmonary artery positioned on the right relative to the bronchus?
++ it is located anterior to Bronchus principalis dexter
+- it is located posterior to Bronchus principalis dexter
+- it is located inferior to Bronchus principalis dexter
+- it is located inside Bronchus principalis dexter
+- it is located superior to Bronchus principalis dexter
+
+? A pleural puncture was planned for a 60-year-old patient. The pleural layer directly contacting the surface of the lung was identified. Which layer is it?
++ Pleura visceralis
+- Pleura parietalis
+- Pleura costalis
+- Pleura mediastinalis
+- Pleura diaphragmatica
+
+? The volume and shape of the left lung were examined in a 58-year-old patient. Due to the position of the heart in the left half of the thoracic cavity, a special anatomical structure was identified on the anterior border of the left lung. Which structure is it?
++ Incisura cardiaca and the lingula pulmonis extending downward from it
+- Fissura horizontalis and lobus medius
+- Incisura interlobaris and lobus medius
+- Recessus costodiaphragmaticus and lingula
+- Hilum pulmonis and lobus medius
+
+? A 61-year-old patient was examined due to fluid accumulation in the pleural cavity. The physician determined that the fluid accumulates in a pleural recess located closer to the diaphragm. What is the clinical significance of this anatomical region?
++ Recessus costodiaphragmaticus is one of the lowest parts of the pleural cavity and is clinically important as a site of fluid accumulation
+- Recessus costomediastinalis is located only inside the pericardium
+- the lung tissue directly contacts the diaphragm in this region
+- this region is present only in the left lung
+- this region is located on the posterior wall of the trachea
+
+? A space-occupying lesion of the middle lobe of the right lung was detected in a 63-year-old patient. During surgery, the surgeon identified the fissures separating the lobes of the right lung. Which fissure separates the middle lobe of the right lung from the superior lobe?
++ Fissura horizontalis
+- Fissura obliqua
+- Fissura longitudinalis
+- Fissura sagittalis
+- Fissura transversa pulmonis
+
+? The anatomical structures of the thoracic cavity were examined in a 37-year-old patient. The position of the apex of the lung was determined. Indicate the normal topographical position of the apex of the lung.
++ the apex of the lung rises above the clavicle and reaches the root of the neck
+- the apex of the lung is located only at the level of the lower border of the first rib
+- the apex of the lung is located below the diaphragm
+- the apex of the lung is located only behind the sternum
+- the apex of the lung is at the same level as the apex of the heart
+
+? The topography of the trachea was examined in a 41-year-old patient. Which organ is located posterior to the cervical part of the trachea?
++ esophagus
+- thyroid gland
+- pharynx
+- larynx
+- vertebral artery
+
+? The anatomical surfaces of the lung were examined in a 39-year-old patient. Which surface of the lung directly contacts the ribs and intercostal muscles?
++ Facies costalis
+- Facies mediastinalis
+- Facies diaphragmatica
+- Facies vertebralis
+- Facies apicalis
+
+? The anatomical structures of the root of the lung were examined in a 53-year-old patient. What is the name of the structure surrounding the root of the lung inferiorly and formed by the downward continuation of the pleural layers?
++ Ligamentum pulmonale
+- Ligamentum arteriosum
+- Ligamentum venosum
+- Ligamentum phrenicocolicum
+- Ligamentum teres pulmonis
+
+? The left lung was examined in a 36-year-old patient. The anatomical structure separating the superior and inferior lobes of the left lung was identified. Which structure is it?
++ Fissura obliqua
+- Fissura horizontalis
+- Fissura transversa
+- Fissura sagittalis
+- Fissura verticalis
+
+? The bronchial tree of the lung was examined in a 58-year-old patient. Bronchi located after the main bronchus and directed toward the lobes of the lung were identified. What are they called?
++ lobar bronchi (bronchi lobares)
+- segmental bronchi (bronchi segmentales)
+- bronchioles (bronchioli)
+- respiratory bronchioles (bronchioli respiratorii)
+- alveolar ducts (ductuli alveolares)
+
+? The anatomy of the respiratory tract was examined in a 44-year-old patient. A bronchus formed by further branching of a lobar bronchus and ventilating an individual bronchopulmonary segment was identified. Which bronchus is it?
++ segmental bronchus (bronchus segmentalis)
+- main bronchus (bronchus principalis)
+- lobar bronchus (bronchus lobaris)
+- bronchiole (bronchiolus)
+- alveolar bronchiole (bronchiolus alveolaris)
+
+? During an anatomical examination of the lung in a 46-year-old patient, a region was identified on the mediastinal surface through which bronchi and blood vessels enter and leave the lung. What is this region called?
++ Hilum pulmonis
+- Apex pulmonis
+- Basis pulmonis
+- Incisura cardiaca
+- Facies costalis
