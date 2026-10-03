@@ -1,0 +1,629 @@
+? A patient with bronchial asthma sometimes has attacks of suffocation, bronchospasm. Contractions of myocytes.... led asthma attacks.
++ small bronchi
+- main bronchi
+- large bronchi
+- middle bronchi
+- terminal bronchioles
+
+? With inflammation of the lung, its respiratory function is impaired, which is manifested by a violation of gas exchange between air and blood. ... gas exchange is disrupted and... increases capillary permeability.
++ In acinus, histamine
+- In the main bronchi, norepinephrine
+- In the lobar bronchi, interferon
+- In the terminal bronchioles, interferon
+- In the segmental bronchi, adrenaline
+
+? After several forced deep breaths, the person became dizzy and the skin of the face turned sharply pale. What is the reason for this phenomenon?
++ Decrease in PCO2, in the medulla oblongata
+- Increase in PCO2, in the midbrain
+- Increase in PO2, in the thalamus
+- Increase in PO2, in the midbrain
+- Decrease in PO2, in the cerebellum
+
+? A patient diagnosed with obstructive bronchitis in serious condition with complaints of cough, shortness of breath, wheezing was admitted to the department. Which bronchial damage is associated with this pathology? Stimulation of which adrenoceptors relieves bronchospasm?
++ Small bronchi, β2 adrenoceptors
+- Middle bronchi, β1 adrenoceptors
+- Terminal bronchioles, α1 adrenergic receptors
+- Large bronchi, α2 adrenoceptors
+- Small bronchi, α2 adrenoceptors
+
+? A patient was admitted to the department with an injury in the area of the pons. The condition is serious, bradypnea is observed.
++ Pneumotaxic Center
+- Gaspinga
+- Respiratory center of the medulla oblongata
+- Upeniestic Center
+- limbic part of the respiratory center
+
+? The patient has pronounced shortness of breath, suffocation, cyanosis of the skin. With an increase in the pressure of interstitial fluid in the lung tissue, ...
++ Juxtaalveolar receptors.
+- Chemoreceptors.
+- Irritate receptors.
+- Temperature receptors.
+- stretch receptors.
+
+? The reserve expiratory volume is equal to ...
++ 1500 ml
+- 500 ml
+- 900 ml
+- 2000 ml
+- 2500 ml
+
+? Taking into account the value of the volume of "dead space", ...
++ coefficient of alveolar ventilation
+- tidal volume
+- maximum ventilation
+- breath reserve
+- minute breathing volume
+
+? Pneumothorax is ...
++ pressure in the pleural cavity equal to atmospheric pressure
+- negative pressure in the pleural cavity
+- positive pressure in the pleural cavity
+- increase in CO2 in the pleural cavity
+- blood entering the pleural cavity
+
+? Pneumography is a method of recording ...
++ breathing movements of the chest
+- excursions easy
+- tidal volumes
+- diaphragm movements
+- contractions of the intercostal muscles
+
+? Inhalation lung capacity ...
++ passively increases
+- actively increases
+- remains unchanged
+- actively decreasing
+- passively decreases
+
+? Inspiratory capacity includes ...
++ reserve inspiratory volume and tidal volume
+- tidal volume and expiratory reserve volume
+- reserve expiratory volume and residual volume
+- functional residual capacity and tidal volume
+- residual volume and vital capacity of the lungs
+
+? The resting oxygen consumption per minute is ...
++ 250-350 ml
+- 100-200 ml
+- 400-500 ml
+- 600-800 ml
+- 850-950 ml
+
+? Tidal volume is the amount of air ...
++ inhaled and exhaled at rest
+- located in the lungs after a calm inhalation
+- which can be inhaled by taking a deep breath
+- which remains in the lungs after a calm exhalation
+- which can be exhaled while exhaling deeply
+
+? Atmospheric air contains ...
++ O2 - 20.93%; CO2 - 0.03%
+- O2 - 24.97%; CO2 - 0.01%
+- O2 - 20.93%; CO2 - 0.05%
+- O2 - 16.47%; CO2 - 0.03%
+- O2 - 14.53%; CO2 - 0.07%
+
+? Epnea is breathing ...
++ at rest
+- frequent
+- rare
+- during muscle work
+- intermittent
+
+? A functional unit of the lungs ...
++ acinus
+- share
+- alveolus
+- segment
+- zone
+
+? The efficiency of alveoli ventilation is higher with ... breathing.
++ deep and rare
+- deep and frequent
+- superficial and rare
+- superficial and frequent
+- periodic
+
+? Pneumotachometry is a method used to determine ... .
++ forces of the respiratory muscles
+- tidal volumes
+- amount of gas in the blood
+- number of breathing movements
+- pressure in the pleural cavity
+
+? Number of breathing movements at rest ... once per minute.
++ 14-16
+- 5-10
+- 20-25
+- 27-35
+- 40-50
+
+? When breathing, ... part of the alveolar air is renewed.
++ 1/7
+- 1/2
+- 1/5
+- 5/8
+- 4/7
+
+? A specific factor that excites the respiratory center is ...
++ carbon dioxide
+- oxygen
+- adrenaline
+- acetylcholine
+- nitrogen
+
+? Breathing will stop if a cut is carried out ...
++ under medulla oblongata
+- along the anterior edge of the pons
+- along the lower edge of the pons
+- at the level of the lumbar spinal cord
+- at the level of the diencephalon
+
+? The respiratory center sends impulses to:
++ intercostal muscles, diaphragm
+- diaphragm, abdominal muscles
+- muscles of the shoulder girdle, diaphragm
+- abdominal muscles, back
+- muscles of the shoulder girdle and intercostal muscles
+
+? The oxygen utilization rate is the part of oxygen that is absorbed ...
++ tissues from arterial blood
+- red blood cells from the blood
+- buffer blood systems
+- shaped elements from venous blood
+- myoglobin from arterial blood
+
+? Oxygen in the blood is in ...
++ dissolved state, in the composition of oxyhemoglobin
+- composition of carbhemoglobin, sodium bicarbonate
+- composition of oxyhemoglobin, carboxyhemoglobin
+- sodium bicarbonate, soluble
+- compound with hemoglobin
+
+? Cutting the spinal cord between the lower cervical and first thoracic segments turns off ... breathing.
++ costal
+- diaphragm
+- costal and diaphragmatic
+- costal and abdominal
+- abdominal
+
+? The main symptom of altitude sickness at an altitude of 2.5-5 km is ...
++ hypoxia
+- BP reduction
+- heart rate reduction
+- decreased ventilation
+- decreased sensitivity of peripheral chemoreceptors
+
+? Change in the vertical size of the chest during calm inhalation:
++ increases by lowering the diaphragm by 1.5-2.0 cm
+- enlarges by raising the ribs
+- decreases by raising the diaphragm by 1.5-2.0 cm
+- decreases due to the lowering of the ribs
+- decreases by raising the diaphragm by 7.0 - 10.0 cm
+
+? Relationship between ventilation of the lungs and alveolar ventilation:
++ alveolar ventilation is less than ventilation of the lungs by the amount of dead space ventilation
+- alveolar ventilation is less than lung ventilation by the amount of residual volume
+- alveolar ventilation is greater than lung ventilation by the amount of residual volume
+- alveolar ventilation is greater thar lung ventilation by the amount of dead space ventilation
+- alveolar ventilation is greater than lung ventilation by tidal volume
+
+? Carbonic anhydrase enzyme is characterized by:
++ is found in erythrocytes, catalyzes the reaction of splitting carbonic acid into CO2 and H2O in the lungs
+- is found in leukocytes, catalyzes the reaction of carbonic acid formation from CO2 and H2O in the lungs
+- is found in erythrocytes, catalyzes the reaction of splitting carbonic acid into CO2 and H2O in tissues
+- is found in leukocytes, in the lungs it catalyzes the reaction of splitting carbonic acid into CO2 and H2O;
+- found in erythrocytes, catalyzes the reaction of carbonic acid formation from CO2 and H2O in the lungs
+
+? Features of external respiration of newborns:
++ newborns always breathe through the nose, calm breathing is diaphragmatic
+- newborns always breathe through the mouth, calm breathing is diaphragmatic
+- newborns always breathe through the nose, calm breathing is mixed
+- newborns always breathe through the mouth, calm breathing is rib breathing
+- newborns always breathe through the mouth, calm breathing is mixed
+
+? Open pneumothorax is characterized by:
++ complete collapse of the lung and cessation of pulmonary ventilation
+- partial collapse of the lung and continuation of pulmonary ventilation
+- complete collapse of the lung and continuation of pulmonary ventilation
+- overstretching and complete collapse of the pulmonary alveoli
+- partial lung collapse and cessation of pulmonary ventilation
+
+? Gas homeostasis in high-altitude conditions is preserved due to:
++ increase in the number of red blood cells
+- lowering heart rate
+- decrease in respiratory rate
+- decrease in blood oxygen capacity
+- reduction in the number of red blood cells
+
+? The composition of exhaled and alveolar air is different because:
++ exhaled air is a mixture of alveolar and atmospheric Air
+- transpulmonary pressure exists
+- composition of inhaled and alveolar air is the same
+- the exhaled air receives the products of the breakdown of proteins, fats and carbohydrates
+- no transpulmonary pressure
+
+? Specify the amount by which the minute volume of breathing (MOD) will change if at rest the number of respiratory movements is 18, the respiratory volume (DO) is 500 ml, during physical work the respiratory rate has doubled, and the DO has decreased by 250 ml:
++ 9 l
+- 1 l 500 ml
+- 3 l
+- 6 l
+- 12 l
+
+? If the amount of hemoglobin in the blood is 136 g/l, the oxygen capacity of the blood is ... g/l.
++ 182.24
+- 110.05
+- 156.23
+- 204.06
+- 222.31
+
+? Select the functional residual lung capacity if: total lung capacity = 5000 ml, vital capacity = 3500 ml, inspiratory reserve = 2000 ml, tidal volume = 500 ml:
++ 2500 ml
+- 1000 ml
+- 1500 ml
+- 2000 ml
+- 3000 ml
+
+? The following surgical intervention leads to deepening and shortening of breathing:
++ vagus nerve cutting
+- cutting along the front edge of the Varoliev Bridge
+- blockade of the sinocardiot zone
+- cutting along the lower edge of the bridge
+- cut of the spinal cord at the C7-T1 level
+
+? The main reason for the development of hyperpnea (increased breathing) after voluntary breath retention:
++ increase in the content of CO2 in the blood
+- lowering of O2 content in the blood
+- low O2 partial pressure
+- low CO2 partial pressure
+- increase in O2 content in the blood
+
+? Peripheral chemoreceptors involved in the regulation of respiration, in are mainly localized in:
++ arch of the aorta, carotid sinus
+- cortical organ, aortic arch, carotid sinus
+- respiratory muscles
+- capillary bed, aortic arch
+- lymph nodes
+
+? Regulation of pulmonary blood flow at low pO2 in the alveoli:
++ alveolar capillaries close
+- pO2 does not affect blood flow
+- alveolar capillaries open
+- reduces CO2 content
+- increases the partial pressure of water vapor
+
+? Total lung capacity includes ...
++ vital capacity, residual volume
+- inspiratory capacity, expiratory reserve volume
+- tidal and residual volumes
+- functional residual capacity, reserve inspiratory volume
+- vital capacity, tidal volume
+
+? When the integrity of the chest is violated, the lungs ...
++ collapse and do not participate in breathing
+- stretch during inhalation
+- collapse during exhalation
+- follow the rib cage
+- stretch during exhalation
+
+? In the capillary network surrounding the pulmonary alveoli, the blood is freed from carbon dioxide and oxygenated. In this way, the blood becomes arterial again. It then flows from the capillaries into the veins, which eventually merge into four:
++ pulmonary veins that drain into the left atrium
+- pulmonary arteries flowing into the left atrium
+- pulmonary arteries that drain into the left ventricle
+- pulmonary arteries that drain into the right ventricle
+- pulmonary veins that drain into the right atrium
+
+? The concept of "breathing pattern" is understood ...
++ Respiratory rate, tidal volume
+- Reserve Inspiratory Volume
+- Vital capacity
+- Total lung capacity
+- Physiologically dead space
+
+? Excess carbon dioxide and lack of oxygen in the blood increase the activity of the respiratory center. This condition is called ...
++ hyperpnea
+- apnea
+- dyspnea
+- upnosis
+- eipnea
+
+? Reflex when inflating the dog's lungs on inhalation:
++ inspiratory-inhibiting
+- expirator-facilitator
+- Head's paradoxical
+- inspiratory Frederica Hering's
+- expirator
+
+? Reflex when the dog's lungs are inflated on exhalation:
++ expirator-facilitator
+- inspiratory-inhibiting
+- Head's paradoxical
+- inspiratory Frederica Hering's
+- expirator
+
+? Reflex when the dog's lungs swell sharply:
++ Head's paradoxical
+- inspiratory-inhibiting
+- expirator-facilitator
+- inspiratory Frederica Hering's
+- expirator
+
+? The following substance or structures cause bronchial dilation:
++ Adrenaline
+- Acetylcholine
+- Histamine
+- Substance P
+- Thromboxine
+
+? The following substance or structures cause bronchial constriction:
++ Acetylcholine
+- Adrenaline
+- Bradykinin
+- vasoactive intestinal peptide
+- Somatostatin
+
+? The leading factor in the regulation of breathing is tension:
++ carbon dioxide in arterial blood and cerebrospinal fluid
+- nitrogen in arterial blood
+- oxygen in arterial blood
+- oxygen in venous blood
+- carbon dioxide in venous blood
+
+? Adrenaline expands the lumen of the bronchi, acting through:
++ β-adrenergic receptors
+- M-cholinergic receptors
+- N-cholinergic receptors
+- serotonin receptors
+- α-adrenoceptors
+
+? After cutting both vagus nerves ...
++ breathing will be deep and rare
+- breathing will become rare and shallow
+- rhythm of breathing will be preserved
+- breathing will stop
+- breathing will become more frequent
+
+? A decrease in forced expiratory volume in 1 second with normal VC indicates (ob)
++ narrowing of certain sections of the airways
+- weakness of respiratory muscle contraction
+- reducing the excitation of expiratory neurons
+- increasing the functional "dead" space
+- reducing the excitability of alpha-adrenoceptors of the bronchi
+
+? Two people of the same age and physique participate in the 1000 m race. At the end of the distance, one athlete had a minute breathing volume (MOD) of 20 liters at a respiratory rate of 40 per minute, and the other athlete had a 20 liter respiratory rate of 60 per minute. What indicator characterizes the fitness of the body?
++ increase in inspiratory volume
+- increased respiratory rate
+- decrease in expiratory volume
+- decrease in inspiratory volume
+- reduction of the spare volume
+
+? Adaptive changes in breathing are carried out by the cerebral cortex by means of
++ of the hypothalamus
+- neurons of the medulla oblongata
+- of midbrain neurons
+- of the pneumotaxic center
+- of the thalamus
+
+? The smooth muscle cells (MMC) of the bronchial vessels have a relaxing effect
++ histamine
+- adrenaline
+- endothelin
+- angiotensin II
+- LTE4 leukotriene
+
+? At the following levels of the central nervous system, the basic rhythm of breathing is formed:
++ at the level of the medulla oblongata, pons
+- at the level of the midbrain, diencephalon
+- at the level of the medulla oblongata, cerebellum
+- at the level of the spinal cord, hypothalamus
+- at the level of the cortex, limbic system
+
+? The first breath of a child is due to the excitation of the respiratory center as a result of ...
++ accumulation of CO2 in the blood and lack of oxygen
+- the accumulation of carbon dioxide and nitrogen in the blood
+- tactile and thermal skin irritation
+- irritation of interoreceptors and proprioceptors of muscles
+- irritation of parietal and visceral pleural receptors
+
+? Central respiratory chemoreceptors are located in ...
++ medulla oblongata
+- medulla oblongata, midbrain
+- the red nucleus, the substantia nigra of the midbrain
+- Quadruple
+- hindbrain
+
+? The oxygen capacity of the blood at rest is equal to ...
++ 19 vol%
+- 17 vol%
+- 16 vol%
+- 15 vol%
+- 19 vol%
+
+? The nerve center responsible for the change of inhalation and exhalation is located in ...
++ pons
+- cerebral cortex
+- hypothalamus
+- medulla oblongata
+- spinal cord
+
+? Motor neurons, whose axons innervate the respiratory muscles, are located in ...
++ spinal cord
+- cerebral cortex
+- hypothalamus
+- pons
+- medulla oblongata
+
+? The respiratory center includes components ...
++ of the inhalation and exhalation centers, pneumotaxis
+- mechanoreceptors, diaphragm
+- intercostal muscles, pneumotaxis
+- of the cortical center and vagus nerves
+- of the inspiratory and exhalation centers, motor neurons of the spinal cord
+
+? The exchange of gases between the environment and the tissues in the respiratory system occurs as a result of the difference in ...
++ of partial pressures of gases
+- temperatures
+- pH of fabrics and media
+- oxyhemoglobin content
+- of membrane potential
+
+? When the function of the respiratory center is weakened, ...
++ oxygen with 5.5% carbon dioxide
+- pure oxygen
+- oxygen with 26% carbon dioxide
+- carbon dioxide
+- carbon dioxide with 16% oxygen
+
+? Carboxyhemoglobin is a compound of hemoglobin with ...
++ carbon monoxide
+- carbon dioxide
+- oxygen
+- glucose
+- water
+
+? Oxyhemoglobin is a compound of hemoglobin with ...
++ oxygen
+- carbon dioxide
+- carbon monoxide
+- glucose
+- water
+
+? Influence of the sympathetic nervous system on the bronchial
++ bronchial dilate
+- bronchial narrowing
+- bronchial remain normal
+- bronchial dilate, then narrow
+- bronchial narrow, then dilate
+
+? Effect of the parasympathetic nervous system on the bronchi:
++ bronchi narrowing
+- bronchi dilate
+- bronchi remain normal
+- bronchi dilate, then narrow
+- bronchi narrow, then dilate
+
+? Volume of air entering the lungs during calm inhalation:
++ tidal volume
+- residual volume
+- reserve expiratory volume
+- inspiratory capacity
+- reserve inspiratory volume
+
+? The cause of changes in breathing and the development of altitude sickness when climbing to altitude is:
++ decrease in the partial pressure of CO2 and O2 in atmospheric air
+- decrease in the partial pressure of CO2 and nitrogen in atmospheric air
+- increase in the partial pressure of CO2 and O2 in atmospheric air
+- decrease in the partial pressure of O2 and nitrogen in the ambient air
+- reduction of helium and argon content in ambient air
+
+? The oxygen tension in the arterial blood is equal to:
++ 100 mmHg
+- 80 mmHg
+- 60 mmHg
+- 40 mmHg
+- 20 mmHg
+
+? The partial pressure of carbon dioxide in alveolar air is:
++ 38-40 mmHg
+- 100-102 mmHg
+- 60-68 mmHg
+- 40-48 mmHg
+- 30-28 mmHg
+
+? After cutting both vagus nerves, inhale and exhale ...
++ becomes long-lasting
+- unchanged
+- reduced
+- terminated
+- increasing
+
+? Humoral regulation of breathing has been proven by experience:
++ Frederica
+- Sechenova
+- Douglas
+- Van Slayka
+- Haldane
+
+? The respiratory center includes the following components:
++ centers of inhalation and exhalation, pneumotaxis
+- mechanoreceptors, diaphragms
+- intercostal muscles, pneumotaxis
+- cortical center and vagus nerves
+- centers of inspiration and exhalation, motor neurons of the spinal cord
+
+? Oxygen content in arterial blood ... volume percent.
++ 18-20
+- 1-8
+- 10-14
+- 24-30
+- 39-40
+
+? The predominant mechanism of gas exchange in the respiratory zone of the lungs:
++ diffusion
+- convection
+- primary active transport
+- exchange diffusion
+- secondary active diffusion
+
+? When cutting the spinal cord between the cervical and thoracic segments:
++ diaphragmatic breathing is preserved, costal breathing is stopped
+- diaphragmatic breathing stops, rib breathing is preserved
+- diaphragmatic and costal breathing cease
+- diaphragmatic and costal breathing are preserved, the depth of breathing decreases
+- diaphragmatic breathing stops, rib breathing becomes periodic
+
+? Indicate the main inspiratory muscles:
++ Diaphragm
+- Internal intercostal muscles
+- Anterior abdominal wall muscles
+- Serratus anterior muscle
+- Sternocleidomastoid muscle
+
+? Indicate the main expiratory muscles:
++ Internal intercostal muscles
+- Pectoralis major
+- Scalene muscles
+- Pectoralis minor muscles
+- Anterior abdominal wall muscles
+
+? Factors that determine the ventilation-perfusion relationship of the lung:
++ Unevenness of local alveolar ventilation
+- Non-diffusion capacity of the lungs
+- Absence of functional venous arterial shunts
+- Homogeneous perfusion of the alveoli of the lung
+- Uniformity of local alveolar ventilation
+
+? The hemostatic function of the lungs is characterized by...
++ Synthesis of prostacyclin, ADP
+- Collagen synthesis
+- Elastin synthesis
+- Synthesis of surfactants
+- Synthesis of own cell structures
+
+? Venous blood binds more carbon dioxide than arterial blood due to:
++ increasing the tension of carbon dioxide in tissues
+- hemoglobin reduction
+- reducing carbonic anhydrase activity
+- lowering the partial pressure of carbon dioxide
+- increasing the partial pressure of oxygen
+
+? Cutting the spinal cord between the lower cervical and first thoracic segments turns off ... breathing.
++ costal
+- diaphragmatic
+- costal and diaphragmatic
+- costal and abdominal
+- abdominal
+
+? Maximum volume of air that can be inhaled after a calm inhalation:
++ reserve inspiratory volume
+- tidal volume
+- residual volume
+- Expiratory Reserve Volume
+- vital capacity
+
+? Number of lobes of the right lung ...
++ 3
+- 2
+- 1
+- 4
+- 5
