@@ -1,0 +1,1869 @@
+? An anatomical structure located in the vertebral canal:
++ spinal cord
+- medulla oblongata
+- receptors
+- intermediate nerve
+- thalamus
+
+? Specify the membranes of the brain:
++ dura, arachnoid, pia
+- venous, vascular
+- vascular, serous
+- lymphatic, fibrous
+- external, internal
+
+? Indicate the sinus of the dura mater of the brain, located on the sides of the sella turcica:
++ cavernous
+- inferior sagittal
+- transverse
+- superior petrous
+- inferior petrous
+
+? Which part of the brain is the center of balance:
++ cerebellum
+- medulla oblongata
+- pons
+- spinal cord
+- diencephalon
+
+? The upper border of the spinal cord is located:
++ at the outer edge of the occipital foramen
+- at the lower edge of the V vertebra
+- at the upper edge of the VII cervical vertebra
+- at the exit site of the second pair of spinal nerves
+- at the inferior border of the pons
+
+? The gray matter of the spinal cord is formed by:
++ bodies of nerve cells
+- preganglionic fibers
+- sympathetic fibers
+- axons
+- postganglionic fibers
+
+? White matter of the spinal cord is formed by:
++ processes of nerve cells
+- neurocytes
+- postganglionic fibers
+- preganglionic fibers
+- the bodies of nerve cells
+
+? The lateral ventricles are the cavity of the:
++ telencephalon
+- diencephalon
+- midbrain
+- rhombencephalon
+- spinal cord
+
+? The third ventricle is the cavity of the:
++ diencephalon
+- telencephalon
+- midbrain
+- rhombencephalon
+- spinal cord
+
+? The fourth ventricle is the cavity of the:
++ rhombencephalon
+- telencephalon
+- diencephalon
+- midbrain
+- spinal cord
+
+? The cerebral aqueduct is the cavity of the:
++ midbrain
+- telencephalon
+- diencephalon
+- rhombencephalon
+- cerebral cortex
+
+? The central nervous system consists of:
++ the spinal cord and brain
+- the spinal cord and sensory organs
+- spinal cord and brain stem
+- the brain and ganglia
+- only brain
+
+? To take cerebrospinal fluid for examination, the doctor must make a puncture of the subarachnoid space of the spinal cord. Between which vertebrae should a needle be inserted so as not to damage the spinal cord?
++ between III and IV lumbar vertebrae
+- between XI and XII thoracic vertebrae
+- between XII thoracic and I lumbar vertebrae
+- between I and II lumbar vertebrae
+- between IV and V thoracic vertebrae
+
+? After a spinal cord injury, a patient lost deep sensitivity and movements in the right lower limb. In what part of the spinal cord is the injury located?
++ in the structures of the right half of the spinal cord
+- in the structures of the anterior half of the spinal cord
+- in the structures of the posterior half of the spinal cord
+- in the structures of the left half of the spinal cord
+- in the structures of the right and left halves of the spinal cord
+
+? Due to the trauma of the spine, the patient has no pain and temperature sensitivity of the left half of the body. Damage to what pathway can cause this phenomenon?
++ tr.spino-thalamicus lateralis on the right
+- tr.spino-thalamicus anterior on the right
+- tr.spino-thalamicus lateralis on the left
+- tr.spino-thalamicus anterior on the left
+- fasciculi of Gaulle and Burdakh on the left
+
+? A patient has an epidural abscess (epiduritis) - accumulation of pus in the epidural tissue of the spinal cord. What is the localization of the pathological process?
++ between the periosteum and the dura mater
+- between the arachnoid and pia mater
+- between the dura and arachnoid mater
+- between the pia mater and the spinal cord
+- between the dura and pia mater
+
+? The patient has meningitis. A puncture of the subarachnoid space was prescribed. Where the subarachnoid space is located?
++ between the arachnoid and pia mater
+- between the periosteum and the dura mater
+- between the dura and arachnoid mater
+- between the pia mater and the spinal cord
+- between the dura and pia mater
+
+? As a result of a knife wound, the posterior funiculi of the white matter of the spinal cord were damaged in the victim. What neurological disorders can be observed in this case?
++ impairment of tactile sensitivity and stereognosia
+- impairment of pain and temperature sensitivity
+- impairment of proprioceptive and pain sensitivity
+- impairment of conscious movements
+- impairment of unconscious movements
+
+? A 65-year-old patient was diagnosed with hemorrhage in the anterior horns of the spinal cord. What is the function of the anterior horns?
++ motor
+- sympathetic
+- sensory
+- parasympathetic
+- mixed
+
+? When diving into the water, the spine was injured and complete paralysis of the upper and lower extremities occurred. What part of the spine and spinal cord was most likely injured?
++ cervical region
+- sacral region
+- thoracic region
+- coccygeal region
+- lumbar region
+
+? After damage to the brain, a person's perception of sound is impaired. In what part of the cortex did the injury occur?
++ temporal cortex
+- parietal cortex
+- occipital cortex
+- anterior central gyrus
+- posterior central gyrus
+
+? During the operation of appendectomy, the anesthesiologist stated that the patient had no pupillary reflex as a result of an overdose of anesthesia. What structure of the brainstem is involved in the process?
++ midbrain
+- cerebellum
+- diencephalon
+- medulla oblongata
+- hindbrain
+
+? During the surgical treatment of epilepsy, the corpus callosum was cut. What fibers are cut?
++ commissural
+- projectional
+- associative
+- pyramidal
+- extrapyramidal
+
+? An x-ray examination of a patient revealed a change in the shape of the Turkish saddle. Doctors suspected a pituitary tumor. What part of the brain does the pituitary gland belong to?
++ diencephalon
+- midbrain
+- telencephalon
+- rhomboid brain
+- hindbrain
+
+? A patient with an industrial injury was admitted to the neurosurgical department. Examination revealed that a metal nail pierced squamous part of the temporal bone and penetrated into the substance of the left temporal lobe closer to the temporal pole. Which of the basal ganglia is damaged?
++ amygdala
+- lenticular nucleus
+- caudate nucleus
+- claustrum
+- globus pallidus
+
+? A patient with a damaged diencephalon has a hearing impairment. What nuclei are damaged?
++ medial geniculate bodies
+- lateral geniculate bodies
+- red nuclei
+- anterior nuclei of the hypothalamus
+- posterior ventral nucleus
+
+? After brain damage, a person's perception of visual information is impaired. In what part of the cortex did the injury occur?
++ occipital cortex
+- posterior central gyrus
+- parietal cortex
+- temporal cortex
+- anterior central gyrus
+
+? A patient has paralysis of the muscles of the upper and lower extremities on the left. Which gyrus of the cerebral hemispheres is affected?
++ precentral
+- postcentral
+- middle frontal
+- inferior frontal
+- upper frontal
+
+? Due to poisoning with an unknown pesticide, a patient has cerebellar ataxia with loss of body balance. Which of the cerebellar nuclei is affected in this case?
++ fastigial
+- dentate
+- emboliform
+- globose
+- trapezoid
+
+? A 70-year-old man consulted an ophthalmologist with complaints of blurred vision. During the examination, the diagnosis was made: cataract. In which of the structures of the eyeball can such a pathology occur?
++ Lens
+- Corpus ciliare
+- Corpus vitreum
+- Iris
+- Cornea
+
+? A 46-year-old woman addressed an ophthalmologist with complaints of visual impairment. The examination revealed a violation of the process of accommodation of the lens and pathology of the ligament, which is fixed to its capsule. What is this ligament?
++ zonula ciliaris
+- lig. lentis
+- lig. capsularis
+- lig. pectinatum iridis
+- corpus vitreum
+
+? A 60-year-old man has age-related farsightedness due to the weakening of the accommodative properties of the lens and smooth muscles of the choroid of the eyeball, which requires correction with lenses. Which muscle tone weakened with age?
++ m.ciliares
+- m.dilatator pupillae
+- m.sphincter pupillae
+- m.obliquus bulbi superiores
+- m.obliquus bulbi inferiores
+
+? Inflammation of the tympanic cavity was complicated by inflammation of the dura mater. Through which wall of the tympanic cavity can the infection enter the cranial cavity?
++ superior
+- inferior
+- lateral
+- medial
+- posterior
+
+? A 7-year-old child often suffers from acute respiratory infections. Examination revealed a significant enlargement of the pharyngeal tonsil, covering the pharyngeal opening (tuba auditiva), which leads to a decrease in auditory sensitivity in the child. On which wall of the tympanic cavity does the auditory tube open?
++ paries caroticus
+- paries jugularis
+- paries labyrinthicus
+- paries mastoideus
+- paries tegmentalis
+
+? A 5-year-old child was admitted to the ENT department with a diagnosis of purulent inflammation of the middle ear. The disease began with inflammation of the nasopharynx. Through which canal of the temporal bone did the infection get into the tympanic cavity?
++ musculotubal canal
+- carotid canal
+- canaliculus of chorda tympany
+- tympanic canaliculus
+- caroticotympanic canaliculi
+
+? A 54-year-old woman consulted a doctor with complaints of dizziness, nausea, imbalance after a fall and a head injury. Which structure of the inner ear was most likely to have dysfunction?
++ vestibular organ
+- tympanic membrane
+- bony labyrinth
+- spiral organ
+- longitudinal modiolar canal
+
+? A 27-year-old patient complained of visual impairment. On examination, a disturbance of accommodation was found, the pupil was dilated and did not respond to light. What muscle function is impaired?
++ m.sphinter pupillae, m.ciliaris
+- m.obliquus superior, m.ciliaris
+- m.dilatator pupillae
+- m.rectus lateralis, m.sphinter pupillae
+- mm.sphinter et dilatator pupillae
+
+? When diving into the river, a man has hit his head against the bottom. After that, he felt a sharp pain in the spine and lack of active movements of the upper limbs, in addition, the sensitivity at the level of the shoulder girdle was disturbed. Precise the level of damage of the spinal cord:
++ at the level of cervical segments
+- at the level of thoracic segments
+- at the level of lumbar segments
+- at the level of sacral segments
+- at the level of the coccygeal segment
+
+? Following an injury to the occipital region, the patient has impaired sensation in this area. Name the nerve that innervates this zone:
++ lesser occipital nerve
+- great auricular nerve
+- transverse cervical nerve
+- supraclavicular nerves
+- musculocutaneous nerve
+
+? After a displaced fracture of the humerus, the patient lost sensation of the skin of the medial surface of the arm. Indicate the nerve whose injury may be suspected in this case:
++ medial cutaneous nerve of the arm
+- musculocutaneous nerve of the forearm
+- musculocutaneous nerve
+- ulnar nerve
+- radial nerve
+
+? A patient has paralysis of the biceps brachii, coracobrachialis, and brachialis muscles and absence of sensory innervation of the skin of the anterolateral surface of the forearm. Indicate the nerve whose damage causes these symptoms:
++ musculocutaneous nerve
+- medial cutaneous nerve of the arm
+- medial cutaneous nerve of the forearm
+- ulnar nerve
+- radial nerve
+
+? After a comminuted fracture of the fibula in the region of its upper third, a patient is unable to extend the foot, its lateral border is dropped, and the patient walks by slapping the foot. Cutaneous sensation on the lateral side of the leg and dorsum of the foot is impaired. Indicate the nerve whose damage causes these symptoms:
++ common peroneal nerve
+- posterior cutaneous nerve
+- scicatic nerve
+- tibial nerve
+- lateral plantar nerve
+
+? During examination of a patient, paralysis of all muscles of the leg and foot was detected. Indicate the plexus whose branches innervate these muscles:
++ sacral plexus
+- coccygeal plexus
+- lumbar plexus
+- brachial plexus
+- cervical plexus
+
+? The physician-neurologist checked the patient's knee-jerk reflex by tapping with a hammer on the patellar ligament. Indicate location of the body of the sensory neuron:
++ dorsal root ganglion
+- dorsal horns of the spinal cord
+- ventral horns of spinal cord
+- lateral horn of the spinal cord
+- central intermediate matter
+
+? A large pathological lesion was detected on an X-ray in the central part of the anterior cranial fossa (the cribriform plate of the ethmoid bone). Name the analyzer whose function may be impaired:
++ olfactory
+- gustatory
+- visual
+- auditory
+- gravitational
+
+? A patient complains of loss of sensation in the arm, forearm, dorsal surface of the hand, and digits I, II, and half of III. Examination revealed atonia and atrophy of the extensors of the forearm and hand. Name the affected nerve:
++ radial nerve
+- axillary nerve
+- median nerve
+- ulnar nerve
+- musculocutaneous nerve
+
+? A 65-year-old patient was diagnosed with hemorrhage into the anterior horns of the spinal cord. Indicate the functions of the spinal cord that will be impaired in this case:
++ motor
+- sensory
+- sympathetic
+- parasympathetic
+- mixed
+
+? A 50-year-old female patient was admitted to the clinic with a closed traumatic brain injury in the region of the occipital bone. On examination: impaired gait and balance, hand tremor. Indicate the affected part of the brain:
++ cerebellum
+- medulla oblongata
+- pons
+- diencephalon
+- telencephalon
+
+? A patient with an injury to the skull base in the region of the clivus was admitted to the clinic. Intensive therapy was prescribed to prevent edema and compression of the brain structures. Name the part of the brain whose compression would cause disturbances of the respiratory and vasomotor centers:
++ medulla oblongata
+- pons
+- cerebellum
+- midbrain
+- brainstem
+
+? A patient with arachnoiditis (inflammation of the arachnoid mater) was found to have convergent strabismus with deviation of the visual axis of the right eye toward the nose. This is associated with dysfunction of the right lateral rectus muscle of the eyeball, which rotates it laterally. Name the nerve that innervates this muscle:
++ abducens nerve
+- trigeminal nerve
+- facial nerve
+- optic nerve
+- oculomotor nerve
+
+? During examination of a patient with a skull base fracture, the following symptoms were identified: loss of taste and general sensation in the posterior third of the tongue, impaired sensation of the fauces and pharynx. Indicate the cranial nerve whose lesion causes these symptoms:
++ glossopharyngeal nerve
+- trigeminal nerve
+- hypoglossal nerve
+- facial nerve
+- accessory nerve
+
+? A patient has impaired sensory innervation of the skin of the palmar surface of the fifth finger. Name the affected nerve:
++ ulnar nerve
+- radial nerve
+- brachial nerve
+- median nerve
+- axillary nerve
+
+? As a result of a traffic accident, the patient's pericentral gyrus of the brain was damaged. Due to this, the function of which part of the body is impaired?
++ Movement of the lower limb
+- Sensitivity of the lower limb
+- Movement of the head and neck area
+- Upper limb movement
+- Sensitivity in the lower jaw area
+
+? A patient admitted to the neurology department complains of loss of auditory, gustatory, and olfactory sensation. In which part of the brain is the lesion located?
++ in the thalamus
+- in the cerebellar cortex
+- in the postcentral gyrus
+- in the region of the calcarine sulcus
+- in the precentral gyrus
+
+? A patient has olfactory hallucinations. The lesion is located:
++ in the region of the uncus
+- in the supramarginal gyrus
+- in the region of the calcarine sulcus
+- in the Heschl's gyrus
+- in the region of the epithalamus
+
+? The lesion is located deep in the lateral sulcus, in the middle part of the temporal gyrus (in the Heschl's gyrus). The subcortical center of which analyzer is located in this area?
++ auditory analyzer
+- gustatory analyzer
+- visual analyzer
+- statokinetic analyzer
+- olfactory analyzer
+
+? A patient has visual hallucinations. Where is the lesion located?
++ in the region of the calcarine sulcus
+- in the precentral gyrus
+- in the postcentral gyrus
+- in the thalamus
+- in the supramarginal gyrus
+
+? As a result of thromboembolism in some branches of the basilar artery, the patient will develop impaired function of the muscles of the upper and lower limbs. Which nuclei and parts of the cerebellum are affected?
++ fastigial nucleus, hemisphere
+- emboliform nucleus, nodule
+- globose nucleus, vermis
+- dentate nucleus, hemispheres
+- red nucleus
+
+? The reticular formation is a cluster of neurons and nerve fibers in:
++ the spinal cord and brain stem
+- bone marrow
+- the intermediate brain
+- layers of the brain
+- the optic center
+
+? The superiorcollicles of the midbrain are:
++ subcortical centers of vision
+- subcortical centers of taste
+- subcortical centers of hearing
+- subcortical centers of equilibrium
+- subcortical centers of smell
+
+? A 27-year-old female patient presented with complaints of visual impairment. Examination revealed impaired accommodation, a dilated pupil, and no reaction to light. In this case, the function of the following muscles is impaired:
++ m. sphincter pupillae, m. ciliaris
+- m. dilatator pupillae
+- m. obliquus superior, m. ciliaris
+- m. rectus lateralis, m. sphincter pupillae
+- mm. sphincter et dilatator pupillae
+
+? A 45-year-old female patient consulted a doctor with complaints of loss of the ability to distinguish colors, which developed after an electrical injury. Examination of the retina of one eye revealed damage to the receptors responsible for this type of sensation. These receptors are:
++ cones
+- rods
+- bipolar cells
+- multipolar cells
+- ganglion cells
+
+? As a result of an injury, the olfactory fibers emerging from the nasal cavity were ruptured. Through which bone do these fibers pass?
++ ethmoid bone
+- sphenoid bone
+- maxilla
+- inferior nasal concha
+- nasal bone
+
+? Which part of the brain does the amygdala belong to?
++ telencephalon
+- midbrain
+- spinal cord
+- diencephalon
+- rhombencephalon
+
+? Which parts of the brain form the rhomboid fossa?
++ pons and medulla oblongata
+- midbrain and pons
+- medulla oblongata and cerebellum
+- midbrain and diencephalon
+- pons and cerebellum
+
+? Which cerebral commissure connects the posterior nuclei of the thalami?
++ posterior commissure
+- vault commissure
+- anterior commissure
+- corpus callosum
+- soldering of leashes
+
+? Which part of the brain is connected to the cerebellum by the superior cerebellar peduncles?
++ with a midbrain
+- with medulla oblongata
+- with diencephalon
+- with pons
+- with basal ganglia
+
+? Which part of the brain is connected to the cerebellum by the inferior cerebellar peduncles?
++ with medulla oblongata
+- midbrained
+- with the thalamus
+- with brain stems
+- with pons
+
+? Which part of the brain is the middle cerebellar peduncle connected to the cerebellum?
++ with pons
+- midbrained
+- with the thalamus
+- with brain stems
+- with medulla oblongata
+
+? Which nucleus of the cerebellar vermis is located close to the median plane?
++ tent core
+- globular nucleus
+- corky nucleus
+- dentate nucleus
+- Deiters core
+
+? The third ventricle communicates with the lateral ventricle through:
++ interventricular foramen
+- lateral apertures of the fourth ventricle (foramina of Luschka)
+- median aperture of the fourth ventricle (foramen of Magendie)
+- posterior perforated substance
+- cerebral aqueduct
+
+? The morphological structure participating in the formation of the anterior wall of the third ventricle is:
++ columns of the fornix
+- body of the fornix
+- crura of the fornix
+- dorsal surface of the optic chiasm
+- choroid plexus of the third ventricle
+
+? The morphological structure participating in the formation of the posterior wall of the third ventricle is:
++ posterior commissure of the brain
+- dorsal surface of the optic chiasm
+- crura of the fornix
+- interthalamic adhesion
+- mammillary bodies
+
+? The morphological structure participating in the formation of the inferior wall of the third ventricle is:
++ tuber cinereum
+- medial surface of the thalamus
+- habenular commissure
+- lamina terminalis
+- posterior commissure of the brain
+
+? The morphological structure participating in the formation of the superior wall of the third ventricle is:
++ choroid plexus of the third ventricle
+- dorsal surface of the optic chiasm
+- mammillary bodies
+- interthalamic adhesion
+- posterior commissure of the brain
+
+? The morphological structure belonging to the hypothalamus and located anterior to the mammillary bodies is:
++ tuber cinereum
+- optic chiasm
+- lamina terminalis
+- interthalamic adhesion
+- posterior commissure of the brain
+
+? The morphological structure belonging to the epithalamic region is:
++ habenular commissure
+- mammillary bodies
+- pituitary gland
+- interthalamic adhesion
+- posterior commissure of the brain
+
+? In what part of the brain is the superior salivary nucleus located?
++ pons
+- medulla
+- midbrain
+- diencephalon
+- cerebellum
+
+? Where are the cell bodies of motor neurons located in the spinal cord?
++ front horns
+- side horns
+- rear horns
+- posterior cords
+- anterior cords
+
+? In which part of the brain is the motor somatic nucleus of the trigeminal nerve located?
++ pons
+- medulla
+- midbrain
+- diencephalon
+- cerebellum
+
+? What anatomical formation divides the pons into the tegmentum and the basilar part?
++ trapezoid body
+- medial loop
+- spinal loop
+- substantia nigra
+- brain stripes
+
+? The structures of the medulla oblongata are:
++ pyramid, olive, gracile and cuneate fasciculi
+- pyramid, pons, fusiform body
+- pons, isthmus, pyramid, hemispheres
+- pyramid, olive, pons, vermis, hemispheres
+- only fusiform body
+
+? How are the telencephalon hemispheres separated?
++ longitudinal fissure
+- transverse fissure
+- anterior perforated space
+- posterior perforated space
+- oblique fissure
+
+? Which lobe of the telencephalon has the greatest mass?
++ frontal
+- parietal
+- occipital
+- insula
+- temporal
+
+? The pineal gland is part of the ... brain.
++ diencephalon
+- midbrain
+- medulla oblongata
+- telencephalon
+- hindbrain
+
+? Parasympathetic innervation of the stomach is provided by the ... nerve.
++ vagus nerve
+- accessory nerve
+- facial nerve
+- glossopharyngeal nerve
+- intermediate nerve
+
+? Indicate behind which organ the celiac plexus is located:
++ behind the stomach
+- behind the pancreas
+- behind the liver
+- behind the duodenum
+- behind the small intestine
+
+? What functions of the nucleus are located in the anterior horns of the spinal cord
++ motor
+- sensory
+- vegetative
+- mixed
+- sympathetic
+
+? What functions of the nucleus are located in the posterior horns of the spinal cord
++ sensory
+- motor
+- vegetative
+- mixed
+- sympathetic
+
+? Indicate the nerve whose damage causes numbness or impaired sensation on the medial surface of the thigh:
++ obturator nerve
+- femoral nerve
+- muscular branches of the femoral nerve
+- ilioinguinal nerve
+- sensory branches of the femoral nerve
+
+? Name branches of the brachial plexus damage of which produces a typical falling or drooping hand:
++ radial nerve
+- axillary nerve
+- ulnar nerve
+- median nerve
+- suprascapular nerve
+
+? Indicate the nerve whose damage causes atrophy of the deltoid muscle and impaired cutaneous sensation in the lateral region of the arm:
++ axillary nerve
+- radial nerve
+- ulnar nerve
+- median nerve
+- long thoracic nerve
+
+? Indicate the cranial nerve whose lesion causes marked facial asymmetry:
++ facial nerve
+- trochlear nerve
+- trigeminal nerve
+- hypoglossal nerve
+- abducens nerve
+
+? Indicate the cranial nerve whose lesion causes drooping of the upper eyelid (ptosis):
++ oculomotor nerve
+- optic nerve
+- trigeminal nerve
+- facial nerve
+- trochlear nerve
+
+? Indicate the cranial nerve whose lesion causes immobility of the tongue, making it impossible to protrude it from the mouth:
++ hypoglossal nerve
+- glossopharyngeal nerve
+- vagus nerve
+- facial nerve
+- trochlear nerve
+
+? The cells of the spiral organ are located on:
++ the basal membrane
+- the vestibular wall
+- the external wall
+- the secondary tympanic membrane
+- the jugular wall
+
+? Specify the location of the sebaceous and ceruminous glands of the ear:
++ the skin of the cartilaginous part of the external auditory meatus
+- the mucosa of the tympanic membrane
+- the skin of the tympanic membrane
+- skin of the auricle
+- the skin of the membranous part of the external auditory meatus
+
+? Function of ciliary muscle:
++ changes the curvature of the lens
+- turns the eyeballs
+- changes the diameter of the pupil
+- closes eyelids
+- wrinkles eyebrow
+
+? The receptor of the olfactory analyzer is:
++ specific cells in the mucosa of the superior nasal concha
+- specific cells in the mucosa of the inferior nasal concha
+- proprioceptors
+- interoceptors
+- baroreceptors
+
+? The cortical end of the motor analyzer is located in:
++ precentral gyrus
+- postcentral gyrus
+- superior temporal gyrus
+- occipital gyrus
+- fornical gyrus
+
+? The midbrain includes:
++ cerebral peduncles
+- diencephalon
+- telencephalon
+- hindbrain
+- basal ganglia
+
+? The spinal ganglion is formed by:
++ receptor neurons
+- intercalated afferent neurons
+- efferent autonomic neurons
+- efferent somatic neurons
+- associative neurons
+
+? The somatic nervous system provides innervation of:
++ sense organs
+- internal organs
+- endocrine glands
+- blood vessels
+- skin
+
+? The autonomic nervous system provides innervation of:
++ blood vessels
+- bones
+- sense organs
+- skin
+- internal organs
+
+? The nervous system develops from:
++ ectoderm
+- mesoderm
+- endoderm
+- notochord
+- chorion
+
+? From the hindbrain vesicle develops:
++ pons
+- telencephalon
+- diencephalon
+- midbrain
+- spinal cord
+
+? The telencephalon belongs to:
++ forebrain
+- midbrain
+- hindbrain
+- rhombencephalon
+- spinal cord
+
+? The rhombencephalon includes:
++ cerebellum
+- telencephalon
+- diencephalon
+- midbrain
+- spinal cord
+
+? The lateral ventricles are the cavity of:
++ telencephalon
+- diencephalon
+- midbrain
+- rhombencephalon
+- spinal cord
+
+? The third ventricle is the cavity of:
++ diencephalon
+- telencephalon
+- midbrain
+- rhombencephalon
+- spinal cord
+
+? The fourth ventricle is the cavity of:
++ rhombencephalon
+- telencephalon
+- diencephalon
+- midbrain
+- spinal cord
+
+? The cerebral aqueduct is the cavity of:
++ midbrain
+- telencephalon
+- diencephalon
+- rhombencephalon
+- cerebral cortex
+
+? The lower boundary of the spinal cord projects at:
++ I–II lumbar vertebrae
+- II–III lumbar vertebrae
+- III–IV lumbar vertebrae
+- II sacral vertebra
+- II–III cervical vertebrae
+
+? The thoracic segments of the spinal cord end at the level of:
++ IX thoracic vertebra
+- X thoracic vertebra
+- XI thoracic vertebra
+- XII thoracic vertebra
+- II-III lumbar vertebrae
+
+? The lumbar segments of the spinal cord project to:
++ X-XI thoracic vertebrae
+- XI-XII thoracic vertebrae
+- XII thoracic - I lumbar vertebrae
+- I-II lumbar vertebrae
+- II-III lumbar vertebrae
+
+? The sacral segments of the spinal cord project to:
++ XII thoracic - I lumbar vertebrae
+- X-XI thoracic vertebrae
+- XI-XII thoracic vertebrae
+- I-II lumbar vertebrae
+- I-II thoracic vertebrae
+
+? The olivospinal tract is located at the level of the spinal cord:
++ in the lateral funiculus
+- in the posterior funiculus
+- in the anterior column
+- in the anterior funiculus
+- in the posterior column
+
+? The gracile fasciculus is located at the level of the spinal cord:
++ in the posterior funiculus
+- in the lateral funiculus
+- in the anterior column
+- in the anterior funiculus
+- in the posterior column
+
+? The epidural space of the spinal cord is located:
++ between the periosteum of the vertebral canal and the dura mater
+- under the dura mater
+- outside the arachnoid mater
+- under the arachnoid mater
+- in the nerve root
+
+? The cerebellumunderly cistern is:
++ subarachnoid space
+- epidural space
+- subdural space
+- subpial space
+- dural space
+
+? The anterior perforated substance belongs to:
++ telencephalon
+- diencephalon
+- midbrain
+- hindbrain
+- medulla oblongata
+
+? The hypothalamus belongs to the:
++ diencephalon
+- telencephalon
+- midbrain
+- hindbrain
+- medulla oblongata
+
+? The tuber cinereum belongs to the:
++ diencephalon
+- telencephalon
+- midbrain
+- hindbrain
+- medulla oblongata
+
+? The mammillary bodies belong to:
++ diencephalon
+- telencephalon
+- midbrain
+- hindbrain
+- medulla oblongata
+
+? The cerebral peduncles belong to:
++ midbrain
+- telencephalon
+- diencephalon
+- hindbrain
+- medulla oblongata
+
+? The basilar groove is located on:
++ hindbrain
+- diencephalon
+- midbrain
+- medulla oblongata
+- cerebellum
+
+? The olive belongs to:
++ medulla oblongata
+- diencephalon
+- midbrain
+- hindbrain
+- cerebellum
+
+? The fornix of the brain belongs to:
++ telencephalon
+- diencephalon
+- midbrain
+- hindbrain
+- pons
+
+? The cerebral hemispheres belong to:
++ telencephalon
+- diencephalon
+- mesencephalon
+- rhombencephalon
+- medulla oblongata
+
+? The corpus callosum belongs to:
++ telencephalon
+- diencephalon
+- mesencephalon
+- rhombencephalon
+- medulla oblongata
+
+? The septum pellucidum belongs to:
++ telencephalon
+- diencephalon
+- mesencephalon
+- rhombencephalon
+- cerebellum
+
+? The geniculate bodies belong to:
++ diencephalon
+- telencephalon
+- mesencephalon
+- rhombencephalon
+- medulla oblongata
+
+? The tectal plate belongs to:
++ mesencephalon
+- telencephalon
+- diencephalon
+- rhombencephalon
+- medulla oblongata
+
+? The thalamus belongs to:
++ diencephalon
+- telencephalon
+- mesencephalon
+- rhombencephalon
+- cerebellum
+
+? The infundibulum belongs to:
++ diencephalon
+- telencephalon
+- mesencephalon
+- rhombencephalon
+- cerebellum
+
+? The amygdalaoid body belongs to:
++ telencephalon
+- diencephalon
+- mesencephalon
+- rhombencephalon
+- pons
+
+? The parietal and frontal lobes are separated by:
++ central sulcus
+- lateral sulcus
+- cingulate sulcus
+- calcarine sulcus
+- temporal sulcus
+
+? The parietal and temporal lobes are separated by:
++ lateral sulcus
+- central sulcus
+- cingulate sulcus
+- calcarine sulcus
+- semilunar sulcus
+
+? The peripheral part of the olfactory brain includes:
++ anterior perforated substance
+- hippocampus
+- uncus
+- dentate gyrus
+- pons
+
+? The motor analyzer nucleus is located in:
++ precentral gyrus
+- postcentral gyrus
+- middle frontal gyrus
+- inferior frontal gyrus
+- temporal gyrus
+
+? The motor writing center is located in:
++ middle frontal gyrus
+- precentral gyrus
+- postcentral gyrus
+- inferior frontal gyrus
+- temporal gyrus
+
+? The motor speech center is located in:
++ inferior frontal gyrus
+- precentral gyrus
+- postcentral gyrus
+- middle frontal gyrus
+- temporal gyrus
+
+? The sensory analyzer nucleus is located in:
++ postcentral gyrus
+- precentral gyrus
+- middle frontal gyrus
+- inferior frontal gyrus
+- temporal gyrus
+
+? The stereognosis nucleus is located in:
++ superior parietal lobule
+- precentral gyrus
+- postcentral gyrus
+- inferior parietal lobule
+- central gyrus
+
+? The nucleus of purposeful movements (center of praxis) is located in:
++ supramarginal gyrus
+- superior parietal lobule
+- angular gyrus
+- superior temporal gyrus
+- cerebellum
+
+? The auditory speech center is located in:
++ superior temporal gyrus
+- superior parietal lobule
+- angular gyrus
+- supramarginal gyrus
+- parietal gyrus
+
+? The visual analyzer nucleus is located in:
++ calcarine sulcus
+- precuneus
+- cuneus
+- uncus
+- central sulcus
+
+? The gustatory analyzer nucleus is located in:
++ parahippocampal gyrus
+- uncus
+- dentate gyrus
+- cuneus
+- temporal gyrus
+
+? The olfactory analyzer nucleus is located in:
++ uncus
+- parahippocampal gyrus
+- dentate gyrus
+- olfactory sulcus
+- supramarginal gyrus
+
+? The optic radiation passes in the region of:
++ posterior limb of internal capsule
+- anterior limb of internal capsule
+- genu of internal capsule
+- external capsule
+- internal capsule
+
+? The genu of the corpus callosum connects the areas of:
++ frontal lobes
+- parietal lobes
+- temporal lobes
+- occipital lobes
+- cerebellum
+
+? The splenium of the corpus callosum connects the areas of:
++ occipital lobes
+- frontal lobes
+- parietal lobes
+- temporal lobes
+- cerebellum
+
+? The anterior commissure is located in the region of:
++ columns of fornix
+- body of fornix
+- crura of fornix
+- septum pellucidum
+- fornix commissure
+
+? The medial wall of the anterior horn of the lateral ventricle is formed by:
++ septum pellucidum
+- caudate nucleus
+- columns of the fornix
+- corpus callosum
+- commissures of the fornix
+
+? The medial wall of the posterior horn of the lateral ventricle is formed by:
++ calcarine sulcus
+- collateral trigone
+- tapetum
+- hippocampus
+- corpus callosum
+
+? The medial wall of the inferior horn of the lateral ventricle is formed by:
++ hippocampus
+- collateral eminence
+- thalamus
+- calcarine sulcus
+- crus of the hippocampus
+
+? Through the interventricular foramen communicate:
++ lateral ventricles with the third ventricle
+- right and left lateral ventricles
+- third ventricle with the fourth ventricle
+- fourth ventricle with subarachnoid space
+- lateral ventricle with the fourth ventricle
+
+? The floor of the third ventricle is formed by:
++ hypothalamus
+- thalamus
+- body of the fornix
+- columns of the fornix
+- crura of the fornix
+
+? The anterior wall of the third ventricle is formed by:
++ columns of the fornix
+- thalamus
+- body of the fornix
+- hypothalamus
+- commissure of the fornix
+
+? The subcortical center of vision is located in:
++ posterior nucleus of thalamus
+- anterior nucleus of thalamus
+- medial nucleus of thalamus
+- lateral nucleus of thalamus
+- ventroanterior nucleus of thalamus
+
+? The subcortical center of smell is located in:
++ anterior nucleus of thalamus
+- medial nucleus of thalamus
+- lateral nucleus of thalamus
+- posterior nucleus of thalamus
+- posteromedial nucleus
+
+? The subcortical center of hearing is located in:
++ medial geniculate body
+- anterior nucleus of thalamus
+- posterior nucleus of thalamus
+- lateral geniculate body
+- medial nucleus of thalamus
+
+? The pineal body belongs to:
++ epithalamus
+- metathalamus
+- subthalamus
+- hypothalamus
+- pituitary gland
+
+? The anterior region of the hypothalamus includes:
++ optic chiasm
+- infundibulum
+- tuber cinereum
+- mammillary bodies
+- hypothalamic sulcus
+
+? The posterior region of the hypothalamus includes:
++ mammillary bodies
+- infundibulum
+- optic chiasm
+- tuber cinereum
+- optic nerve
+
+? In the superior colliculi of the midbrain is located the subcortical center of:
++ vision
+- smell
+- taste
+- hearing
+- touch
+
+? In the inferior colliculi of the midbrain is located the subcortical center of:
++ hearing
+- smell
+- taste
+- vision
+- coordination
+
+? The isthmus of the rhombecephalon is formed by:
++ superior medullary velum
+- inferior medullary velum
+- thalamus
+- cerebral peduncles
+- tuber cinereum
+
+? The cerebral cortex of the cerebellar hemispheres is connected with:
++ dentate nucleus
+- fastigial nucleus
+- globose nucleus
+- emboliform nucleus
+- locus coeruleus
+
+? The confluence of sinuses receives:
++ superior sagittal sinus
+- inferior sagittal sinus
+- sigmoid sinus
+- cavernous sinus
+- transverse sinus
+
+? Paired processes of the dura mater include:
++ trigeminal cave
+- falx cerebelli
+- tentorium cerebelli
+- diaphragma sellae
+- transverse sinus
+
+? The second neuron of the anterior spinocerebellar tract is located in:
++ intermediomedial nucleus
+- substantia gelatinosa
+- proper nucleus of dorsal horn
+- thoracic nucleus
+- ventromedial nucleus
+
+? The second neuron of the posterior spinocerebellar tract is located in:
++ thoracic nucleus
+- substantia gelatinosa
+- proper nucleus of dorsal horn
+- intermediomedial nucleus
+- infundibular nucleus
+
+? The anterior corticospinal tract decussates in:
++ spinal cord
+- corpus callosum
+- internal capsule
+- medulla oblongata
+- cerebellum
+
+? The lateral corticospinal tract decussates in:
++ medulla oblongata
+- corpus callosum
+- internal capsule
+- spinal cord
+- cerebellum
+
+? The rubrospinal tract begins in:
++ midbrain
+- cerebellum
+- pons
+- medulla oblongata
+- infundibulum
+
+? The vestibulospinal tract begins from:
++ lateral vestibular nucleus
+- superior vestibular nucleus
+- inferior vestibular nucleus
+- medial vestibular nucleus
+- dorsomedial nucleus
+
+? Proprioceptive pathways of cerebellar direction include:
++ Flechsig's tract
+- Monakow's tract
+- Gowers' tract
+- Goll's tract
+- Burdach's tract
+
+? The third neuron of the lateral spinothalamic tract is located in:
++ thalamus
+- dorsal horns of spinal cord
+- anterior horns of spinal cord
+- spinal ganglia
+- postcentral gyrus
+
+? Irritation of the posterior roots of the spinal cord in osteochondrosis causes pain syndrome because they are functionally:
++ sensory
+- motor
+- autonomic
+- mixed
+- sympathetic
+
+? An intern doctor performed a spinal puncture on a patient by inserting the needle between the XII thoracic and I lumbar vertebrae. Explain the doctor's actions from an anatomical point of view:
++ the actions are incorrect because the spinal cord ends at the level of the I lumbar vertebra, and the spinal cord will be damaged
+- the actions are correct because the spinal cord ends at the level of the XII thoracic vertebra, and the spinal cord will not be damaged
+- the actions are correct because the spinal cord ends at the level of I the IV lumbar vertebra, and the spinal cord will not be damaged
+- the actions are incorrect because the spinal cord ends at the level of the V lumbar vertebra, and the spinal cord will be damaged
+- the actions are correct because the spinal cord ends at the level of the XI thoracic vertebra, and the spinal cord will not be damaged
+
+? As a result of a skull base injury, respiratory arrest and circulatory disturbance occurred. Which part of the brain was affected in this case?
++ medulla oblongata
+- midbrain
+- pons
+- spinal cord
+- cerebellum
+
+? Indicate the types of disorders in a patient with damage to the middle part of the cerebral peduncle:
++ motor disorders, because the pyramidal tracts pass through this area
+- hearing impairment, because the subcortical centers of the auditory analyzer are located in this area
+- visual impairment, because the subcortical centers of the visual analyzer are located in this area
+- sensory disorders, because the medial lemniscus passes through this area
+- autonomic disorders, because the substantia nigra is located in this area
+
+? During examination of the brain, a neoplasm was found in the region of the sella turcica. The following symptoms were objectively identified: persistent decreased body temperature, impaired function of endocrine glands (obesity), and visual impairment. The tumor is located in the following part of the brain:
++ diencephalon
+- midbrain
+- hindbrain
+- diencephalon
+- telencephalon
+
+? A patient with a neoplasm in the region of the sella turcica has persistent decreased body temperature, impaired function of endocrine glands (obesity), and visual impairment. In which part of the brain is the neoplasm located, and which structures are responsible for these disorders?
++ diencephalon, the hypothalamus is affected because there is decreased body temperature, obesity, and visual impairment
+- midbrain, because there are visual disorders
+- midbrain, because the cerebral peduncles are located close to the sella turcica
+- diencephalon, the thalamus is affected because there are visual disorders
+- diencephalon, the optic nerves are affected because there are visual disorders
+
+? A fracture of the skull base in the region of the posterior cranial fossa can be fatal. In this case, which part of the brain may be affected?
++ medulla oblongata
+- pons
+- spinal cord
+- cerebellum
+- midbrain
+
+? Examination of a patient with a lacerated wound in the lower third of the anterior region of the right leg revealed absence of extension movements in the right ankle joint. The muscles are not damaged. In this case, the following structure is impaired:
++ n. peroneus profundus
+- n. peroneus communis
+- n. peroneus superficialis
+- n. saphenus
+- n. tibialis
+
+? In a road traffic accident, the lower limb of the injured person was damaged at the level of the upper third of the leg, after which dorsiflexion of the foot became impossible in the injured limb. Such symptoms occur with damage to the following nerve:
++ Nervus peroneus profundus
+- Nervus tibialis
+- Nervus peroneus communis
+- Nervus cutaneus surae lateralis
+- Nervus peroneus superficialis
+
+? The lower limb of a patient was damaged at the level of the upper third of the leg, after which dorsiflexion of the foot became impossible in the injured limb. Indicate the anatomical structures that were damaged:
++ Nervus peroneus profundus, because it innervates the extensor hallucis longus muscle
+- Nervus tibialis, because it innervates the vastus lateralis muscle
+- Nervus peroneus communis, because it innervates the plantaris muscle
+- Nervus cutaneus surae lateralis, because it innervates the tibialis anterior muscle
+- Nervus peroneus superficialis, because it innervates the semimembranosus muscle
+
+? A patient has impaired extension of the leg at the knee joint. In this case, the following anatomical structure was affected:
++ femoral nerve
+- deep peroneal nerve
+- tibial nerve
+- scicatic nerve
+- inferior gluteal nerve
+
+? After an eye injury with damage to some nerves of the orbit, the patient developed convergent strabismus. Indicate the nerve that was affected:
++ n. abducens
+- n. opticus
+- n. oculomotorius
+- n. ophthalmicus
+- n. trochlearis
+
+? A patient developed convergent strabismus after an eye injury with damage to some nerves of the orbit. Indicate which nerves were affected and explain the cause of this phenomenon:
++ the abducens nerves were affected, resulting in paralysis of the lateral rectus muscles and increased tone of the medial rectus muscles
+- the trochlear nerves were affected, resulting in paralysis of the lateral rectus muscles and increased tone of the medial rectum muscles
+- the optic nerves were affected, resulting in loss of the lateral visual fields
+- the oculomotor nerves were affected, resulting in paralysis of the medial rectus muscles
+- the ophthalmic nerves were affected, resulting in paralysis of the lateral rectus muscles and increased tone of the medial rectus muscles
+
+? In a patient with a femoral fracture, extension of the leg at the knee joint is impaired. Indicate the anatomical structures that were affected:
++ femoral nerve, because it innervates the quadriceps femoris muscle
+- deep peroneal nerve, because it innervates the biceps femoris muscle
+- tibial nerve, because it innervates the triceps surae muscle
+- scicatic nerve, because it innervates the semimembranosus muscle
+- inferior gluteal nerve, because it innervates the triceps surae muscle
+
+? When looking at distant objects, the lens becomes flattened. Indicate what changes occur in the other structures of the accommodative apparatus:
++ the ciliary muscles relax, the suspensory ligament becomes tense and flattens the lens
+- the ciliary muscles contract, the suspensory ligament becomes tense and flattens the lens
+- the ciliary muscle relax, the suspensory ligament relaxes and flattens the lens
+- the ciliary muscles relax, the suspensory ligament becomes tense and makes the lens more convex
+- the ciliary muscles contract, the suspensory ligament relaxes and makes the lens more convex
+
+? The first neuron of the auditory analyzer pathway is located in:
++ Ganglion spirale
+- Ganglion superius
+- Ganglion spinale
+- Ganglion vestibulare
+- Ganglion inferius
+
+? Due to an injury to the lower limb, the patient has impaired extension of the leg at the knee joint. Indicate the anatomical structures that were affected:
++ n. femoralis
+- n. peroneus profundus
+- n. tibialis
+- n. ischiadicus
+- n. peroneus communis
+
+? After hypothermia, a patient developed paralysis of the facial muscles on the left side of the face with the following symptoms on the affected side: smoothing of the forehead wrinkles, widening of the palpebral fissure, drooping of the cheek, drooping of the corner of the mouth, and inability to close the lips tightly. Such symptoms are observed in a lesion of:
++ n. facialis
+- n. trigeminus
+- n. trochlearis
+- n. abducens
+- n. ophthalmicus
+
+? A patient developed respiratory arrest and circulatory disturbance as a result of a skull base injury. Indicate the affected part of the brain:
++ medulla oblongata
+- mesencephalon
+- pons
+- medulla spinalis
+- cerebellum
+
+? A patient was found to have a lacerated wound in the lower third of the anterior region of the right leg. On examination: the muscles are not damaged, but extension movements in the right ankle joint are absent. Indicate the affected nerve:
++ n. peroneus profundus
+- n. peroneus communis
+- n. peroneus superficialis
+- n. saphenus
+- n. tibialis
+
+? A child with infectious parotitis developed a complication in the form of paralysis of the facial (mimetic) muscles on one side of the face. This is associated with damage to the ... nerve.
++ facial
+- trigeminal
+- trochlear
+- oculomotor
+- glossopharyngeal
+
+? The optic nerve passes through the:
++ superior orbital fissure
+- optic canal
+- supraorbital notch (foramen)
+- inferior orbital fissure
+- cribriform plate
+
+? The facial nerve exits the skull through the ... on its external base:
++ stylomastoid foramen
+- round foramen
+- oval foramen
+- spinosum foramen
+- mastoid foramen
+
+? The ophthalmic branch of the trigeminal nerve enters the orbit through the:
++ superior orbital fissure
+- round foramen
+- oval foramen
+- inferior orbital fissure
+- optic canal
+
+? Holotopy is:
++ the relationship of important structures to the body and its regions
+- the relationship of important structures to bony landmarks of the skeleton
+- the spatial relationship of important structures to each other
+- variations in the structure and location of organs in a specific region
+- the morphology of organs and surrounding anatomical structures under pathological conditions
+
+? Syntopy is:
++ the spatial relationship of important structures to each other
+- the relationship of important structures to the body and its regions
+- the relationship of important structures to bony landmarks of the skeleton
+- variations in the structure and location of organs in a specific region
+- the morphology of organs and surrounding anatomical structures under pathological conditions
+
+? Skeletotopy is:
++ the relationship of important structures to bony landmarks of the skeleton
+- the relationship of important structures to the body and its regions
+- the spatial relationship of important structures to each other
+- variations in the structure and location of organs in a specific region
+- the morphology of organs and surrounding anatomical structures under pathological conditions
+
+? In an abscess of the subcutaneous tissue of the scalp, the infection spreads to the dura mater through:
++ emissary veins
+- temporal and parietal arteries
+- lymphatic vessels
+- veins of the facial region of the skull
+- temporal and parietal veins
+
+? The following nerves pass through the superior orbital fissure:
++ trochlear, ophthalmic, oculomotor, and abducens nerves
+- maxillary, mandibular, abducens, and optic nerves
+- optic, ophthalmic, maxillary, and mandibular nerves
+- facial, optic, ophthalmic, and abducens nerves
+- abducens, trochlear, maxillary, and optic nerves
+
+? The optic nerve passes through:
++ superior orbital fissure
+- optic canal
+- supraorbital notch (foramen)
+- inferior orbital fissure
+- cribriform plate
+
+? The superficial nerves of the neck are branches of the:
++ cervical plexus
+- brachial plexus
+- facial nerve
+- trigeminal nerve
+- vagus nerve
+
+? The facial nerve exits the skull through the following opening on its external base:
++ stylomastoid foramen
+- round foramen
+- oval foramen
+- spinosum foramen
+- mastoid foramen
+
+? The maxillary nerve exits the cranial cavity through the:
++ round foramen
+- oval foramen
+- stylomastoid foramen
+- spinosum foramen
+- superior orbital fissure
+
+? During examination of a patient, a neurologist presses with his fingers on areas of the face corresponding to the supraorbital notch, infraorbital foramen, and mental foramen, using this method to assess the condition of the ... nerve.
++ trigeminal
+- vagus
+- oculomotor
+- facial
+- maxillary
+
+? After hypothermia, a patient developed paralysis of the muscles of one half of the face, indicating inflammation of the:
++ facial nerve
+- maxillary nerve
+- mandibular nerve
+- infraorbital nerve
+- trigeminal nerve
+
+? The ophthalmic branch of the trigeminal nerve enters the orbit through the:
++ superior orbital fissure
+- round foramen
+- oval foramen
+- inferior orbital fissure
+- optic canal
+
+? The maxillary nerve exits the cranial cavity through:
++ foramen rotundum
+- foramen ovale
+- foramen stylomastoideum
+- foramen spinosum
+- fissura orbitalis superior
+
+? The facial nerve exits the cranial cavity through:
++ foramen stylomastoideum
+- foramen rotundum
+- foramen ovale
+- foramen caroticum externum
+- porus acusticus internus
+
+? The recurrent laryngeal nerve branches from the vagus nerve at the level of:
++ the lower border of the aortic arch
+- the left dome of the pleura
+- the bifurcation of the trachea
+- the beginning of the left subclavian artery
+- posterior to the thoracic duct
+
+? The platysma is innervated by a branch of the:
++ facial nerve
+- trigeminal nerve
+- glossopharyngeal nerve
+- vagus nerve
+- hypoglossal nerve
+
+? The platysma is innervated by:
++ n. facialis
+- n. trigeminus
+- n. glossopharyngeal
+- n. vagus
+- n. hypoglossus
+
+? The source of formation of the superficial nerves of the neck is:
++ plexus cervicalis
+- plexus brachialis
+- nervus facialis
+- nervus trigeminus
+- plexus lumbalis
+
+? In a patient, sensitivity in the occipital region is impaired following an injury to this region. Name the nerve that innervates this area:
++ n. occipitalis minor
+- n. auricularis magnus
+- n. transversus colli
+- n. suprascapularis
+- n. musculocutaneus
+
+? A patient lost sensitivity of the medial surface of the arm after a displaced fracture of the humerus. Indicate the nerve whose injury may be suspected in this case:
++ n. cutaneus brachii medialis
+- n. cutaneus antebrachii medialis
+- n. musculocutaneus
+- n. ulnaris
+- n. radialis
+
+? Indicate the nerve whose damage causes the following symptoms: paralysis of the biceps brachii, coracobrachialis, and brachialis muscles and absence of sensory innervation of the skin of the anterolateral surface of the forearm:
++ n. musculocutaneus
+- n. cutaneus brachii medialis
+- n. cutaneus antebrachii medialis
+- n. ulnaris
+- n. radialis
+
+? A patient is unable to dorsiflex the foot, its lateral border is dropped, and the patient walks by slapping the foot. Cutaneous sensitivity on the lateral side of the leg and dorsum of the foot is impaired. These symptoms appeared after a comminuted fracture of the fibula in the region of its upper third. Indicate the nerve whose damage causes these symptoms:
++ n. fibularis communis
+- n. cutaneus femoris posterior
+- n. ischiadicus
+- n. tibialis
+- n. plantaris lateralis
+
+? A patient was diagnosed with paralysis of all muscles of the leg and foot. Indicate the plexus whose branches innervate these muscles:
++ plexus sacralis
+- plexus coccygeus
+- plexus lumbalis
+- plexus brachialis
+- plexus cervicalis
+
+? A radiograph revealed a large pathological lesion in the central part of the anterior cranial fossa (the cribriform plate of the ethmoid bone). Name the analyzer whose function may be impaired:
++ olfactory
+- gustatory
+- visual
+- auditory
+- gravitational
+
+? A patient complains of loss of sensation in the arm, forearm, dorsal surface of the hand, and digits I, II, and half of III. Examination revealed atonia and atrophy of the extensors of the forearm and hand. Name the affected nerve:
++ n. radialis
+- n. axillaris
+- n. medianus
+- n. ulnaris
+- n. musculocutaneous
+
+? In a patient, hemorrhage into the anterior horns of the spinal cord was detected. In this case, the following functions of the spinal cord will be impaired:
++ motor
+- sensory
+- sympathetic
+- ( parasympathetic
+- mixed
+
+? A patient with ain closed traumatic brain injury in the occipitalflammation bone region was found to have impaired gait and balance of and hand tremor. Indicate the affected part of the the brain:
++ cerebellum
+- medulla ara oblongata
+- pons
+- diencephalon
+- telencephalon
+
+? A patient with a skull base injury in the region of the clivus was prescribed intensive therapy to prevent edema and compression of the brain structures. Indicate the part of the brain whose compression would cause disturbances of the respiratory and vasomotor centers:
++ medulla oblongata
+- pons
+- cerebellum
+- mesencephalon
+- brainstem
+
+? A patient was found to have convergent strabismus with deviation of the visual axis of the right eye toward the nose due to arachnoiditischnoid mater). This is associated with dysfunction of the right lateral rectus muscle of the eyeball, which rotates it laterally. Name the nerve that innervates the lateral rectus muscle of the eyeball:
++ nervus abducens
+- nervus trigeminus
+- nervus facialis
+- nervus opticus
+- nervus oculomotorius
+
+? A patient has the following symptoms: loss of taste and general sensation in the posterior third of the tongue, impaired sensation of the oropharynx and pharynx, as a result of a skull base fracture. Name the cranial nerve whose lesion causes these symptoms:
++ n. glossopharyngeal
+- n. trigeminus
+- n. hypoglossus
+- n. facialis
+- n. accessorius
+
+? A patient has impaired sensation of the palmar surface of the fifth finger. Name the affected nerve:
++ n. ulnaris
+- n. radialis
+- n. brachialis
+- n. medianus
+- n. axillaris
+
+? A patient complains of loss of auditory, gustatory, and olfactory sensation. Indicate the lesion in which part of the brain:
++ thalamus
+- cortex cerebelli
+- gyrus postcentralis
+- sulcus calcarinus
+- gyrus precentralis
+
+? During examination, a patient was found to have olfactory hallucinations. The lesion is located in:
++ uncus
+- gyrus supramarginalis
+- sulcus calcarinus
+- gyrus temporalis transversus
+- epithalamus
+
+? A patient was diagnosed with a lesion located in the middle part of the temporal gyrus (in the Heschl's gyrus), deep in the lateral sulcus. The subcortical center of which analyzer is located in this area?
++ auditory analyzer
+- gustatory analyzer
+- visual analyzer
+- statokinetic analyzer
+- olfactory analyzer
+
+? During examination, a patient was found to have visual hallucinations. Indicate the site of the lesion:
++ sulcus calcarinus
+- gyrus precentralis
+- gyrus postcentralis
+- thalamus
+- gyrus supramarginalis
+
+? A patient has impaired function of the muscles of the upper and lower limbs as a result of thromboembolism in some branches of the basilar artery. Indicate which nuclei and parts of the cerebellum are affected:
++ nucleus fastigii
+- nucleus emboliformis
+- nucleus globosus
+- nucleus dentatus
+- nucleus ruber
+
+? A patient with deteriorating vision was found to have impaired accommodation, dilated pupil, and no reaction to light. Indicate the muscles whose function is impaired:
++ m. sphincter pupillae, m. ciliaris
+- m. dilatator pupillae
+- m. obliquus superior, m. ciliaris
+- m. rectus lateralis, m. sphincter pupillae
+- mm. sphincter et dilatator pupillae
+
+? A female patient, after an electrical injury, complained of loss of the ability to distinguish colors. Examination of the retina of one eye revealed damage to the receptors responsible for this type of sensitivity. These receptors are:
++ cones
+- rods
+- bipolar cells
+- multipolar cells
+- ganglion cells
+
+? After an injury to the base of the nose, a patient was found to have impaired sense of smell due to rupture of the olfactory fibers emerging from the nasal cavity. These fibers pass through the:
++ cribriform plate
+- sphenoid bone
+- maxilla
+- inferior nasal concha
+- nasal bone
+
+? The anatomical structure connecting the third ventricle with the lateral ventricle is:
++ interventricular foramen
+- lateral apertures of the fourth ventricle (foramina of Luschka)
+- median aperture of the fourth ventricle (foramen of Magendie)
+- posterior perforated substance
+- cerebral aqueduct
+
+? The following structure participates in the formation of the anterior wall of the third ventricle:
++ columns of the fornix
+- body of the fornix
+- crura of the fornix
+- dorsal surface of the optic chiasm
+- choroid plexus of the third ventricle
+
+? The following structure participates in the formation of the posterior wall of the third ventricle:
++ posterior commissure of the brain
+- dorsal surface of the optic chiasm
+- crura of the fornix
+- interthalamic adhesion
+- mammillary bodies
+
+? The following structure participates in the formation of the inferior wall of the third ventricle:
++ tuber cinereum
+- medial surface of the thalamus
+- habenular commissure
+- lamina terminalis
+- posterior commissure of the brain
+
+? The following structure participates in the formation of the superior wall of the third ventricle:
++ choroid plexus of the third ventricle
+- dorsal surface of the optic chiasm
+- mammillary bodies
+- interthalamic adhesion
+- posterior commissure of the brain
+
+? An anatomical structure located anterior to the mammillary bodies and belonging to the hypothalamus is:
++ tuber cinereum
+- optic chiasm
+- lamina terminalis
+- interthalamic adhesion
+- posterior commissure of the brain
+
+? The following structure belongs to the epithalamic region:
++ habenular commissure
+- mammillary bodies
+- pituitary gland
+- interthalamic adhesion
+- posterior commissure of the brain
+
+? The following structures belong to the medulla oblongata:
++ pyramid, olive, gracile and cuneate fasciculi
+- pyramid, pons, fusiform body
+- pons, isthmus, pyramid, hemispheres
+- pyramid, olive, pons, vermis, hemispheres
+- only fusiform body
+
+? The pineal gland belongs to the ... brain.
++ diencephalon
+- midbrain
+- medulla oblongata
+- telencephalon
+- hindbrain
+
+? The stomach is innervated by the parasympathetic part of the ... nerve.
++ vagus
+- accessory
+- facial
+- glossopharyngeal
+- intermediate
+
+? The celiac plexus is located:
++ behind the stomach
+- behind the pancreas
+- behind the liver
+- behind the duodenum
+- behind the small intestine
+
+? A patient has numbness or impaired sensation on the medial surface of the thigh. Indicate the nerve that innervates this area:
++ obturator
+- femoral
+- muscular branches of the femoral nerve
+- ilioinguinal
+- sensory branches of the femoral nerve
+
+? A patient has atrophy of the deltoid muscle and impaired cutaneous sensation in the lateral region of the arm. Indicate the nerve that innervates this area:
++ nervus axillaris
+- nervus radialis
+- nervus ulnaris
+- nervus medianus
+- nervus thoracicus longus
+
+? A patient has marked facial asymmetry. Such symptoms are observed with damage to the following nerve:
++ nervus facialis
+- nervus trochlearis
+- nervus trigeminus
+- nervus hypoglossus
+- nervus abducens
+
+? A patient has drooping of the upper eyelid (ptosis). Such symptoms are observed with damage to the following nerve:
++ nervus oculomotorius
+- nervus opticus
+- nervus trigeminus
+- nervus facialis
+- nervus trochlearis
+
+? The olivospinal tract is located in the ... of the spinal cord.
++ lateral funiculus
+- posterior funiculus
+- anterior funiculus
+- anterior column
+- posterior column
+
+? The gracile fasciculus is located in the ... of the spinal cord:
++ posterior funiculus
+- lateral funiculus
+- anterior funiculus
+- anterior column
+- posterior column
+
+? The hypothalamus is part of the:
++ diencephalon
+- telencephalon
+- mesencephalon
+- rhombencephalon
+- cerebellum
+
+? The tuber cinereum is part of the:
++ diencephalon
+- telencephalon
+- mesencephalon
+- rhombencephalon
+- medulla oblongata
+
+? The following structure participates in the formation of the medial wall of the anterior horn of the lateral ventricle:
++ septum pellucidum
+- caudate nucleus
+- columns of the fornix
+- corpus callosum
+- commissures of the fornix
+
+? The following structure participates in the formation of the medial wall of the posterior horn of the lateral ventricle:
++ sulcus calcarinus
+- trigonum collaterale
+- tapetum
+- hippocampus
+- corpus callosum
+
+? The following structure participates in the formation of the medial wall of the inferior horn of the lateral ventricle:
++ hippocampus
+- collateral eminence
+- thalamus
+- calcarine sulcus
+- crus of the hippocampus
+
+? The following structure participates in the formation of the floor of the third ventricle:
++ hypothalamus
+- thalamus
+- body of the fornix
+- columns of the fornix
+- crura of the fornix
+
+? The following structure participates in the formation of the anterior wall of the third ventricle:
++ columns of the fornix
+- thalamus
+- body of the fornix
+- hypothalamus
+- commissure of the fornix
+
+? The following structure participates in the formation of the isthmus of the rhombencephalon:
++ superior medullary velum
+- inferior medullary velum
+- thalamus
+- cerebral peduncles
+- tuber cinereum
+```
