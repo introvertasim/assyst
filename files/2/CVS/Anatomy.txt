@@ -1,0 +1,1889 @@
+? The pulmonary circle of blood circulation begins from:
++ The right ventricle
+- The left ventricle
+- The right atrium
+- The left atrium
+- Venous sinus
+
+? The systemic circle of blood circulation begins from:
++ Left ventricle
+- Right ventricle
+- Right atrium
+- The left atrium
+- Venous sinus
+
+? The small circle of blood circulation terminates in:
++ The left atrium
+- Left ventricle
+- Right atrium
+- Right ventricle
+- Venous sinus
+
+? Venous coronary sinus of the heart opens in:
++ Right atrium
+- The left ventricle
+- Right ventricle
+- The left atrium
+- Aortic bulb
+
+? The systemic circle of blood circulation ends in:
++ Right atrium
+- Left ventricle
+- Right ventricle
+- The left atrium
+- Venous sinus
+
+? Sulcus located on the diaphragmatic surface of the heart:
++ posterior interventricular
+- anterior interventricular
+- anteriorier
+- dorsal
+- interatrial
+
+? Sulcus located on the sterno-costal surface of the heart:
++ Anterior interventricular
+- Posterior interventricular
+- Anteriorier
+- Dorsal
+- Interatrial
+
+? The inner layer of the heart is:
++ Endocardium
+- Myocardium
+- Epicardium
+- Pericardium
+- Adventism
+
+? The middle layer of the heart is:
++ Myocardium
+- Endocardium
+- Epicardium
+- Pericardium
+- Adventism
+
+? The outer layer of the heart is:
++ Epicardium
+- Myocardium
+- Endocardium
+- Pericardium
+- Adventism
+
+? The pericardial bag is called:
++ Pericardium
+- Myocardium
+- Epicardium
+- Endocardium
+- Adventism
+
+? Cusped-valves of the heart are located in the area:
++ Atrial-ventricular aperture
+- Oval foramen
+- Opening of the pulmonary trunk
+- Aortic aperture
+- Opening of venous sinus
+
+? Semi-lunar valves of the heart are located in the area of:
++ Opening of the pulmonary trunk
+- Oval foramen
+- Right atrioventricular orifice
+- Left atrioventricular orifice
+- Opening of venous sinus
+
+? The tricuspid valve of the heart is located in the area:
++ Right atrioventricular aperture
+- Oval foramen
+- Opening of the pulmonary trunk
+- The left atrioventricular orifice
+- Opening of venous sinus
+
+? The bicusped(mitral) valve of the heart is located in the area of:
++ Left atrio-ventricular aperture
+- Oval foramen
+- Opening of the pulmonary trunk
+- Right atrioventricular orifice
+- Opening of venous sinus
+
+? From the left ventricle starts:
++ Aorta
+- Superior vena cava
+- Pulmonary trunk
+- Pulmonary veins
+- Inferior vena cava
+
+? From the right ventricle starts:
++ Pulmonary trunk
+- Aorta
+- Superior vena cava
+- Pulmonary veins
+- Inferior vena cava
+
+? It enters the right atrium:
++ Superior vena cava
+- Aorta
+- Pulmonary trunk
+- Left pulmonary veins
+- Right pulmonary veins
+
+? In the left atrium enter(s):
++ Pulmonary veins
+- Aorta
+- Pulmonary trunk
+- Superior vena cava
+- Inferior vena cava
+
+? Branches of the ascending aorta:
++ Coronary arteries of the heart
+- Brachiocephalic trunk
+- Right common carotid artery
+- Left common carotid artery
+- Left subclavian artery
+
+? The bifurcation of the aorta is located at the level of:
++ IV lumbar vertebra
+- I lumbar vertebra
+- II lumbar vertebra
+- XII thoracic vertebra
+- III lumbar vertebra
+
+? The stomach is supplied by:
++ The celiac trunk
+- Superior mesenteric artery
+- Inferior mesenteric artery
+- The iliac artery
+- Thoracic aorta
+
+? The liver is supplied by:
++ The celiac trunk
+- Superior mesenteric artery
+- Inferior mesenteric artery
+- The iliac artery
+- Thoracic aorta
+
+? The spleen is supplied with blood by:
++ The celiac trunk
+- Superior mesenteric artery
+- Inferior mesenteric artery
+- The iliacartery
+- Thoracic aorta
+
+? The cecum is supplied by:
++ Superior mesenteric artery
+- The celiac trunk
+- Inferior mesenteric artery
+- The iliac artery
+- Thoracic aorta
+
+? The ascending colon is supplied by:
++ Superior mesenteric artery
+- The celiac trunk
+- Inferior mesenteric artery
+- The iliac artery
+- Thoracic aorta
+
+? The transverse colon is supplied by:
++ Superior mesenteric artery
+- The celiac trunk
+- Inferior mesenteric artery
+- The iliac artery
+- Thoracic aorta
+
+? The descending colon is supplied by:
++ Inferior mesenteric artery
+- Superior mesenteric artery
+- The celiac trunk
+- The iliac artery
+- Thoracic aorta
+
+? Sigmoid colon is supplied by:
++ Inferior mesenteric artery
+- Superior mesenteric artery
+- The celiac trunk
+- The iliac artery
+- Thoracic aorta
+
+? Superior section of the rectum is supplied by:
++ Inferior mesenteric artery
+- Superior mesenteric artery
+- The celiac trunk
+- The iliac artery
+- Thoracic aorta
+
+? The testicles are supplied the artery, which extends from:
++ Abdominal aorta
+- External iliac artery
+- Inner iliac artery
+- The common iliac artery
+- Thoracic aorta
+
+? The urinary bladder is supplied the artery which extends from:
++ Inner iliac artery
+- External iliac artery
+- The common iliac artery
+- Abdominal aorta
+- Thoracic aorta
+
+? Prostate gland is supplied by artery which extends from:
++ Inner iliac artery
+- External iliac artery
+- The common iliac artery
+- Abdominal aorta
+- Thoracic aorta
+
+? The uterus is supplied by artery which extends from:
++ Inner iliac artery
+- External iliac artery
+- The common iliac artery
+- Abdominal aorta
+- Thoracic aorta
+
+? The middle section of the rectum is supplied by to the artery which extends from:
++ Inner iliac artery
+- External iliac artery
+- The common iliac artery
+- Abdominal aorta
+- Thoracic aorta
+
+? The knee joint is supplied by this artery:
++ Popliteal
+- Deep femoral
+- External iliac
+- Anterior tibial
+- Posterior tibial
+
+? The muscles of the anterior group of the lower leg are supplied by the artery:
++ Anterior tibial
+- Deep femoral
+- Popliteal
+- External iliac
+- Posterior tibial
+
+? The muscles of the posterior group of the lower leg are supplied by the artery:
++ Posterior tibial
+- Deep femoral
+- Popliteal
+- Anterior tibial
+- External iliac
+
+? The brachial artery supplies:
++ Muscles of the arm
+- Thigh muscles
+- Forearm muscles
+- Posterior muscles of the forearm
+- Deep forearm muscles
+
+? Anterior tibial artery supplies:
++ Anterior muscles of the lower leg
+- Thigh muscles
+- Muscles of the shoulder
+- Posterior muscles of the forearm
+- Deep forearm muscles
+
+? Posterior tibial artery supplies:
++ posterior muscles of the lower leg
+- thigh muscles
+- muscles of the shoulder
+- posterior muscles of the forearm
+- anterior deep forearm muscles
+
+? Muscles of facial expression are supplied by:
++ External carotid artery
+- Internal carotid artery
+- Common carotid artery
+- Subclavian artery
+- Ascending aorta
+
+? Mastication muscles are supplied by:
++ External carotid artery
+- Internal carotid artery
+- Common carotid artery
+- Subclavian artery
+- Ascending aorta
+
+? The internal carotid artery passes in:
++ Carotid canal
+- Face canal
+- Mandibular canal
+- Bone ostyst
+- The optic canal
+
+? The left common carotid artery extends from:
++ Aortic arch
+- Brachiocephalic trunk
+- Ascending aorta
+- Thoracic aorta
+- Abdominal aorta
+
+? The right subclavian artery branches from:
++ Brachiocephalic trunk
+- Aortic arches
+- Ascending aorta
+- Thoracic aorta
+- Abdominal aorta
+
+? The left subclavian artery branches from:
++ Aortic arch
+- Brachiocephalic trunk
+- Ascending aorta
+- Thoracic aorta
+- Abdominal aorta
+
+? Vessel which starts from the left ventricle of the heart:
++ aorta
+- coronary artery
+- carotid artery
+- brachial artery
+- jugular vein
+
+? Vessel which starts from the right ventricle of the heart:
++ pulmonary trunk
+- aorta
+- coronary artery
+- carotid artery
+- subclavian vein
+
+? Vessels that flow into the left atrium:
++ pulmonary veins
+- superior vena cava
+- portal vein
+- the jugular vein
+- subclavian vein
+
+? Location of the mitral valve of the heart:
++ between the left atrium and the left ventricle
+- between the left ventricle and the aorta
+- between the right atrium and right ventricle
+- between the right ventricle and the pulmonary trunk
+- between the superior vena cava and the right atrium
+
+? The number of muscular layers of the myocardium of the ventricles of the heart:
++ three
+- two
+- four
+- one
+- five
+
+? Surfaces of the heart:
++ sternocostal
+- hepatic
+- sternal
+- costal
+- mediastinal
+
+? In the right atrioventricular aperture situated:
++ tricuspid valve
+- aortic valve
+- mitral valve
+- semilunar valve
+- valve of a pulmonary trunk
+
+? Types of arteries depending on the structure of the wall:
++ elastic, muscular and mixed
+- elastic, serous and mixed
+- elastic, reticular and mixed
+- elastic, hyaline and mixed
+- elastic, mixed and serous
+
+? Arteries of the arch of the aorta:
++ left common carotid
+- right common carotid
+- axillary
+- vertebral
+- brachial
+
+? Large vessels branching from the aortic arch:
++ brachiocephalic trunk, left common carotid and left subclavian artery
+- brachiocephalic trunk, left common carotid and right subclavian artery
+- brachiocephalic trunk, right common carotid and left subclavian artery
+- brachiocephalic trunk, right common carotid and right subclavian artery
+- brachiocephalic trunk, vertebral artery and axillary arteries
+
+? The part of the heart on which the oval fossa is clearly visible:
++ the right surface of the interatrial septum
+- the wall of the right auricle
+- interventricular septum
+- the wall of the left auricle
+- the wall of the left ventricle
+
+? Purpose of the foramen ovale:
++ connects two atria in prenatal ontogenesis
+- connects the pulmonary trunk to the aorta
+- connects the pulmonary trunk to the superior vena cava
+- connects the right ventricle with the left ventricle
+- connects the pulmonary trunk to the inferior vena cava
+
+? Blood vessel opening into the right atrium:
++ coronary sinus
+- pulmonary vein
+- splenic vein
+- hepatic vein
+- azygos vein
+
+? Openings in the walls of the left atrium:
++ openings of pulmonary veins
+- opening of the superior vena cava
+- opening of the pulmonary trunk
+- aortic opening
+- opening of the inferior vena cava
+
+? Location of the sinoatrial node of the conduction system of the heart:
++ in the wall of right atrium
+- interventricular septum
+- interatrial septum
+- left auricle
+- lower part of the atrial septum
+
+? Projection of the apex of the heart of an adult:
++ left 5th intercostal space 1.5 cm medially from the midclavicular line
+- cartilage of the 4th left rib
+- the left 4-th rib on the midclavicuar line
+- the left 5th rib on the midclavicuar line
+- cartilage of the 5th rib on the left
+
+? In people of the mesomorphic type of constitution, the heart occupies the position:
++ oblique
+- vertical
+- horizontal (transverse)
+- horizontal (sagittal)
+- longitudinal
+
+? Projection to the anterior chest wall of the superior border of the heart in an adult:
++ the line connecting the cartilages of the right and left ІІІrd ribs
+- a line connecting the cartilages of the right and left Vth ribs
+- a line connecting the cartilages of the right and left 1st ribs
+- a line connecting the cartilages of the right and left IVth ribs
+- the line connecting the cartilages of the right and left VII-th ribs
+
+? Blood vessels branching from the left coronary artery:
++ anterior interventricular branch
+- posterior interventricular branch
+- thymus branches
+- diaphragmatic branches
+- mediastinal branches
+
+? From the arch of the aorta branches:
++ brachiocephalic trunk
+- right common carotid artery
+- right subclavian artery
+- vertebral artery
+- inferior branch
+
+? Branches of the thoracic part of the aorta:
++ posterior intercostal arteries
+- anterior intercostal arteries
+- splenic artery
+- inferior phrenic arteries
+- lumbar arteries
+
+? Sources of blood supply of the pericardium:
++ pericardial branches of the thoracic aorta
+- right coronary artery
+- mediastinal artery
+- branches of intercostal arteries
+- left coronary artery
+
+? Posterior branches of the external carotid artery:
++ sternocleidomastoid artery
+- superficial temporal artery
+- lingual artery
+- maxillary artery
+- facial artery
+
+? The middle branch of the external carotid artery:
++ ascending pharyngeal artery
+- lingual artery
+- occipital artery
+- ascending palatine artery
+- facial artery
+
+? Branch of the celiac trunk:
++ common hepatic artery
+- right gastric artery
+- superior mesenteric artery
+- inferior mesenteric artery
+- superior phrenic artery
+
+? Branch of the ophthalmic artery:
++ a. dorsalis nasi
+- a. facialis
+- a.occipitalis
+- a. infraorbitalis
+- a. buccalis
+
+? Branches of the subclavian artery in the interscalene space:
++ costocervical trunk
+- superficial cervical artery
+- subclavian artery
+- thyrocervicl trunk
+- internal thoracic artery
+
+? Branch of the axillary artery, participating in the blood supply of the shoulder joint:
++ anterior circumflex humeri artery
+- subscapular artery
+- lateral thoracic artery
+- thoracodorsal artery
+- superior thoracic artery
+
+? Paired visceral branches of the abdominal aorta:
++ middle suprarenal arteries
+- pancreato-duodenal arteries
+- hepatic arteries
+- inferior phrenic arteries
+- celiac trunk
+
+? Unpaired visceral branches of the abdominal aorta:
++ celiac trunk
+- superior rectal artery
+- ovarian artery
+- middle colic artery
+- inferior phenic arteries
+
+? Place of division of the celiac trunk into three arteries:
++ above the superior edge of the body of the pancreas
+- at the level of the XI thoracic vertebra
+- at level of the II lumbar vertebra
+- under the lower edge of the body of the pancreas
+- at the level of the ІІІ lumbar vertebra
+
+? Branch of the celiac trunk:
++ left gastric artery
+- right gastric artery
+- superior mesenteric artery
+- testicular artery
+- renal artery
+
+? Branch of the proper hepatic artery:
++ right gastric artery
+- right gastro-epiploic artery
+- gastro-duodenal artery
+- left gastric artery
+- left gastro-epiploic artery
+
+? The place of branching of the inferior mesenteric artery from the abdominal aorta:
++ the level of the ІІІrd lumbar vertebra
+- the level of IInd lumbar vertebra
+- the right side of the aorta
+- the level of the IVth lumbar vertebra
+- the level of the Ist lumbar vertebra
+
+? An average heart mass in men:
++ 300 g
+- 400 g
+- 600 g
+- 250 g
+- 500 g
+
+? An average heart mass in women:
++ 220 g
+- 200 g
+- 300 g
+- 350 g
+- 400 g
+
+? Right common carotid artery branches from:
++ Brachiocephalic trunk
+- Arch of aorta
+- Ascending aorta
+- Thoracic aorta
+- Abdominal aorta
+
+? Vein which collects blood from unpaired organs of the abdominal cavity:
++ portal
+- internal vein
+- inferior phrenic vein
+- inferior vena cava
+- the superior vena cava
+
+? Portal vein enters:
++ the liver
+- the spleen
+- the stomach
+- the pancreas
+- the kidney
+
+? Vein which drains the blood from the organs of the head and neck:
++ internal jugular
+- subclavian
+- axillary
+- vena cava inferior
+- hemiazygos
+
+? Vein entering the liver:
++ portal
+- pulmonary vein
+- superior vena cava
+- subclavian vein
+- external vein
+
+? Vena cava inferior is formed by a fusion of:
++ common iliac veins
+- portal veins
+- femoral veins
+- internal jugular veins
+- mesenteric and splenic veins
+
+? The congenital anomaly of the Batalov duct is:
++ It is a short vessel that connects the descending aorta to the pulmonary artery
+- It is a short vessel that connects the carotid artery to the vertebral artery
+- this is an anomaly of the interventricular septum of the heart
+- this is an anomaly of the superior and inferior vena cava
+- this is an anomaly of the iliac artery and femoral artery
+
+? Ebstein's anomaly is a congenital malformation:
++ tricuspid valve defect
+- mitral valve defect
+- semilunar valve defect
+- malformation of the descending aorta
+- ventricular septal defect of the heart
+
+? An open oval window is a congenital anomaly.:
++ Incomplete closure of the atrial septum
+- mitral valve defect
+- this is an anomaly of the interventricular septum of the heart
+- this is an anomaly of the iliac artery and femoral artery
+- this is not a complete closure of the interventricular septum
+
+? Diploic veins drain to:
++ superior sagittal sinus
+- external jugular vein
+- internal jugular vein
+- inferior petrous sinus
+- superior petrous sinus
+
+? The vessel with which the esophageal veins are anastomosed:
++ left gastric vein
+- common hepatic artery
+- splenic vein
+- right gastro-epiploic vein
+- occipital vein
+
+? The veins located on the posterior abdominal wall:
++ ascending lumbar veins
+- inferior epigastric veins
+- superior intercostal veins
+- superior rectal vein
+- superficial epigastric veins
+
+? Indicate vertebral level at which the inferior vena cava begins:
++ the fourth lumbar vertebra
+- the third lumbar vertebra
+- the first sacral vertebra
+- the first lumbar vertebra
+- the second lumbar vertebra
+
+? Parietal tributaries of the inferior vena cava:
++ inferior phrenic vein
+- superior rectal vein
+- renal veins
+- splenic vein
+- internal iliac vein
+
+? Tributaries of inferior vena cava:
++ lumbar veins
+- inferior mesenteric vein
+- adrenal veins
+- splenic vein
+- superior mesenteric vein
+
+? Anatomical features of the portal vein:
++ collects blood from unpaired organs of the abdominal cavity
+- drains into the inferior vena cava
+- collects blood from the bladder
+- collects blood from the uterus
+- is located between the IV and V lumbar vertebrae
+
+? The organs from which the venous blood flows into the portal vein:
++ intestines
+- diaphragm
+- liver
+- uterus
+- left kidney
+
+? The portal vein is located:
++ in the hepato-duodenal ligament
+- in the the mesentery of the small intestine
+- behind epiploic foramen
+- in the mesentery of transverse colon
+- at level of IVth lumbar vertebra
+
+? Hepatic veins enter:
++ inferior vena cava
+- inferior mesenteric vein
+- azygos vein
+- splenic vein
+- superior vena cava
+
+? The veins located in the round ligament of the liver:
++ paraumbilical veins
+- esophageal veins
+- hepatic veins
+- cystic veins
+- renal veins
+
+? Tributaries of the inferior mesenteric vein:
++ left colic vein
+- ileo-colic vein
+- middle rectal vein
+- right colic vein
+- inferior rectal vein
+
+? Tributaries of the splenic vein:
++ left and right gastric veins
+- hepatic veins
+- inferior phrenic vein
+- inferior rectal vein
+- vein of the appendix
+
+? Tributaries of the inferior mesenteric vein:
++ sigmoid veins
+- inferior vena cava
+- inferior rectal vein
+- superior mesenteric vein
+- common iliac vein
+
+? Tributaries of the superior mesenteric vein:
++ iliocolic vein
+- splenic vein
+- inferior mesenteric vein
+- portal vein
+- common iliac vein
+
+? Venous blood from the left adrenal gland drains into:
++ left renal vein
+- inferior vena cava
+- superior phrenic vein
+- iliac vein
+- hepatic vein
+
+? Venous blood from the pancreas drains into:
++ splenic vein
+- inferior vena cava
+- inferior mesenteric vein
+- hepatic vein
+- iliac vein
+
+? Venous blood from the rectum drains into:
++ inferior mesenteric vein
+- splenic vein
+- superior mesenteric vein
+- external iliac vein
+- common iliac vein
+
+? Venous blood from the cecum drains into:
++ superior mesenteric vein
+- inferior mesenteric vein
+- inferior vena cava
+- common iliac vein
+- internal iliac vein
+
+? The fusion of the internal and external iliac veins occurs at the level of:
++ sacroiliac joint
+- IVth lumbar vertebra
+- Vth lumbar vertebra
+- the Ist sacral vertebra
+- between the IVth and Vth lumbar vertebrae
+
+? Visceral tributaries of the internal iliac vein:
++ middle rectal vein
+- inferior gluteal veins
+- superior rectal vein
+- superior gluteal veins
+- inferior epigastric vein
+
+? Veins flowing into the external iliac vein:
++ inferior epigastric vein
+- superior epigastric vein
+- superior gluteal veins
+- lateral sacral vein
+- inferior gluteal veins
+
+? Great saphenous vein flows into:
++ femoral vein
+- popliteal vein
+- small saphenous vein
+- posterior tibial vein
+- anterior tibial vein
+
+? Small saphenous vein enters into:
++ popliteal vein
+- great saphenous vein
+- femoral vein
+- posterior tibial vein
+- anterior tibial vein
+
+? Azygos vein flows into ....
++ superior vena cava
+- inferior vena cava
+- hemiazygos vein
+- internal jugular vein
+- subclavian vein
+
+? The umbilical vein after birth turns into:
++ round ligament of the liver
+- right lateral umbilical ligament
+- left lateral umbilical ligament
+- venous ligament
+- falciform ligament
+
+? Superior rectal vein enters into:
++ inferior mesenteric vein
+- superior mesenteric vein
+- portal vein
+- splenic vein
+- inferior vena cava
+
+? Hemiazygos vein flows into:
++ azygos vein
+- superior vena cava
+- left brachiocephalic vein
+- right brachiocephalic vein
+- accessory hemiazygos vein
+
+? Cephalic vein enters into:
++ axillary vein
+- subclavian vein
+- brachial vein
+- brachiocephalic vein
+- basilica vein
+
+? Basilic vein enters into:
++ brachial vein
+- iliac vein
+- subclavian vein
+- external jugular vein
+- cephalic vein
+
+? Name the changes that occur in the cardiovascular system after the birth of a child:
++ Beginning of functioning of pulmonary arteries and veins
+- Opening of the arterial duct
+- Connection of pulmonary and systemic blood circulation
+- Beginning of functioning of umbilical arteries
+- Beginning of functioning of the venous duct
+
+? An artificial pacemaker was implanted to an 54-year-old patient. Name part of the conductive system of the heart that has a defective function that requires a pacemaker:
++ Sinoatrial node
+- Atrioventricular bundle
+- Atrioventricular node
+- Purkinje fibers
+- Moderating band
+
+? An 83-year-old man with typical coronary circulation suffers from embolism of the peripheral branch of the left coronary artery. Name part of the heart that will suffer from ischemia:
++ Posterior side of the left ventricle
+- Anterior side of the left ventricle
+- Anterior interventricular area
+- Posterior interventricular area
+- Anterior side of the right ventricle
+
+? On the 3rd day after the childbirth a woman has a pain in the lower left part of her abdomen. Ultrasound investigation showed thrombosis of the ovarian veins. Name the vein which this thrombus can spread to:
++ left renal vein
+- inferior vena cava
+- left common iliac vein
+- left internal pudendal vein
+- azygos vein
+
+? On the histological slide the wall of a blood vessel, formed by only two kinds of cells, is visible. Name type of this vessel:
++ Hemocapillary
+- Lymphocapillary
+- Artery of the elastic type
+- Artery of the muscular type
+- Vein of the medium caliber
+
+? On the histological slide a hemocapillary wall, formed by only two kinds of cells, is visible. Name type of these cells:
++ Endotheliocytes and pericytes
+- Chief cells and parietal cells
+- Goblet cells and endotheliocytes
+- Myocytes and cardiocytes
+- Cambial cells and ependymocytes
+
+? On the histological slide a dense network of capillaries, located between the two arterioles, is clearly visible. Name the organ where can be found such a wonderful network:
++ In the kidney
+- In the liver
+- In the heart
+- In the stomach
+- In the adrenal gland
+
+? On the histological slide blood vessels with a diameter of 20-30 μm are visible. Name type of these vessels:
++ Arterioles and venules
+- Precapillaries and poscapillaries
+- Arteries of the elastic type
+- Arteries of the muscular type
+- Arteries of the mixed type
+
+? Vessels carrying blood from the heart are called arteries. Name the artery that carries the venous blood from the heart:
++ Pulmonary trunk
+- Pulmonary vein
+- Coronary sinus
+- Aorta
+- Vena cava inferior
+
+? When examining a patient, the work of the mitral valve of the heart is auscultated at the point of projection of the apex of the heart to the front wall of the chest. Locate the projection point of the apex of the heart.
++ The left fifth intercostal space, 1.5 cm medially from the midclavicular line
+- The left fourth intercostal space, 1.5 cm medially from the midclavicular line
+- The left fourth intercostal space, 1.5 cm laterally from the midclavicular line
+- The left second intercostal space, along the margin of the sternum
+- The right second intercostal space, along the margin of the sternum
+
+? The patient is presented with an abnormal rhythm of the heart. Name the anatomical structure that is considered as the "pacemaker" of the cardiac rhythm:
++ Sinoatrial node
+- Atrioventricular node
+- Bundle of His
+- Purkinje fibers
+- Circulatory center in the medulla oblongata
+
+? In a patient with heart disease, identification of the pulse on the radial artery was unsuccessful, so it was decided to check the pulsation on a large vessel of the neck. Name the artery of the neck on which can one feel the pulse:
++ On the common carotid artery, in the carotid triangle of the neck
+- On the internal jugular artery, in the carotid triangle of the neck
+- On the facial artery, in the submandibular triangle of the neck
+- On the subclavian artery, in the omoclavicular triangle of the neck
+- On the axillary artery, in the omotrapezoid triangle of the neck
+
+? After the injury (fracture of the skull base), the patient experiences bleeding from the external auditory meatus of the temporal bone. Name the large vessel that passes through this bone:
++ Internal carotid artery
+- External carotid artery
+- Middle meningeal artery
+- Posterior auricular artery
+- Maxillary artery
+
+? In the treatment of patients, intravenous injections are most often performed in the area of ​​the cubital fossa. Name the vein of the cubital fossa that is most often used for injection:
++ median cubital vein
+- cephalic vein
+- basilic vein
+- radial vein
+- ulnar vein
+
+? At a gastroscopy of the patient the pathological structure in the area of a pyloric canal of a stomach, causing inadequate blood supply, has been revealed. Name the large vessel which supplies the stomach:
++ Celiac trunk
+- Superior mesenteric artery
+- Inferior mesenteric artery
+- Splenic vein
+- Left gastric vein
+
+? It is known that all the endocrine glands are abundantly supplied with blood. name arteries that supply the adrenal glands:
++ Paired superior, middle and inferior suprarenal arteries
+- Unpaired superior, middle and inferior suprarenal arteries
+- Only paired superior and inferior suprarenal arteries
+- Only unpaired superior suprarenal arteries
+- Paired anterior, middle and posterior suprarenal arteries
+
+? The patient has a hemodynamic disorder in the system of the superior vena cava. Indicate if there will be a swelling of the face:
++ Yes, because the veins of the head and neck enter into the system of the superior vena cava
+- No, because the veins of the head and neck enter into the brachiocephalic veins
+- Yes, because the veins of the head and neck enter into the system of the inferior vena cava
+- No, because veins of the head and neck have good anastomoses with the veins of the lower limb
+- Yes, because the veins of the head and neck enter into the portal vein
+
+? A patient entered the department of proctology with complaints of bleeding from the walls of the rectum. Name the large artery that supplies rectum with blood:
++ Internal iliac artery
+- Internal carotid artery
+- Femoral artery
+- Pudendal artery
+- Inferior gluteal artery
+
+? To confirm the diagnosis of coronary heart disease, the patient is undergoing coronary angiography (examination of blood flow in the coronary arteries of the heart). Into which branches does the left coronary artery split?
++ R. Interventricular anterior and r.circumflexus.
+- R. Interventricular anterior and posterior.
+- R. Interventricular anterior and r.ascending
+- R. Interventricular anterior and. descending
+- R. Ventricular right and left.
+
+? The patient has a penetrating wound of the abdominal cavity. At the same time, the lateral umbilical fold is damaged. What is its content?
++ inferior.epigastric A.and V
+- Umbilical A
+- superior.. epigastric A .and V
+- Urachus.
+- Superficial epigastric A and V
+
+? A forensic expert, when examining the heart, determined that the deceased had a damaged coronary sinus of the heart. Where does the coronal sinus flow into?
++ The right atrium.
+- The right ventricle.
+- The left atrium.
+- The left ventricle.
+- Superior vena cava.
+
+? A patient with pericarditis has an accumulation of serous fluid in the sinuses of the pericardial space. What are the normal sinuses?
++ Sinus transverse pericardis and sinus obliquus pericardis
+- Sinus transverse and sinus vertical
+- Sinus dexter and sinus sinister pericardis
+- Sinus transverse pericardis and sinus rectus.
+- Sinus obliqus pericardis and sinus superior.
+
+? The patient has impaired blood supply to the medial surface of the right hemisphere of the brain. Which artery is damaged?
++ Anterior cerebral A.
+- A.chorioidea.
+- posterior.. communicating A
+- Posterior cerebral A
+- A. cerebri media.
+
+? A 62-year-old man with complaints of spotting from the rectum turned to a proctologist for an appointment. The examination showed the presence of a tumor and the need for immediate surgery. Which branches of arterial vessels normally supply blood to the rectum?
++ inferior. Mesenteric A and internal.iliac A
+- superior. mesenteric A and inferior mesenteric. A
+- inferior. mesenteric A and. external iliac A
+- external. iliac A and. internal iliac. A
+- . renal A and internal.iliac a
+
+? A 46-year-old woman complains of swelling of the legs, blueness of the skin, small ulcers on the side of the lateral ankle. The examination revealed: swelling, an increase in the size of veins, the formation of nodes. From which vein is the pathology noted?
++ small subcutaneous vein
+- external.. iliac V
+- big subcutaneous V
+- . Deep femoral V
+- . femoral. V
+
+? A patient with cirrhosis of the liver was admitted to the department with profuse bleeding from the veins of the esophagus. Violation of blood outflow through which vein leads to such a complication?
++ Along the portal vein.
+- Along the inferior vena cava.
+- Along the superior vena cava.
+- By an unpaired vein.
+- Through the pulmonary veins.
+
+? A 27-year-old boy was taken to the hospital with an open fracture of the occipital bone and severe bleeding from the wound. What could be the cause of severe bleeding in this case?
++ Damage to the transverse venous sinus.
+- Damage to the cavernous sinus.
+- Damage to the upper stony sinus.
+- Damage to the inferior stony sinus.
+- Damage to the sphenoid-parietal sinus.
+
+? During the electrocardiographic examination, the doctor wrote in the conclusion "sinus rhythm". In this case, what is the rhythm driver (pacemaker)?
++ sino-atrial node
+- atrioventricular node
+- Hiss bundle
+- Purkinje fibers
+- Wenckebach bundle
+
+? During auscultation (listening) of the heart, the therapist heard noises at the projection site of the apex of the heart. Which heart valve pathology will the therapist think about?
++ left atrioventricular valve
+- right atrioventricular valve
+- pulmonary trunck valve
+- aortic valve
+- valves veins
+
+? During surgical intervention on the tongue, in order to prevent bleeding, a preliminary ligation of the lingual artery is indicated throughout. In which triangle on the neck is this manipulation performed?
++ triangle tongue
+- triangle submentale
+- triangle carotid
+- triangle submandibulare
+- triangle omoclaviculare
+
+? In case of intracranial hematoma, ligation of the internal carotid artery is indicated. It is known that the blood supply to the brain will be carried out through intersystem anastomosis (Willis circle). Name the artery involved in the formation of the Willis circle.
++ a.basilaris
+- superior thyroid A
+- . inferior thyroid A
+- .ophthalmic A
+- costocervical trunck
+
+? In the area of joints, there are arterial networks -- these are intersystem anastomoses, on the basis of which, in cases of difficulty in blood flow through the main vessels, collateral blood circulation develops. Name the arteries involved in the formation of the arterial network of the elbow joint.
++ superior ulnar collateral A
+- .interossea commune A
+- .brachialis A
+- a.axillaris
+- a.thoracica lateralis
+
+? A patient was admitted to the surgical department who had gastric bleeding some time ago. When examined with a gastroscope on the small curvature of the stomach, a deep ulcer was found closer to the cardiac department. Name the bleeding artery.
++ a.gasrtica sinistra
+- a.hepatica propria
+- a.gasrtoepiploica sinistra
+- a.lienalis
+- a.pancreatoduodenalis superior
+
+? A patient with symptoms of an acute abdomen was admitted to the surgical department. During surgery, gangrene (necrosis) of the left half of the colon was detected. Given the sources of blood supply to this part of the colon, name the artery through which blood flow is disrupted.
++ a.mesenterica inferior
+- a.mesenterica superior
+- truncus coeliacus
+- a.gasrtoepiploica sinistra
+- a.pancreatoduodenalis superior
+
+? In the lower medial third of the thigh there is an adductor canal (Gunther's or femoral-popliteal canal), in which a.femoralis passes. Name the inner wall of the drive channel.
++ m. adductor magnus
+- m. sartorius
+- m. gracilis
+- m. pectineus
+- m. quadriceps femoris
+
+? During surgery, the surgeon provides access to the subclavian artery. What is the topography of the subclavian artery, name where the right subclavian artery comes from?
++ truncus brachiocephalica
+- truncus pulmonalis
+- truncus costocervicalis
+- truncus thyrocervicalis
+- truncus coeliacus
+
+? During surgical intervention on the tongue, in order to prevent bleeding, a preliminary ligation of the lingual artery is indicated throughout. It is known that the lingual artery is located in the Pirogov triangle. Name the front border of the triangle.
++ m.mylohyoideus
+- m.omohyoideus
+- m.stylohyoideus
+- m.sternocleidomastoideus
+- m.trapezius
+
+? During surgery, the cardiac surgeon sutured the heart in the anterior interventricular sulcus, after a while the patient began ventricular fibrillation, followed by a violation of blood supply and the development of a heart attack (necrosis of the heart muscle). Name the artery located in the anterior interventricular sulcus.
++ a.interventricularis anterior
+- a.interventricularis posterior
+- a.circumflexa
+- a.coronaria dextra
+- truncus pulmonalis
+
+? Both arterial and venous blood flows in the arteries. Name the artery containing venous blood.
++ truncus pulmonalis
+- aorta
+- venae pulmonalis
+- vena cava inferior
+- vena cava superior
+
+? The patient developed brain disorders as a result of prolonged physical exertion on the left upper limb. The examination revealed stenosis (narrowing) of the mouth of the left subclavian artery. Name which branch of the subclavian artery goes to the brain?
++ a.vertebralis
+- a.thoracica interna
+- truncus thyrocervicalis
+- truncus costocervicalis
+- a.transversa colli
+
+? The patient has acute appendicitis. Before removing the appendix, a ligation of the artery feeding it is necessary to avoid bleeding. Name which artery supplies blood to the appendix?
++ a.iliocolica
+- a.colica dextra
+- a. colica media
+- a.colica sinistra
+- a.rectalis superior
+
+? Blood enters the fetus through the umbilical vein and then through the inferior vena cava into the right atrium. Through what anatomical formation does blood from the right half of the heart enter the left half of the heart, given the fact that the pulmonary circulation is not functioning?
++ through the oval opening (window)
+- through the right atrioventricular opening
+- through the pulmonary vein
+- through the right coronary artery
+- through the venous duct
+
+? Among the ligaments of the liver, lig is determined. teres hepatis, which is an overgrown vessel in the vascular system of a newborn. What kind of vessel is this?
++ v.umbilicalis
+- a.umbilicalis
+- ductus venosus
+- ductus arteriosus
+- v.hepatis
+
+? A man turned to a surgeon with varicose veins in his left leg. The nodes of the veins are located on the back surface of the shin skin, on the back and front surface of the thigh skin. Which superficial veins carry out the outflow from the lower limb?
++ large and small subcutaneous veins
+- popliteal, superficial subcutaneous vein
+- femoral vein, large and small subcutaneous veins
+- small subcutaneous vein, deep femoral vein
+- posterior tibial vein, large subcutaneous vein
+
+? During a preventive examination at school, a student was found to have a sharp systolic murmur in the second intercostal space on the left. Upon further examination, the diagnosis was made: non-infection of the Botall duct, which connects:
++ the aorta and the pulmonary trunk
+- aorta and inferior vena cava
+- aorta and superior vena cava
+- pulmonary artery and superior vena cava
+- pulmonary artery and inferior vena cava
+
+? A pharmaceutical drug was injected into the femoral vein. Through which blood vessel will the drug reach the heart?
++ the inferior vena cava
+- pulmonary artery
+- aorta
+- common carotid artery
+- pulmonary vein
+
+? Ultrasound of a pregnant woman revealed no abnormalities in the fetal cardiovascular system, the venous duct is functioning. Determine which vessels it connects?
++ umbilical vein with inferior vena cava
+- umbilical vein with aorta
+- pulmonary trunk with aorta
+- pulmonary trunk with inferior vena cava
+- umbilical vein with umbilical artery
+
+? A 52-year-old patient was admitted to the clinic with a diagnosis of cirrhosis of the liver. During the examination, the doctor found that along with the symptoms of cirrhosis, the patient has an enlarged spleen (splenomegaly). What is the reason for this phenomenon?
++ difficulty in the outflow of blood from the spleen through the portal vein
+- mechanical compression of the spleen by the liver
+- compression of the splenic artery
+- compression of the abdominal trunk
+- obstruction of bile outflow
+
+? Among the ligaments of the liver, lig is determined. venosum, which served as a vessel in the prenatal period of development. What structures did it connect?
++ v.umbilicalis and v.cava inferior
+- v.umbilicalis and v.cava superior
+- v.portae and v.umbilicalis
+- v.portae and v.v.hepaticae
+- v.umbilicalis and v. hepaticae
+
+? A 25-year-old patient with chronic tonsillitis developed rheumatism and was diagnosed with mitral valve damage. Where will the pathological noise be heard during auscultation?
++ at the top of the heart
+- in the II intercostal space to the left of the sternum
+- in the II intercostal space to the right of the sternum
+- in the xiphoid process of the sternum
+- in the III intercostal space to the right of the sternum
+
+? When examining a patient with coronary artery disease, the doctor found a deterioration in venous blood flow in the basin of the heart vein, which runs in the anterior interventricular sulcus of the heart. Which vein is this?
++ v.cordis magna
+- v.cordis media
+- v.cordis parva
+- v.posterior ventriculi sinistri
+- v.obliqua atrii sinistri
+
+? Which chamber of the heart pumps blood into the lungs?
++ Right ventricle
+- Left atrium
+- Right atrium
+- Left ventricle
+- Aorta
+
+? What is the function of the heart valves?
++ Prevent backflow of blood
+- Pump blood into the heart
+- Transmit impulses to the heart
+- Measure blood pressure
+- Carry oxygen
+
+? From the left ventricle, blood flows into which vessel?
++ Aorta
+- Superior vena cava
+- Pulmonary artery
+- Pulmonary vein
+- Inferior vena cava
+
+? Where is the sinoatrial node of the heart located?
++ In the right atrium
+- In the left atrium
+- In the left ventricle
+- In the right ventricle
+- In the aorta
+
+? Which part of the heart wall is the thickest?
++ Myocardium
+- Epicardium
+- Endocardium
+- Pericardium
+- Atria
+
+? Which vessel brings venous blood to the heart?
++ Superior vena cava
+- Pulmonary artery
+- Pulmonary vein
+- Aorta
+- Axillary artery
+
+? Which layer of the heart performs the contractile function?
++ Myocardium
+- Epicardium
+- Endocardium
+- Pericardium
+- Blood vessels
+
+? The heart is located predominantly:
++ in the middle part of the mediastinum
+- in the anterior mediastinum
+- in the posterior mediastinum
+- in the superior mediastinum
+- in the pleural cavity
+
+? The following layer of the heart wall is directly adjacent to the blood:
++ endocardium
+- epicardium
+- myocardium
+- pericardium
+- fibrous layer
+
+? The following chamber of the heart forms most of its anterior surface:
++ right ventricle
+- left atrium
+- left ventricle
+- right atrium
+- left auricle
+
+? The following part of the heart forms the apex:
++ left ventricle
+- right atrium
+- right ventricle
+- left atrium
+- pulmonary trunk
+
+? Located between the left atrium and left ventricle is:
++ mitral valve
+- tricuspid valve
+- pulmonary valve
+- aortic valve
+- venous valve
+
+? The number of cusps of the tricuspid valve is:
++ three
+- two
+- four
+- five
+- six
+
+? Tendinous cords connect the cusps of the atrioventricular valves to...
++ papillary muscles
+- pectinate muscles
+- bundles of His
+- second-order trabeculae
+- aortic rings
+
+? The myocardium is most developed ...
++ in the left ventricle
+- in the right ventricle
+- equally in both
+- in the right atrium
+- in the left atrium
+
+? The interventricular septum consists predominantly of:
++ muscular and membranous parts
+- serous and mucous parts
+- cartilaginous and bony parts
+- fibrous and fatty parts
+- muscular tissue only
+
+? The following opens into the right atrium:
++ superior vena cava
+- pulmonary vein
+- aorta
+- pulmonary trunk
+- left ventricular artery
+
+? The following open into the left atrium:
++ pulmonary veins
+- two superior venae cavae
+- portal vein
+- pulmonary trunk
+- azygos vein
+
+? The aorta begins...
++ from the left ventricle
+- from the right ventricle
+- from the right atrium
+- from the left atrium
+- from the pulmonary trunk
+
+? The pulmonary trunk begins...
++ from the right ventricle
+- from the left ventricle
+- from the left atrium
+- from the right atrium
+- from the aorta
+
+? The sinoatrial node is located predominantly:
++ in the wall of the right atrium
+ the- in the interventricular septum sub
+- in the wall of the left ventricle
+-cl in the left atrium
+- at the apex ofavian the heart
+
+? The atrioventricular artery node is located:
++ in the lower part of
+ the interatrial septum
+- at the apex- of the heart the
+- in the wall of the left ventricle vertebral
+- in the wall of the aorta
+ artery- in the interventricular septum near the
+ apex
+
+? The bundle of His passes predominantly through:
++ the interventricular septum
+- the interatrial septum
+- the wall of the right atrium
+- the wall of the aorta
+- the epicardium
+
+? The following branches form the right and left bundle branches of the bundle of His:
++ branches of the atrioventricular bundle
+- branches of the sinoatrial node
+- branches of the vagus nerve
+- coronary veins
+- pulmonary arteries
+
+? The coronary sinus of the heart is located ...
++ in the coronary sulcus on the posterior surface of the heart
+- in the anterior interventricular sulcus
+- in the interatrial septum
+- at the apex of the heart
+- in the cavity of the left ventricle
+
+? The great cardiac vein passes predominantly through:
++ the anterior interventricular sulcus
+- the posterior interventricular sulcus
+- the interatrial septum
+- the aortic sulcus
+- the pericardial cavity
+
+? The anterior interventricular branch is usually a branch of:
++ the left coronary artery
+- the right coronary artery
+- the pulmonary artery
+- the subclavian artery
+- the brachial artery
+
+? The right coronary artery originates from:
++ the ascending aorta
+- the aortic arch
+- the pulmonary trunk
+- the brachiocephalic trunk
+- the left subclavian artery
+
+? The left coronary artery originates from...
++ the left aortic sinus
+- the right ventricle
+- the right aortic sinus
+- the pulmonary trunk
+- the aortic arch
+
+? The blood supply of the interventricular septum is provided mainly by:
++ interventricular branches of the coronary arteries
+- pulmonary veins
+- carotid arteries
+- renal arteries
+- femoral artery
+
+? The pericardium directly surrounds?
++ the heart
+- only the left ventricle
+- only the atria
+- only the aorta
+- the lungs
+
+? The serous pericardium consists of...
++ visceral and parietal layers
+- muscular and bony layers
+- mucous and muscular layers
+- the visceral layer only
+- the parietal layer only
+
+? What is the visceral layer of the serous pericardium called?
++ epicardium
+- endocardium
+- myocardium
+- pleura
+- endothelium
+
+? The following artery is a continuation of the aortic arch in the thoracic cavity:
++ descending aorta
+- brachiocephalic trunk
+- pulmonary trunk
+- common carotid artery
+- subclavian artery
+
+? The number of large branches arising from the aortic arch is:
++ three
+- two
+- four
+- five
+- six
+
+? The first branch of the aortic arch is...
++ brachiocephalic trunk
+- left common carotid artery
+- left subclavian artery
+- right common carotid artery
+- right subclavian artery
+
+? The brachiocephalic trunk divides into:
++ the right common carotid and right subclavian arteries
+- the external and internal carotid arteries
+- the right and left subclavian arteries
+- the brachial and axillary arteries
+- the superior and inferior mesenteric arteries
+
+? The thoracic aorta is located predominantly:
++ in the posterior mediastinum
+- in the anterior mediastinum
+- in the middle mediastinum
+- in the pericardial cavity
+- in the anterior abdominal wall
+
+? The following passes through the aortic hiatus of the diaphragm:
++ aorta
+- superior vena cava
+- esophagus
+- pulmonary trunk
+- portal vein
+
+? The abdominal aorta begins at the level of:
++ Th12
+- Th4
+- Th8
+- L5
+- S1
+
+? The abdominal aorta ends by dividing into:
++ common iliac arteries
+- renal arteries
+- external carotid arteries
+- femoral arteries
+- superior and inferior mesenteric arteries
+
+? The celiac trunk is a branch of:
++ the abdominal aorta
+- the thoracic aorta
+- the subclavian artery
+- the common carotid artery
+- the external iliac artery
+
+? The following artery is NOT a branch of the celiac trunk:
++ superior mesenteric artery
+- left gastric artery
+- splenic artery
+- common hepatic artery
+- all listed
+
+? The superior mesenteric artery supplies:
++ the midgut
+- the foregut
+- the hindgut
+- the kidneys
+- the pelvis
+
+? The inferior mesenteric artery supplies:
++ the upper part of the rectum
+- the stomach
+- the liver
+- the spleen
+- the esophagus
+
+? The renal arteries arise from...
++ the abdominal aorta
+- the thoracic aorta
+- the celiac trunk
+- the common iliac arteries
+- the superior mesenteric artery
+
+? The splenic artery is a branch of:
++ the celiac trunk
+- the superior mesenteric artery
+- the inferior mesenteric artery
+- the renal artery
+- the internal iliac artery
+
+? The common hepatic artery is a branch of:
++ the celiac trunk
+- the superior mesenteric artery
+- the inferior mesenteric artery
+- the abdominal aorta directly
+- the splenic artery
+
+? The right gastric artery is a branch of:
++ the common hepatic artery
+- the left coronary artery
+- the superior mesenteric artery
+- the splenic artery
+- the renal artery
+
+? The left and right gastric arteries participate in the blood supply of the...
++ lesser curvature of the stomach
+- greater curvature of the stomach
+- duodenum
+- spleen
+- pancreas
+
+? The left gastro-omental artery is a branch of:
++ the splenic artery
+- the common hepatic artery
+- the superior mesenteric artery
+- the renal artery
+- the inferior mesenteric artery
+
+? The arterial blood supply of the small intestine is carried out mainly by branches of...
++ the superior mesenteric artery
+- the inferior mesenteric artery
+- the celiac trunk
+- the renal artery
+- the internal iliac artery
+
+? The right common carotid artery begins from...
++ the brachiocephalic trunk
+- the aortic arch
+- the left subclavian artery
+- the internal carotid artery
+- the external carotid artery
+
+? The left common carotid artery begins from...
++ the aortic arch
+- the brachiocephalic trunk
+- the subclavian artery
+- the external carotid artery
+- the superior vena cava
+
+? The common carotid artery divides into...
++ the external and internal carotid arteries
+- the facial and lingual arteries
+- the brachial and radial arteries
+- the superior and inferior thyroid arteries
+- the occipital and facial arteries
+
+? The internal carotid artery in the neck...
++ gives off no branches
+- has numerous branches
+- divides into the brachial artery
+- gives off the lingual artery
+- gives off the facial artery
+
+? The external carotid artery supplies ...
++ the organs and tissues of the head and neck
+- the brain
+- the spinal cord
+- the kidneys
+- the lower limb
+
+? The superior thyroid artery is a branch of:
++ the external carotid artery
+- the internal carotid artery
+- the subclavian artery
+- the vertebral artery
+- the superior mesenteric artery
+
+? The lingual artery is a branch of:
++ the external carotid artery
+- the internal carotid artery
+- the subclavian artery
+- the brachiocephalic trunk
+- the facial artery
+
+? The facial artery is a branch of:
++ the external carotid artery
+- the internal carotid artery
+-- the ophthalmic artery
+
+? The superficial temporal artery is a terminal branch of:
++ the external carotid artery
+- the internal carotid artery
+- the subclavian artery
+- the facial artery
+- the occipital artery
+
+? The maxillary artery is:
++ a branch of the external carotid artery
+- a branch of the internal carotid artery
+- a branch of the vertebral artery
+- a branch of the subclavian artery
+- a branch of the common carotid artery
+
+? The vertebral artery is a branch of:
++ the subclavian artery
+- the common carotid artery
+- the external carotid artery
+- the brachiocephalic trunk
+- the axillary artery
+
+? The vertebral artery passes through:
++ the transverse foramina of the cervical vertebrae
+- the intervertebral foramina
+- the sacral foramina
+- the obturator foramina
+- the foramen magnum
+
+? The right subclavian artery begins:
++ from the brachiocephalic trunk
+- from the aortic arch
+- from the common carotid artery
+- from the axillary artery
+- from the external carotid artery
+
+? The left subclavian artery begins:
++ directly from the aortic arch
+- from the brachiocephalic trunk
+- from the common carotid artery
+- from the axillary artery
+- from the external carotid artery
+
+? The axillary artery is a continuation of:
++ the subclavian artery
+- the brachial artery
+- the radial artery
+- the ulnar artery
+- the common carotid artery
+
+? The axillary artery becomes the brachial artery at the level of:
++ the inferior border of the teres major muscle
+- the superior border of the clavicle
+- the elbow joint
+- the wrist joint
+- the middle of the arm
+
+? The brachial artery divides into:
++ the radial and ulnar arteries
+- the axillary and subclavian arteries
+- the anterior and posterior tibial arteries
+- the superficial and deep temporal arteries
+- the common and external carotid arteries
+
+? The division of the brachial artery occurs predominantly:
++ in the cubital fossa
+- in the axillary fossa
+- in the hand
+- in the region of the shoulder joint
+- in the region of the clavicle
+
+? The pulse in the upper limb is most easily palpated on the:
++ radial artery
+- axillary artery
+- subclavian artery
+- brachiocephalic trunk
+- deep brachial artery
+
+? The ulnar artery is located predominantly:
++ medial to the radial artery
+- lateral to the radial artery
+- behind the clavicle
+- in the neck
+- in the thoracic cavity
+
+? The femoral artery is a continuation of:
++ the external iliac artery
+- the internal iliac artery
+- the popliteal artery
+- the abdominal aorta
+- the superior gluteal artery
+
+? The external iliac artery becomes the femoral artery after passing:
++ under the inguinal ligament
+- through the obturator foramen
+- through the greater sciatic notch
+- through the adductor canal
+- through the popliteal fossa
+
+? The deep artery of the thigh is a branch of:
++ the femoral artery
+- the popliteal artery
+- the internal iliac artery
+- the anterior tibial artery
+- the posterior tibial artery
+
+? The femoral artery becomes the popliteal artery after passing through:
++ the adductor canal
+- the inguinal canal
+- the femoral ring
+- the obturator canal
+- the muscular lacuna
+
+? The popliteal artery divides into:
++ the anterior and posterior tibial arteries
+- the femoral and deep femoral arteries
+- the radial and ulnar arteries
+- the superior and inferior gluteal arteries
+- the internal and external iliac arteries
+
+? The anterior tibial artery supplies predominantly:
++ the anterior compartment muscles of the leg
+- the posterior compartment muscles of the leg
+- the thigh muscles
+- the gluteal muscles
+- the pelvic muscles
+
+? The posterior tibial artery passes predominantly:
++ in the posterior fascial compartment of the leg
+- in the anterior fascial compartment of the leg
+- in the axillary fossa
+- in the femoral canal
+- in the anterior mediastinum
+
+? The fibular artery is usually a branch of:
++ the posterior tibial artery
+- the anterior tibial artery
+- the femoral artery
+- the popliteal artery directly
+- the internal iliac artery
+
+? The internal iliac artery supplies predominantly:
++ the organs and walls of the pelvis
+- the upper limb
+- the brain
+- the entire anterior abdominal wall
+- the esophagus
+
+? The external iliac artery supplies predominantly:
++ the lower limb
+- the brain
+- the heart
+- the lungs
+- the upper limb
+
+? The great saphenous vein of the lower limb drains into the:
++ femoral vein
+- popliteal vein
+- external iliac vein
+- inferior vena cava
+- portal vein
+
+? The small saphenous vein of the lower limb usually drains into the:
++ popliteal vein
+- femoral vein
+- external iliac vein
+- superior vena cava
+- portal vein
+
+? The superior vena cava is formed by the union of:
++ two brachiocephalic veins
+- two subclavian veins
+- two internal jugular veins
+- azygos and hemiazygos veins
+- two femoral veins
+
+? The superior vena cava drains into the:
++ right atrium
+- left atrium
+- left ventricle
+- right ventricle
+- pulmonary trunk
+
+? The inferior vena cava is formed by the union of:
++ common iliac veins
+- external iliac veins
+- femoral veins
+- renal veins
+- hepatic veins
+
+? In case of injury to the femoral artery, the blood supply to the following is most likely to be impaired:
++ the lower limb
+- the brain
+- the upper limb
+- the heart
+- the lungs
+
+? The azygos vein drains into the:
++ superior vena cava
+- inferior vena cava
+- portal vein
+- left renal vein
+- femoral vein
+
+? The portal vein is formed mainly by the union of:
++ the splenic and superior mesenteric veins
+- the inferior and superior venae cavae
+- the hepatic and renal veins
+- the femoral and iliac veins
+- the pulmonary and bronchial veins
+
+? The portal vein is directed toward the:
++ liver
+- heart
+- lungs
+- kidneys
+- spleen
+
+? The inferior mesenteric vein most often drains into the:
++ splenic vein
+- superior vena cava
+- inferior vena cava directly
+- femoral vein
+- hepatic vein
+
+? The following belongs to the portal system:
++ portal vein
+- superior vena cava
+- inferior vena cava
+- azygos vein
+- femoral vein
+
+? Portocaval anastomoses are most pronounced in the region of:
++ the esophagus, rectum, and anterior abdominal wall
+- the heart
+- the lungs
+- the kidneys
+- the upper limb
+
+? Difficulty in blood outflow through the portal vein may lead to:
++ portal hypertension
+- pulmonary hypertension
+- arterial hypotension
+- bradycardia
+- aortic insufficiency
+
+? Arterial anastomoses are important for:
++ collateral circulation
+- lymph formation
+- bile formation
+- formation of the venous valve apparatus
+- conduction of nerve impulses
+
+? The following directly drains into the inferior vena cava:
++ hepatic veins
+- pulmonary veins
+- portal vein
+- splenic vein
+- superior mesenteric vein
