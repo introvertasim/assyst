@@ -1,0 +1,629 @@
+? In obstetric practice, an Rh conflict may arise if... .
+    + in the mother Rh(-) blood, in the fetus Rh(+) blood of the same group
+    - in the mother Rh(+) blood, in the fetus Rh(-) blood of the same group
+    - the mother has Rh(+) blood, and the fetus has Rh(+) blood of a different group
+    - the mother has Rh(-) blood and the fetus has Rh(-) blood of a different group
+    - the mother and fetus have blood of different types, but with the same Rh factor
+    
+    ? In determining the blood group, agglutination of erythrocytes was observed with anti-B zoliclon and negative with anti-A zoliclon. Determination of the Rh factor using anti-D zoliclon showed the presence of agglutination. The blood under study belongs to... .
+    + to the III (B) group Rh (+)
+    - to the I (O) group Rh (+)
+    - to the II (A) group Rh (+)
+    - to the II (A) group Rh (-)
+    - to the IV (AB) group Rh (+)
+    
+    ? When determining the blood group and Rh affiliation, the patient had II (A), Rh (+). Taking into account the results of laboratory analysis, the patient was transfused with 150 ml of blood of group II (A), Rh (+), 40 minutes after the transfusion, blood transfusion reactions occurred: fever, increased breathing and pulse, shortness of breath, headache. The cause of the blood transfusion reaction is... .
+    + biological incompatibility of donor and recipient blood
+    - a large amount of donor blood caused hemolysis of the recipient's erythrocytes
+    - agglutination of donor red blood cells with recipient antibodies
+    - the presence of a concomitant disease
+    - a small amount (150 ml) of blood transfused to replace blood loss
+    
+    ? The division of blood into groups is based on the presence of agglutinogens and agglutinins in the blood ... .
+    + group 1 - 0, α, β; group 2 - A, β; group 3 - B, α; group 4 - AB, O
+    - group 1 - AB, o; group 2 - A, β; group 3 - B, α; group 4 - 0, α, β
+    - group 1 - A, β group 2 - B, α; group 3 - AB, o; group 4 - 0, α, β
+    - group 1 - B, α; group 2 - A, β; group 3 - 0, α, β; group 4 - AB, o
+    - group 1 - A, β; group 2 - B, α; group 3 - AB, o; group 4 - 0, α
+    
+    ? Agglutinogens are part of the following component of blood:
+    + erythrocytes
+    - leukocytes
+    - plasma
+    - neutrophils
+    - platelets
+    
+    ? In the study of blood group according to the ABO system, the agglutination reaction occurred in standard serums of groups 1, 2 and 3. The blood under study belongs to ... group.
+    + IY (AB)
+    - I (O)
+    - II (A)
+    - II (AI)
+    - III (B)
+    
+    ? Patient R. with blood group AB (IV) Rh (-) needs a second blood transfusion. Two months ago, he received a blood transfusion from donor K. Why can't the patient be transfused with blood from the same donor this time? Because the patient has already been immunized for:
+    + blood group of the donor K.
+    - system AB0
+    - system Rh
+    - system AB0 and Rh
+    - one of the 20 red blood cell systems
+    
+    ? In obstetric practice, Rh conflict may arise in repeated pregnancies ... .
+    + if the father has Rh-positive blood and the mother is Rh-negative
+    - if the father has Rh-negative blood and the mother has Rh-positive blood
+    - if both parents have Rh-positive blood
+    - if both parents have Rh-negative blood
+    - if the mother has Rh-positive blood and the fetus is Rh-negative
+    
+    ? Erythrocytes are characterized by... .
+    + formation in red bone marrow cells, destruction in the spleen and liver, life expectancy of 120 days, ability to deform
+    - destruction in red bone marrow cells, ability to deform, formation in the spleen and liver
+    - destruction in the spleen and liver, neutralization of histamine in the body, life expectancy 10 days
+    - life expectancy 120 days, neutralization of histamine in the body, destruction in red bone marrow cells
+    - ability to deform, neutralization of histamine in the body, destruction in the cells of the red bone marrow
+    
+    ? Rh conflict can occur ... .
+    + if, the mother has Rh blood and the fetus has Rh+
+    - in case of repeated transfusion of Rh-blood Rh+ to the recipient
+    - if the mother has Rh+ blood and the fetus has Rh-
+    - with a single Rh+ blood transfusion to a patient with Rh+
+    - if the mother and fetus have Rh- blood
+    
+    ? Patient S., 50 years old, complains of diapedic hemorrhages, increased fragility of blood vessels. In the patient's blood test: Erythrocytes - 4.5 * 1012/l, hemoglobin - 150 g/l, leukocytes - 8.7 * 109/l, platelets - 120 * 109/l, ESR - 8 mm/h.
+    + low platelet count
+    - high red blood cell content
+    - increased white blood cell count
+    - low in hemoglobin
+    - increased ESR
+    
+    ? In the patient, it is necessary to assess the rate of development of coagulation hemostasis. The most accurate characterization of this process will be ... .
+    + total blood clotting time
+    - number of red blood cells in the blood
+    - number of red blood cells
+    - blood plasmin content
+    - number of platelets in the blood
+    
+    ? ... It has a pronounced effect on fresh fibrin clots before their retraction.
+    + Fibrinolysin
+    - Heparin
+    - Prothrombin
+    - Proconvertin
+    
+    ? A 32-year-old male mountaineer did not have any complaints about his health. The measured parameters of his body were within normal limits. However, a blood test showed an increased number of erythrocytes (7*1012/l) and a decrease in their size (5 μm in diameter).
+    + adaptive response of the body to hypoxia
+    - acute erythroid leukemia
+    - erythropoietin-producing tumor
+    - iron deficiency
+    - iodine deficiency
+    
+    ? A 25-year-old allergic man sought medical help during an exacerbation. His leukocyte formula consists of basophils -- 0%, eosinophils -- 15%, banded neutrophils -- 3%, segmented neutrophils -- 52%, lymphocytes -- 25%, monocytes -- 5%. Leukocyte cell that reacted to the described condition:
+    + eosinophils
+    - band neutrophils
+    - segmented neutrophils
+    - lymphocytes
+    - monocytes
+    
+    ? Central hematopoietic organ ... .
+    + red bone marrow
+    - lymph node
+    - liver
+    - tonsils
+    - >spleen
+    
+    ? Lymph node is ... .
+    + structure consisting of cortical and medullary matter
+    - shapeless accumulation of lymphocytes
+    - structure consisting of identical lymphoid follicles
+    - structure consisting of strands of lymphoid tissue
+    - three-dimensional network of reticular fibers
+    
+    ? In the first phase of coagulation hemostasis, the following occurs:
+    + formation of prothrombinase
+    - formation of fibrin
+    - retraction of fibrin thrombus
+    - thrombin formation
+    - synthesis of fibrinogen in the liver
+    
+    ? When preparing the patient for abdominal surgery, the doctor referred him for a blood test to rule out thrombocytopenia. What should be the number of platelets in the norm?
+    + 200 -- 400 x 109/l
+    - 400 -- 500 x 109/l
+    - 200 -- 400 x 1012/l
+    - 300 -- 400 x 1012/l
+    - 370 -- 450 x 1011/l
+    
+    ? Normally, the reaction of arterial blood ... .
+    + 7,40
+    - 7,50
+    - 8,10
+    - 5,40
+    - 6,85
+    
+    ? Biological hemolysis occurs in ... .
+    + transfusion of incompatible blood
+    - action of acids, alkalis, ether
+    - action of high temperature
+    - decrease in plasma osmotic pressure
+    - action of electric current
+    
+    ? Chemical hemolysis occurs in ... .
+    + action of acids, alkalis, ether
+    - transfusion of incompatible blood
+    - action of high temperature
+    - decrease in plasma osmotic pressure
+    - action of electric current
+    
+    ? Mechanical hemolysis occurs in ... .
+    + vigorous shaking of the blood tube
+    - transfusion of incompatible blood
+    - action of high temperature
+    - decrease in plasma osmotic pressure
+    - action of electric current
+    
+    ? The blood system includes ... .
+    + organs of hematopoiesis and blood destruction, circulating blood, apparatus for regulating their functions
+    - circulating blood, heart, vessels, apparatus for regulating their functions
+    - organs of hematopoiesis and blood destruction, blood vessels, blood
+    - circulating blood, hematopoietic organs, blood distribution
+    - circulating blood, blood depot, bone marrow, vessels
+    
+    ? The viscosity of blood depends on the amount of blood in it ... .
+    + erithrocytes and proteins
+    - glucose and HB
+    - oxyhemoglobin and sodium salts
+    - leukocytes and proteins
+    - platelets and calcium salts
+    
+    ? A 10-year-old girl has a long bleeding did not stop. In this regard, it was necessary consult a doctor. A change in .... formed blood elements led to increased bleeding time.
+    + platelets.
+    - neutrophils.
+    - lymphocytes.
+    - basophils.
+    - erythrocytes.
+    
+    ? Hemoglobin in the body ... .
+    + participates in the transport of carbon dioxide, oxygen, maintains pH
+    - provides oxygen transport, participates in blood clotting
+    - maintains pH, transports nitrogen, oxygen
+    - participates in clotting, immune reactions, maintains pH
+    - provides immunity, creates oncotic pressure, transports carbohydrates
+    
+    ? Laboratory blood testing revealed insufficient the number of immunoglobulins. .... immune cells systems produce immunoglobulins.
+    + Plasma cells.
+    - Plasmoblasts.
+    - T-killers.
+    - T-helper cells.
+    - T suppressors.
+    
+    ? It is known that plasma cells produce specific antibodies to a specific antigen. When the antigen is injected, the number of plasma cells increases. Due to .... blood cells, there is an increase in the number of plasma cells.
+    + B--lymphocytes.
+    - basophils.
+    - T--lymphocytes.
+    - neutrophils.
+    - eosinophils.
+    
+    ? Autoimmune inflammation of the thyroid gland is accompanied by a significant increase in the number of plasma cells. This is associated with the proliferation and differentiation of blood cells.
+    + B-lymphocytes.
+    - T -- suppressors.
+    - T-helper.
+    - tissue basophils.
+    - T-killers.
+    
+    ? When studying a blood smear of an animal with an inflammatory process, a large number of rounded cells with segmented nuclei, weakly oxyphilic cytoplasm and fine pink-violet granularity in the cytoplasm can be seen. .... These are blood cells.
+    + Eosinophils.
+    - Reticulocytes.
+    - Neutrophils.
+    - Basophils.
+    - Lymphocytes.
+    
+    ? In an animal with suspected echinococcosis (helminthic invasion), a large number of cells with a segmented nucleus and large bright pink granules in the cytoplasm were found in the blood smear. .... These are blood cells.
+    + Eosinophils.
+    - Basophils.
+    - Erythrocytes.
+    - Neutrophils.
+    - Lymphocytes.
+    
+    ? After stinging the bee, after a few hours, allergic phenomena on the skin (swelling, itching) disappeared. It is known that one of the mediators of allergy is histamine. .... Blood cells took part in the elimination of excess histamine at the site of the sting.
+    + Eosinophils.
+    - Neutrophils.
+    - Basophils.
+    - Lymphocytes.
+    - Monocytes.
+    
+    ? Hematopoietic organs include:
+    + red bone marrow, spleen, lymph nodes.
+    - kidneys, red bone marrow, spleen.
+    - red bone marrow, liver, lymph nodes.
+    - spleen, kidneys, liver.
+    - red bone marrow, liver, kidneys.
+    
+    ? For blood cells... phagocytic function is basic.
+    + neutrophils, monocytes
+    - lymphocytes, eosinophils
+    - basophils, B-lymphocytes
+    - T-lymphocytes, monocytes
+    - eosinophils, basophils
+    
+    ? In embryonic hematopoiesis, there are ...
+    + three periods
+    - one period
+    - two periods
+    - four periods
+    - five periods
+    
+    ? The first foci of hematopoiesis in embryogenesis appear in ... .
+    + yolk sac
+    - bone marrow
+    - thymus
+    - liver
+    - Elesenke
+    
+    ? Hematopoiesis in the liver ends ... .
+    + towards the end of intrauterine development
+    - at 4-5 weeks of intrauterine development
+    - at 4-5 months of intrauterine development
+    - lasts a lifetime
+    - at 2-4 weeks of intrauterine development
+    
+    ? In postembryonic erythropoiesis, the sequence of stages is correct:
+    + erythroblast-pronormocyte-basophilic normocyte
+    - erythroblast-basophilic normocyte-polychromatophilic normocyte
+    - pronormocyte-erythroblast-basophilic normocyte
+    - erythroblast-oxyphilic normocyte-reticulocyte
+    - erythroblast-osyphil normocyte-basophilic normocyte
+    
+    ? Poetin sensitive cells are ... .
+    + unipotent
+    - totipotent
+    - polypotent
+    - multipotent
+    - bipotent
+    
+    ? In postnatal erythropoiesis, the erythroblast stage is followed by ... .
+    + pronormocyte
+    - basophilic normocyte
+    - erythropoietin-sensitive cell
+    - reticulocyte
+    - oxyphilic normocyte
+    
+    ? In postnatal erythropoiesis, release from the nucleus occurs at the stage ...
+    + oxyphilic normocyte
+    - pronormocyte
+    - basophilic normocyte
+    - polychromatophilic normocyte
+    - erythrocyte
+    
+    ? In the process of erythropoiesis, ... .
+    + reduction of cell size
+    - increase in cell size
+    - increasing the size of the kernel
+    - increasing the ploidy of the nucleus
+    - appearance of specific granularity
+    
+    ? Immune function is one of the protective functions of blood. As a result ... a specific type of immunity is realized.
+    + production of antibodies by B-lymphocytes
+    - production of bactericidal substances
+    - phagocytic activity of leukocytes
+    - cytotoxic effect
+    - binding of antigens to plasma proteins
+    
+    ? The patient has blood group I, if agglutination ... .
+    + absent in all serums
+    - occurred with serums of groups I, II and III
+    - occurred with serums of groups III and IV
+    - occurred with group I and II sera
+    - occurred with serums of groups I and III
+    
+    ? Erythropoiesis requires ... .
+    + vitamin B12, iron, folic acid
+    - vitamins D and B6, acetic acid
+    - intrinsic Castle factor, vitamin E, zinc
+    - biotin, vitamin B3, manganese
+    - retinol, fluoride, vitamin B6
+    
+    ? Formed elements of blood are formed in ... .
+    + bone marrow
+    - Peyer's plaques
+    - lymphatic vessels
+    - spleen
+    - thymus gland
+    
+    ? Erythropoietin is produced in ... .
+    + juxtaglomerular apparatus of the kidneys
+    - juxtamedular apparatus of the kidneys
+    - pituitary gland, muscles
+    - lungs, stomach
+    - hypothalamus, bone marrow
+    
+    ? Erythroid cells can enter the peripheral blood starting from the stage
+    + reticulocyte
+    - erythrocyte
+    - oxyphilic, normocyte
+    - basophilic normocyte
+    - polychromatophilic nomocyte
+    
+    ? A patient who suffers from hemorrhoids for a long time due to constant loss of iron in the blood has an iron deficiency in the body. What is the red blood indicator that will be the first to react to iron deficiency:
+    + level of hemoglobin
+    - red blood cell count
+    - hematocrit number
+    - level of erythropoietin
+    - erythrocyte sedimentation rate
+    
+    ? A laboratory test of the blood of a healthy 32-year-old woman is carried out. .... percent should be formed elements when determining the hematocrit index.
+    + 40-45%
+    - 30-36%
+    - 36-38%
+    - 28-35%
+    - 48-50%
+    
+    ? Injection ... of the solution into the vascular bed will not change the osmotic pressure of the blood plasma.
+    + NaCl (0.9%)
+    - Glucose (0.9%)
+    - NaCl (0.2%)
+    - CaCl2 (20%)
+    - Sorbitol 1%
+    
+    ? Soluble fibrinogen is converted into insoluble fibrin by the action of ... .
+    + thrombin and factor XIII
+    - thromboplastin and factor V
+    - prothrombin and factor VI
+    - fibrinolysin and factor XI
+    - fibrinase and factor IX
+    
+    ? Blood plasma contains proteins:
+    + albumins, globulins, fibrinogen
+    - globulins, myoglobin, fibrin
+    - fibrinogen, carbhemoglobin, albumin
+    - myoglobin, oxyhemoglobin, globulins
+    - albumins, methaemoglobin, fibrinogen
+    
+    ? The function of leukocytes is ... .
+    + participation in phagocytosis, immunity and allergy reactions
+    - maintenance of osmotic pressure, participation in blood clotting, transport of gases
+    - regulation of pH, transport, phagocytosis, immunity, allergy
+    - participation in ESR reactions, maintenance of oncotic pressure, salt transport
+    - respiratory function, viscosity maintenance, amino acid transport
+    
+    ? Functions of eosinophils ... .
+    + antiparasitic, neutralization of histamine in the body, phagocytosis, bactericidal activity
+    - antiparasitic, bactericidal activity, exocytosis
+    - neutralization of histamine in the body, bactericidal activity, endocytosis
+    - phagocytosis, bactericidal activity, neutralization of acetylcholine in the body
+    - bactericidal activity, neutralization of adrenaline in the body, antiparasitic
+    
+    ? Functions of neutrophils ... .
+    + phagocytosis, bactericidal activity, promote tissue regeneration
+    - phagocytosis, antiparasitic, promote tissue regeneration
+    - bactericidal activity, phagocytosis, antiparasitic
+    - promote tissue regeneration, antiparasitic
+    - bactericidal activity, neutralization of histamine in the body
+    
+    ? The function of basophils is ... .
+    + production of histamine and heparin
+    - maintaining blood pH constancy
+    - production of interferon, lysozyme
+    - transport of antibodies
+    - activation of the complement system
+    
+    ? Leukocytes that are not capable of phagocytosis, but produce antibodies- ...
+    + lof imphocytes
+    - neutrophils
+    - bazophiles.
+    - eosinophils.
+    - monocytes.
+    
+    ? Specific mechanisms of immunity include ... .
+    + o formation ofantibodies or immunoglobulins
+    - tothe skin and mucous membranes
+    - blood proteins: gamma globulins, interferon, lysozyme
+    - phagocytosis
+    - exocytosis
+    
+    ? Non-specific defense mechanisms include ... .
+    + phagocytosis
+    - tothe skin and mucous membranes
+    - blood proteins: gamma globulins, interferon, lysozyme
+    - exocytosis
+    - o formation ofantibodies or immunoglobulins
+    
+    ? The hematologist did not prescribe iron-containing herbal foods for treatment to a patient with iron deficiency anemia. He recommended a diet fortified with meat and liver along with plant-based foods. Explain what the diet is based on:
+    + plants contain ferric iron (Fe3+)
+    - plants contain ferrous iron (Fe2+)
+    - plants do not contain essential amino acids
+    - plants contain cholesterol
+    - plants contain monovalent iron (Fe+)
+    
+    ? With the development of alkalosis, various tissues and organs of the body are involved in the normalization of the acid-base state. The role of the kidneys in reducing the level of blood alkalinity:
+    + intensive excretion of dibasic sodium phosphate
+    - intensive excretion of monobasic sodium phosphate
+    - intensive excretion of chlorine ions
+    - intensive excretion of carbonic acid
+    - intensive excretion of hydrogen ions
+    
+    ? With the development of alkalosis, various tissues and organs of the body are involved in the normalization of the acid-base state. The role of the kidneys in reducing the level of blood alkalinity:
+    + intensive excretion of sodium bicarbonate
+    - intensive excretion of monobasic sodium phosphate
+    - intensive excretion of chlorine ions
+    - intensive excretion of carbonic acid
+    - intensive excretion of hydrogen ions
+    
+    ? A 23-year-old man was taken to the intensive care unit with a knife wound. All treatment procedures were provided properly. But a complete blood count showed significant erythropenia. Decide in which case the level of red blood cells corresponds to this condition:
+    + 3.7*1012/l
+    - 4.6*1012/l
+    - 5.0*1012/L
+    - 6.7*1012/L
+    - 8.0*1012/l
+    
+    ? The patient's blood test showed: erythrocytes - 4.2 * 1012/l, leukocytes - 12 * 109/l (basophils - 1%, eosinophils - 2%, banded neutrophils - 15%, segmented neutrophils - 48%, lymphocytes - 29%, monocytes - 5%), platelets - 250 * 109/l, ESR - 20 mm/h.
+    + total white blood cell count, band neutrophils, ESR
+    - number of red blood cells, platelets, ESR
+    - total number of leukocytes, basophils, lymphocytes
+    - erythrocytes, eosinophils, platelets
+    - monocytes, platelets, ESR
+    
+    ? ESR (erythrocyte sedimentation rate) is the rate at which erythrocytes settle in one hour. Normal ESR level in women:
+    + 7 -12 mm/h
+    - 0-2mm/h
+    - 15-20mm/h
+    - 25-30mm/h
+    - 30-50mm/h
+    
+    ? An increase in the number of red blood cells in the blood is called erythrocytosis. The number of red blood cells that can be evaluated as red blood cell in men is:
+    + 8.0 *1012/l
+    - 4.6 *1012/l
+    - 4.8 *1012/l
+    - 5.0 *1012/l
+    - 5.4 *1012/l
+    
+    ? An increase in the number of red blood cells in the blood is called erythrocytosis. The number of red blood cells that can be evaluated as red blood cell in women:
+    + 7.0*1012/l
+    - 3.7*1012/l
+    - 3.8*1012/l
+    - 3.9*1012/l
+    - 4.2*1012/l
+    
+    ? A decrease in the number of red blood cells in the blood is called erythropenia. The number of red blood cells that can be rated as erythropenia in men is:
+    + 3,2*1012/l
+    - 4,6*1012/l
+    - 4,8*1012/l
+    - 5,0*1012/l
+    - 8.0 *1012/l
+    
+    ? A decrease in the number of red blood cells is called erythropenia. The number of red blood cells that can be evaluated as erythropenia in women:
+    + 2,8*1012/l
+    - 4,6*1012/l
+    - 4,8*1012/l
+    - 5,0*1012/l
+    - 7,0*1012/l
+    
+    ? Hemoglobin is made up of globular protein subunits; each subunit is made up of a protein chain (globin) that is closely related to heme; heme, in turn, contains an iron ion. Decide which parameters of the hemoglobin molecule are normal:
+    + 4 subunits, 1 heme group per 1 subunit, Fe2+
+    - 3 subunits, 2 heme groups per 1 subunit, Fe3+
+    - 5 subunits, 1 heme group per 1 subunit, Fe4+
+    - 4 subunits, 3 heme groups per 1 subunit, Fe7+
+    - 5 subunits, 1 heme group per 5 subunits, Fe2+
+    
+    ? Substances whose concentration has the strongest effect on colloidal osmotic pressure:
+    + albumins
+    - globulins
+    - fibrinogen
+    - sodium
+    - potassium
+    
+    ? Leukocytes that are the first to migrate to the focus of inflammation, producing interferon, closely interacting with macrophages, T- and B-lymphocytes, contributing to tissue regeneration
+    + neutrophils
+    - eosinophils
+    - lymphocytes
+    - basophils
+    - monocytes
+    
+    ? Changes in vascular-platelet hemostasis with a platelet count in the blood of 150 x 109/l
+    + increased capillary bleeding time
+    - blood clotting time will decrease
+    - will reduce the time of capillary bleeding
+    - increased blood clotting time
+    - clotting time and bleeding time are reduced
+    
+    ? Color index of the blood of the examinee with the number of erythrocytes - 4.7x1012 /l, hemoglobin concentration - 116 g/l
+    + 0.74- hypochromia
+    - 0.74 - hyperchromia
+    - 0.85 - hyperchromia
+    - 0.85- normochromia
+    - 0.97- normochromia
+    
+    ? A woman's blood test: ESR 46 mm/h, fibrinogen 6 g/l.
+    + pregnancy
+    - accommodation in the mountains
+    - working in the cold
+    - fluid loss
+    - physical activity
+    
+    ? General blood count: hemoglobin - 101 g/l, erythrocytes - 3.2x1012/l, CPK-0.94, platelets - 12x109/l, leukocytes - 6.4x109/l, band - 2%, segmented - 59%, eosinophils - 3%, lymphocytes - 28%, monocytes - 8%, ESR - 5 mm/h
+    What changes are observed?
+    + hemoglobin decreased, erythrocytopenia, normochromia, thrombocytopenia
+    - hemoglobin decreased, erythrocythemia, shift of the leukocyte formula to the right
+    - hypochromia, thrombocytopenia, shift of the leukocyte formula to the left
+    - hemoglobin decreased, hypochromia, lymphocytosis
+    - erythrocytopenia, hypochromia, monocytosis
+    
+    ? Blood group, if agglutination occurred with the anti-A reagent and was absent with anti-B and anti-D reagents when determining the blood group using monoclonal test reagents.
+    + A(II) Rh --
+    - (II) Rh+
+    - O(I) Rh+
+    - B(III) Rh --
+    - AB (IV)Rh --
+    
+    ? A patient with group AB (IY) was transfused with more than 3 liters of blood group 0 (1). Why did he develop jaundice after blood transfusion and the concentration of non-conjugated bilirubin in the blood increased sharply?
+    + hemolysis of erythrocytes occurred
+    - violation of bilirubin conjugation
+    - blocked bile ducts
+    - altered erythropoiesis
+    - liver damage
+    
+    ? A shift in the leukocyte formula to the left is:
+    + increasing the number of young and band neutrophils
+    - reduction in the number of young and band neutrophils
+    - increased lymphocyte and monocyte counts
+    - increased basophils and eosinophils
+    - increase in all forms of leukocytes
+    
+    ? In the last month of pregnancy, the content of fibrinogen in the blood plasma is 2 times higher than normal. In this case, the expected ESR value ... .
+    + 40-50 mm/hr
+    - 0-5 mm/hr
+    - 3-12 mm/hr
+    - 5-10 mm/hr
+    - 10-15 mm/hr
+    
+    ? In a patient with bronchial asthma, changes in the composition of leukocytes were noticed. This caused suspicion of the allergic origin of the disease. This assumption arose in connection with ... in the blood.
+    + increasing the number of eosinophils
+    - reducing the number of neutrophils
+    - increasing the number of basophils
+    - increasing the number of monocytes
+    - reducing the number of eosinophils
+    
+    ? Platelets ... .
+    + secrete retractoenzyme, serotonin, contribute to the formation of thromboplastin
+    - have group specificity, isolate antibodies, and tolerate O2
+    - secrete serotonin, participate in allergic reactions, and tolerate water
+    - promote the formation of thromboplastin, are mast cell antagonists
+    - secrete serotonin, heparin, and prevent blood clotting
+    
+    ? Substances that prevent blood clotting include... .
+    + heparin
+    - adrenaline
+    - acetylcholine
+    - calcium
+    - pepsin
+    
+    ? In phase 1 of fibrinolysis, there is ... .
+    + formation of blood plasminogen activator
+    - conversion of plasminogen to plasmin
+    - fibrin breakdown
+    - formation of blood and tissue prothrombinase
+    - conversion of fibrinogen to fibrin
+    
+    ? The post-phase includes ... .
+    + clot retraction, fibrinolysis
+    - fibrinolysis, red blood cell aggregation
+    - white thrombus formation
+    - formation of blood and tissue prothrombinase
+    - formation of fibrin from fibrinogen
+    
+    ? In the first phase of coagulation hemostasis, ... .
+    + formation of blood and tissue prothrombinase
+    - conversion of prothrombin to thrombin
+    - formation of fibrin from fibrinogen
+    - clot retraction
+    - fibrinolysis
+    
+    ? In the 2nd phase of coagulation hemostasis, ... .
+    + thrombin
+    - Prothrombin
+    - tissue prothrombinase
+    - blood prothrombinase
+    - antithrombin
+    
+    ? Patient V., for medical reasons, needs to undergo a blood transfusion. During blood transfusion, an Rh conflict may arise if... .
+    + blood of the donor Rh (+), the recipient of Rh (-)
+    - blood of the donor Rh (-), the recipient of Rh (+)
+    - blood of the donor Rh (+), the recipient with Rh (+)
+    - blood of the donor Rh (-), the recipient of Rh (-)
+    - Rh affiliation of the donor and recipient are the same
